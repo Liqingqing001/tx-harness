@@ -1,0 +1,9 @@
+order_id,region,amount,refund,status,revision
+o1,华东,100,20,paid,1
+o2,华南,200,0,paid,1
+o3,华东,80,0,cancelled,1
+o4,华南,abc,0,paid,1
+o5,华东,50.50,0,paid,1
+o6,华南,120,10,paid,1
+o6,华南,130,10,paid,2
+o7,华东,40,60,paid,1

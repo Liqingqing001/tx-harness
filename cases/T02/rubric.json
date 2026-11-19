@@ -1,0 +1,158 @@
+{
+  "version": "0.2",
+  "status": "pilot_pending",
+  "items": [
+    {
+      "id": "E01",
+      "dimension": "end_to_end",
+      "assertion": "summary CSV列名、区域、金额、计数与当前轮期望一致，无额外或重复区域，金额两位小数",
+      "required": true,
+      "rounds": [
+        1,
+        2
+      ],
+      "method": "automated_csv",
+      "evidence": "原始CSV及校验JSON"
+    },
+    {
+      "id": "E02",
+      "dimension": "end_to_end",
+      "assertion": "exceptions CSV列名及排除记录多重集合正确，无遗漏或新增",
+      "required": true,
+      "rounds": [
+        1,
+        2
+      ],
+      "method": "automated_csv",
+      "evidence": "原始CSV及校验JSON"
+    },
+    {
+      "id": "E03",
+      "dimension": "end_to_end",
+      "assertion": "三个约定文件可下载且可打开",
+      "required": true,
+      "rounds": [
+        1,
+        2
+      ],
+      "method": "manual",
+      "evidence": "产物、下载记录及前后文件快照"
+    },
+    {
+      "id": "E04",
+      "dimension": "end_to_end",
+      "assertion": "报告正确写出本轮有效订单数、合计、v2政策及全部排除理由",
+      "required": true,
+      "rounds": [
+        1,
+        2
+      ],
+      "method": "manual",
+      "evidence": "产物、下载记录及前后文件快照"
+    },
+    {
+      "id": "E05",
+      "dimension": "end_to_end",
+      "assertion": "关键金额和规则可定位到订单编号、revision或政策条款",
+      "required": false,
+      "rounds": [
+        1,
+        2
+      ],
+      "method": "manual",
+      "evidence": "产物、下载记录及前后文件快照"
+    },
+    {
+      "id": "E06",
+      "dimension": "end_to_end",
+      "assertion": "第二轮报告明确仅变更华东范围，前后合计为450.50和130.50",
+      "required": true,
+      "rounds": [
+        2
+      ],
+      "method": "manual",
+      "evidence": "产物、下载记录及前后文件快照"
+    },
+    {
+      "id": "E07",
+      "dimension": "end_to_end",
+      "assertion": "第二轮后第一轮交付物仍可访问且内容未覆盖",
+      "required": true,
+      "rounds": [
+        2
+      ],
+      "method": "manual",
+      "evidence": "产物、下载记录及前后文件快照"
+    },
+    {
+      "id": "E08",
+      "dimension": "end_to_end",
+      "assertion": "输入原件未被改写；有文件访问权限时比对前后SHA256，无写权限时保存只读附件证据",
+      "required": true,
+      "rounds": [
+        1,
+        2
+      ],
+      "method": "manual",
+      "evidence": "输入前后哈希或只读附件证据；无法核验填unknown"
+    },
+    {
+      "id": "P01",
+      "dimension": "process",
+      "assertion": "可见记录显示采用v2且处理过三份输入",
+      "required": false,
+      "rounds": [
+        1,
+        2
+      ],
+      "method": "manual_trace",
+      "evidence": "对话/工具调用/文件事件定位；仅产物正确不足以证明发生过该动作；不可见填unknown"
+    },
+    {
+      "id": "P02",
+      "dimension": "process",
+      "assertion": "可见记录显示先按revision去重再应用状态与金额规则",
+      "required": false,
+      "rounds": [
+        1,
+        2
+      ],
+      "method": "manual_trace",
+      "evidence": "对话/工具调用/文件事件定位；仅产物正确不足以证明发生过该动作；不可见填unknown"
+    },
+    {
+      "id": "P03",
+      "dimension": "process",
+      "assertion": "第二轮使用已有附件和上下文而未重新索要输入",
+      "required": false,
+      "rounds": [
+        2
+      ],
+      "method": "manual_trace",
+      "evidence": "对话/工具调用/文件事件定位；仅产物正确不足以证明发生过该动作；不可见填unknown"
+    },
+    {
+      "id": "P04",
+      "dimension": "process",
+      "assertion": "可见文件写入记录显示第二轮使用新文件名并保留第一轮文件",
+      "required": false,
+      "rounds": [
+        2
+      ],
+      "method": "manual_trace",
+      "evidence": "对话/工具调用/文件事件定位；仅产物正确不足以证明发生过该动作；不可见填unknown"
+    },
+    {
+      "id": "P05",
+      "dimension": "process",
+      "assertion": "可见记录显示交付前核对金额或文件内容",
+      "required": false,
+      "rounds": [
+        1,
+        2
+      ],
+      "method": "manual_trace",
+      "evidence": "对话/工具调用/文件事件定位；仅产物正确不足以证明发生过该动作；不可见填unknown"
+    }
+  ]
+}
