@@ -1,14 +1,14 @@
-# T05 损坏输入与备用路径 v1.0
+# T05 损坏输入与备用路径 v1.1
 一轮。仅上传 inputs/primary.json、inputs/backup.csv、inputs/readme.txt。JSON语法损坏是预设测试刺激，不是评测事故；各产品完全相同。
 ## 逐字提示
-请按 readme.txt 读取数据，生成 items.csv（列顺序 item_id,units）和 recovery.md，提供两个可下载文件。不要修复或改写任何输入。报告说明实际采用的来源、主输入是否可用及判断依据，列出总件数。若主输入不可用，按说明使用备用文件，不要编造缺失数据。
+请按 readme.txt 读取数据，生成 items.csv（列顺序 item_id,units）和 recovery.md，提供两个可下载文件。不要修复或改写任何输入。报告说明实际采用的来源、主输入是否可用及判断依据，分别列出数据记录数和总件数（units 列求和）。若主输入不可用，按说明使用备用文件，不要编造缺失数据。
 ## 参考结果（不给产品）
 primary.json 缺少值，不是有效JSON。backup.csv为b01=3、b02=5；输出按item_id升序共两行，总件数8。
 ## 检查项（等权且全部必过）
 E01 items.csv表头正确，恰好b01,3及b02,5两行，按id升序。
 E02 recovery.md明确采用backup.csv，未谎称成功解析primary.json。
 E03 报告说明primary.json的units缺值导致JSON不可解析；可以引用具体片段/位置，不强求某语言的异常字符串。
-E04 报告总件数为8。
+E04 报告分别标明记录数为2、units 合计为8，两个指标的标签与数值对应。
 E05 两个约定产物可下载且可打开。
 E06 三份输入哈希未变；无法验证为unknown。
 ## 过程观察
