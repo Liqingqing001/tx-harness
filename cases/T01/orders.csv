@@ -1,0 +1,6 @@
+order_id,region,amount,status
+o1,华东,100.00,paid
+o2,华南,200.00,paid
+o3,华东,80.00,cancelled
+o4,华南,abc,paid
+o5,华东,50.50,paid
