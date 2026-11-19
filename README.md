@@ -22,11 +22,10 @@
 
 正式设计：4任务 × 5产品 × 3次 = 60个完整试验，共90轮；试跑后冻结再执行。每任务25%，先报告任务完成率，再报告分数与未知项区间。结果、过程、根因分开，无法控制模型和Skill时不宣称纯Harness因果排名。
 
-输入均为合成数据，只给产品对应 inputs/ 和任务提示，不上传评分标准或答案。T03/T04/T05评分条款写在任务卡；输入哈希见各自input-manifest.json。新增自动验收器待试跑前补齐，现阶段可按任务卡人工验收。
+输入均为合成数据，只给产品对应 inputs/ 和任务提示，不上传评分标准或答案。T03/T04/T05评分条款写在任务卡；输入哈希见各自input-manifest.json。新增自动验收器 scripts/check_office.py 已覆盖 T03 字节/清单及 T04/T05 CSV；报告、下载与过程仍须人工验收。
 T02已有CSV验收器：`python scripts/check_t02.py --outputs <产物目录> --round 1`（第二轮用2）。它仅核验CSV，不替代人工验收。
 校验器测试：`python -m unittest discover -s tests -v`。
 
 [运行模板](runs/TEMPLATE.md) / [报告模板](reports/report-template.md) / [ChangeLog](CHANGELOG.md) / [周报草稿](reports/weekly/2026-11-21-draft.md)
 
 方案与脚本由AI辅助起草，执行者负责审核、实测和结论。公开证据需脱敏；不得上传账号令牌、私人记录或企业资料。原创代码和材料采用MIT许可，第三方材料遵循其许可。
-
