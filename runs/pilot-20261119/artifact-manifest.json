@@ -1,8 +1,13 @@
 [
   {
+    "path": "doubao-observations.md",
+    "bytes": 2335,
+    "sha256": "c74b877e2b61ee7cd15405a24a81b3f807d519cf0b929aacb32274ed1703399d"
+  },
+  {
     "path": "README.md",
-    "bytes": 2875,
-    "sha256": "ad824a3ec2c193559933cc62383e44258fb12cc783521303ffb172adb704bc36"
+    "bytes": 3279,
+    "sha256": "4c5d7a9ed7f5b60f08b8b398416ad63e642117d456f0616a44d8bce780d77e81"
   },
   {
     "path": "T02/codex/round1/checks.json",
@@ -43,6 +48,56 @@
     "path": "T02/codex/round2/summary-r2.csv",
     "bytes": 52,
     "sha256": "3459a42283ddb5e6090c9278150ababe23438b02eaaa01d8413dd025f4702d0f"
+  },
+  {
+    "path": "T02/doubao/input-integrity.json",
+    "bytes": 78,
+    "sha256": "246d32162e84935f777ab94437c638dac3af73547b6cb1fc405d05daaac034c2"
+  },
+  {
+    "path": "T02/doubao/round1-retention.json",
+    "bytes": 78,
+    "sha256": "6f3cb141d5d637ed7166fa59d065f0ce711c11eae98f855aa01911205cadd458"
+  },
+  {
+    "path": "T02/doubao/round1/checks.json",
+    "bytes": 466,
+    "sha256": "f36f9922f02d79ae9fd447784df7782c05a86fef70d8b886e902c5d1947e465f"
+  },
+  {
+    "path": "T02/doubao/round1/exceptions.csv",
+    "bytes": 99,
+    "sha256": "9189dcf24304b61ec1a3235804c39818a1df0dd42e50388bf0ee5f4629a059c2"
+  },
+  {
+    "path": "T02/doubao/round1/report.md",
+    "bytes": 2787,
+    "sha256": "57fbe10721cd1f6dfd892b42efeeb845f9cb8a2d019a6f0f1503927b3eebfce7"
+  },
+  {
+    "path": "T02/doubao/round1/summary.csv",
+    "bytes": 63,
+    "sha256": "73f8213c5a0ed3a15da29a5d899d04f2d4f89506c23a2b8de8a61c41bc8c3cd7"
+  },
+  {
+    "path": "T02/doubao/round2/checks.json",
+    "bytes": 496,
+    "sha256": "82ae1c0ba9656e5d623d7002233b55a4adac8ca16ad53f74993b1f757368bbc3"
+  },
+  {
+    "path": "T02/doubao/round2/exceptions-r2.csv",
+    "bytes": 131,
+    "sha256": "b6723c0373bd2d698939ab13a7aa25f21606c8b6c9419fea52cc40f37f7a0098"
+  },
+  {
+    "path": "T02/doubao/round2/report-r2.md",
+    "bytes": 3190,
+    "sha256": "206bfa821d9e29f6b47fc769dd0adca3ccf6088c853909577795f0eb0bb6a610"
+  },
+  {
+    "path": "T02/doubao/round2/summary-r2.csv",
+    "bytes": 47,
+    "sha256": "d5cf6c62f359ff698b33ad62efbac8379290af30a8de3178f576f159f645edae"
   },
   {
     "path": "T02/dsh/round1/checks.json",
@@ -190,6 +245,36 @@
     "sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5"
   },
   {
+    "path": "T03/doubao/input-integrity.json",
+    "bytes": 50,
+    "sha256": "eeab40ca8f8bab6797ac9432ff6361cf9db054acbc8537edbd6eb3f3290a127c"
+  },
+  {
+    "path": "T03/doubao/round1/checks.json",
+    "bytes": 612,
+    "sha256": "2e9142d1ebf515bbbd9919bf956ac4a42401f62ebe94c71fcfdaaac81d6a9421"
+  },
+  {
+    "path": "T03/doubao/round1/fields.md",
+    "bytes": 343,
+    "sha256": "f210df94cb5616667c3fe6a99849a3841c2026250855b70b2bb99295768e46bd"
+  },
+  {
+    "path": "T03/doubao/round1/manifest.csv",
+    "bytes": 68,
+    "sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a"
+  },
+  {
+    "path": "T03/doubao/round1/people-copy.csv",
+    "bytes": 56,
+    "sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc"
+  },
+  {
+    "path": "T03/doubao/round1/stock-copy.csv",
+    "bytes": 48,
+    "sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5"
+  },
+  {
     "path": "T03/dsh/round1/checks.json",
     "bytes": 612,
     "sha256": "2e9142d1ebf515bbbd9919bf956ac4a42401f62ebe94c71fcfdaaac81d6a9421"
@@ -291,6 +376,46 @@
   },
   {
     "path": "T04/codex/round2/checks.json",
+    "bytes": 381,
+    "sha256": "87e9d87ec107f513c61bc13a32777afbe2cf779c8cacf0c56ca3ae918a746334"
+  },
+  {
+    "path": "T04/doubao/input-integrity.json",
+    "bytes": 57,
+    "sha256": "caa20773026b63c3d3a8a1ca2cb7eab62cbddd30e02de91db6dbc5957dabaf5f"
+  },
+  {
+    "path": "T04/doubao/round1-retention.json",
+    "bytes": 50,
+    "sha256": "57506750c45a281e43d6608f0e820562d7db617e035e0dce497a9c1f0cc790d8"
+  },
+  {
+    "path": "T04/doubao/round1/actions.csv",
+    "bytes": 123,
+    "sha256": "059f9b928ba1e4447db9f852932ce73b8ea63f05bbe355a5a1c01660147f2e0a"
+  },
+  {
+    "path": "T04/doubao/round1/brief.md",
+    "bytes": 924,
+    "sha256": "b857805d686dca200c132bc0bb21c9e99dd7a7b63bf9ebf7d8c5233e4b728272"
+  },
+  {
+    "path": "T04/doubao/round1/checks.json",
+    "bytes": 354,
+    "sha256": "0ee7036d7beb18be466d077ea8608d1a430a8b0338bcf161e24248b7e26eb920"
+  },
+  {
+    "path": "T04/doubao/round2/actions-r2.csv",
+    "bytes": 123,
+    "sha256": "499d588befe731d73449a9209d464f5ed8d16853ace937d66c47f60c3c6d3867"
+  },
+  {
+    "path": "T04/doubao/round2/brief-r2.md",
+    "bytes": 1448,
+    "sha256": "cc63f695a1f00560578271898d36ab14ed3e4c9d5a1c58186fac6b6ef41b6133"
+  },
+  {
+    "path": "T04/doubao/round2/checks.json",
     "bytes": 381,
     "sha256": "87e9d87ec107f513c61bc13a32777afbe2cf779c8cacf0c56ca3ae918a746334"
   },
@@ -398,6 +523,26 @@
     "path": "T05/codex/round1/recovery.md",
     "bytes": 571,
     "sha256": "fb10a0541627abf7350f49c66fe0a0fbb668f116c83747ac02a9caf33bedb1fd"
+  },
+  {
+    "path": "T05/doubao/input-integrity.json",
+    "bytes": 76,
+    "sha256": "294203ea653de1e019fae378e88ef96df293bdf146bde89b51dac4275167f86a"
+  },
+  {
+    "path": "T05/doubao/round1/checks.json",
+    "bytes": 364,
+    "sha256": "0a2b36f0cfe22d3f2447f466e1f88b778d75b2c9fae41d81a6974c6e085557ce"
+  },
+  {
+    "path": "T05/doubao/round1/items.csv",
+    "bytes": 26,
+    "sha256": "d0217d75d6f74762162fa070b230ac379734e3ff249a266c961ad388db2ca2fe"
+  },
+  {
+    "path": "T05/doubao/round1/recovery.md",
+    "bytes": 1546,
+    "sha256": "9f55f670d2d98aba37d833c94460a96d9145d363b5607285bd64b614fd163a66"
   },
   {
     "path": "T05/dsh/round1/checks.json",
