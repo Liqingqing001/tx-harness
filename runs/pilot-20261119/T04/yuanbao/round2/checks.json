@@ -1,0 +1,22 @@
+{
+  "task": "T04",
+  "round": 2,
+  "checks": [
+    {
+      "id": "E01",
+      "status": "fail",
+      "evidence": "actions-r2.csv",
+      "detail": "wrong header or column order"
+    }
+  ],
+  "manual_required": [
+    "E02",
+    "E03",
+    "E04",
+    "E05",
+    "E06",
+    "E07"
+  ],
+  "task_success": "not_determined_by_partial_checker",
+  "process_status": "unknown"
+}

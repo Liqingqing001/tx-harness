@@ -1,0 +1,27 @@
+{
+  "round": 2,
+  "checks": [
+    {
+      "id": "E01",
+      "status": "pass",
+      "evidence": "summary-r2.csv",
+      "detail": "matches reference"
+    },
+    {
+      "id": "E02",
+      "status": "pass",
+      "evidence": "exceptions-r2.csv",
+      "detail": "matches reference"
+    }
+  ],
+  "manual_required": [
+    "E03",
+    "E04",
+    "E05",
+    "E08",
+    "E06",
+    "E07"
+  ],
+  "process_status": "unknown",
+  "task_success": "not_determined_by_csv_checker"
+}
