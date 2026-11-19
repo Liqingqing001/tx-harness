@@ -9,7 +9,6 @@
 
 ## 先看方案
 - [完整评测方案](docs/evaluation-plan-v1.md)：研究目标、四类任务、控制变量、评分、归因、证据和交付。
-- [大白话解释](docs/plan-plain-language.md)
 - [协议入口](docs/protocol.md) / [方法来源与适配](docs/methodology.md)
 - [归因与案例复核](docs/case-review.md)
 
@@ -30,3 +29,4 @@ T02已有CSV验收器：`python scripts/check_t02.py --outputs <产物目录> --
 [运行模板](runs/TEMPLATE.md) / [报告模板](reports/report-template.md) / [ChangeLog](CHANGELOG.md) / [周报草稿](reports/weekly/2026-11-21-draft.md)
 
 方案与脚本由AI辅助起草，执行者负责审核、实测和结论。公开证据需脱敏；不得上传账号令牌、私人记录或企业资料。原创代码和材料采用MIT许可，第三方材料遵循其许可。
+
