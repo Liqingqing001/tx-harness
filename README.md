@@ -8,6 +8,8 @@
 
 ## 仓库文件树
 
+想了解每款产品能做什么，读[五款产品主要功能调研](reports/2026-11-20-product-functions.md)。
+
 看设计，从 [完整评测方案](docs/evaluation-plan-v1.md) 开始；看五款产品各自的优点和不足，读 [综合报告](reports/2026-11-20-comparative.md)；核对某个结论，到 [正式实验原件](runs/formal-v1.1/evidence/) 或 [校准试跑原件](runs/pilot-20261119/) 找对应文件。
 
 下面用元宝的一场订单实验展开重复目录。其他产品和轮次可按同样的命名查找。
@@ -66,6 +68,7 @@ tx-harness/
 │   ├── test_check_t02.py           订单校验器测试
 │   └── test_check_office.py        其他办公任务校验器测试
 └── reports/                        根据实验材料写出的分析与周报
+    ├── 2026-11-20-product-functions.md   五款产品主要功能、官方资料与实测例子
     ├── 2026-11-20-comparative.md   五款产品的优点、不足及证据
     ├── 2026-11-20-stage.md         阶段发现，含元宝、WorkBuddy 个案复核
     ├── evidence-yuanbao/           元宝应用内预览截图，可与下载文件对照
