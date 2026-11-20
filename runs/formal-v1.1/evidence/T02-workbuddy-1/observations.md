@@ -1,0 +1,2 @@
+# T02 · WorkBuddy · 第一次正式运行
+两轮 E01/E02 均通过。按 E07，第一轮交付物须仍可访问且哈希不变。对照 round1 与 post-round2，summary.csv 和 exceptions.csv 分别从66、102字节变为63、99字节。两份旧版 CSV 与第二轮后同名文件的唯一区别均是开头三个 UTF-8 BOM 字节 EF BB BF。report.md 字节一致，故 E07 失败。现象置信高，有两次文件快照；哪个流程重写文件未知，不凭此归责模型或 Harness。一次运行尚不能估计复现率。
