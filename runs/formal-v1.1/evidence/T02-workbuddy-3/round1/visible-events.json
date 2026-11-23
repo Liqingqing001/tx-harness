@@ -1,0 +1,123 @@
+{
+  "sent": 1795430300323,
+  "calls": [
+    {
+      "tool": "Read",
+      "time": 1795430320206,
+      "file_mentions": [
+        "orders.csv"
+      ]
+    },
+    {
+      "tool": "Read",
+      "time": 1795430321867,
+      "file_mentions": [
+        "policy-v1.md"
+      ]
+    },
+    {
+      "tool": "Read",
+      "time": 1795430323379,
+      "file_mentions": [
+        "policy-v2.md"
+      ]
+    },
+    {
+      "tool": "Bash",
+      "time": 1795430335537,
+      "file_mentions": []
+    },
+    {
+      "tool": "Bash",
+      "time": 1795430338856,
+      "file_mentions": []
+    },
+    {
+      "tool": "Write",
+      "time": 1795430345185,
+      "file_mentions": [
+        "summary.csv"
+      ]
+    },
+    {
+      "tool": "Write",
+      "time": 1795430347188,
+      "file_mentions": [
+        "exceptions.csv"
+      ]
+    },
+    {
+      "tool": "Write",
+      "time": 1795430354623,
+      "file_mentions": [
+        "exceptions.csv",
+        "orders.csv",
+        "policy-v1.md",
+        "policy-v2.md",
+        "report.md",
+        "summary.csv"
+      ]
+    },
+    {
+      "tool": "Bash",
+      "time": 1795430357753,
+      "file_mentions": [
+        "exceptions.csv",
+        "report.md",
+        "summary.csv"
+      ]
+    },
+    {
+      "tool": "Bash",
+      "time": 1795430364916,
+      "file_mentions": [
+        "exceptions.csv",
+        "summary.csv"
+      ]
+    },
+    {
+      "tool": "Bash",
+      "time": 1795430369204,
+      "file_mentions": [
+        "report.md"
+      ]
+    },
+    {
+      "tool": "Bash",
+      "time": 1795430373354,
+      "file_mentions": []
+    },
+    {
+      "tool": "Write",
+      "time": 1795430376911,
+      "file_mentions": [
+        "exceptions.csv",
+        "orders.csv",
+        "policy-v1.md",
+        "policy-v2.md",
+        "report.md",
+        "summary.csv"
+      ]
+    },
+    {
+      "tool": "present_files",
+      "time": 1795430379204,
+      "file_mentions": [
+        "exceptions.csv",
+        "report.md",
+        "summary.csv"
+      ]
+    }
+  ],
+  "final": {
+    "time": 1795430382945,
+    "characters": 1002,
+    "mentions_case_canary": false,
+    "file_mentions": [
+      "exceptions.csv",
+      "policy-v2.md",
+      "report.md",
+      "summary.csv"
+    ]
+  }
+}

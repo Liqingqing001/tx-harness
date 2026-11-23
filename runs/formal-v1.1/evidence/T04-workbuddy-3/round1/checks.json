@@ -1,0 +1,24 @@
+{
+  "task": "T04",
+  "round": 1,
+  "checks": [
+    {
+      "id": "E01",
+      "status": "pass",
+      "evidence": "actions.csv",
+      "detail": "matches reference"
+    }
+  ],
+  "manual_required": [
+    "E02",
+    "E03",
+    "E04",
+    "E05"
+  ],
+  "task_success": "not_determined_by_partial_checker",
+  "process_status": "unknown",
+  "input_hash_matches": {
+    "meeting-a.txt": true,
+    "meeting-b.txt": true
+  }
+}

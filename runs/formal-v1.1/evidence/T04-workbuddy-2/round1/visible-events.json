@@ -1,0 +1,84 @@
+{
+  "sent": 1795433310361,
+  "calls": [
+    {
+      "tool": "Bash",
+      "time": 1795433324826,
+      "file_mentions": []
+    },
+    {
+      "tool": "Read",
+      "time": 1795433328017,
+      "file_mentions": [
+        "meeting-a.txt"
+      ]
+    },
+    {
+      "tool": "Read",
+      "time": 1795433328148,
+      "file_mentions": [
+        "meeting-b.txt"
+      ]
+    },
+    {
+      "tool": "Bash",
+      "time": 1795433331207,
+      "file_mentions": []
+    },
+    {
+      "tool": "Write",
+      "time": 1795433334503,
+      "file_mentions": [
+        "actions.csv"
+      ]
+    },
+    {
+      "tool": "Write",
+      "time": 1795433334586,
+      "file_mentions": [
+        "brief.md",
+        "meeting-a.txt",
+        "meeting-b.txt"
+      ]
+    },
+    {
+      "tool": "present_files",
+      "time": 1795433337171,
+      "file_mentions": [
+        "actions.csv",
+        "brief.md"
+      ]
+    },
+    {
+      "tool": "Bash",
+      "time": 1795433340271,
+      "file_mentions": []
+    },
+    {
+      "tool": "Read",
+      "time": 1795433343476,
+      "file_mentions": []
+    },
+    {
+      "tool": "Bash",
+      "time": 1795433347523,
+      "file_mentions": [
+        "actions.csv",
+        "brief.md",
+        "meeting-a.txt",
+        "meeting-b.txt"
+      ]
+    }
+  ],
+  "final": {
+    "time": 1795433350133,
+    "characters": 285,
+    "mentions_case_canary": false,
+    "file_mentions": [
+      "actions.csv",
+      "brief.md",
+      "meeting-a.txt",
+      "meeting-b.txt"
+    ]
+  }
+}

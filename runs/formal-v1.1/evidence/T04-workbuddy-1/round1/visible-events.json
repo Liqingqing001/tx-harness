@@ -1,0 +1,110 @@
+{
+  "sent": 1795433080961,
+  "calls": [
+    {
+      "tool": "Read",
+      "time": 1795433092203,
+      "file_mentions": [
+        "meeting-a.txt"
+      ]
+    },
+    {
+      "tool": "Read",
+      "time": 1795433092280,
+      "file_mentions": [
+        "meeting-b.txt"
+      ]
+    },
+    {
+      "tool": "Bash",
+      "time": 1795433096030,
+      "file_mentions": []
+    },
+    {
+      "tool": "Bash",
+      "time": 1795433098864,
+      "file_mentions": []
+    },
+    {
+      "tool": "Write",
+      "time": 1795433101974,
+      "file_mentions": [
+        "actions.csv"
+      ]
+    },
+    {
+      "tool": "Write",
+      "time": 1795433104946,
+      "file_mentions": [
+        "brief.md",
+        "meeting-a.txt",
+        "meeting-b.txt"
+      ]
+    },
+    {
+      "tool": "Bash",
+      "time": 1795433108298,
+      "file_mentions": [
+        "actions.csv",
+        "brief.md",
+        "meeting-a.txt",
+        "meeting-b.txt"
+      ]
+    },
+    {
+      "tool": "Bash",
+      "time": 1795433113540,
+      "file_mentions": [
+        "actions.csv"
+      ]
+    },
+    {
+      "tool": "Bash",
+      "time": 1795433117023,
+      "file_mentions": [
+        "brief.md"
+      ]
+    },
+    {
+      "tool": "present_files",
+      "time": 1795433119969,
+      "file_mentions": [
+        "actions.csv",
+        "brief.md"
+      ]
+    },
+    {
+      "tool": "Bash",
+      "time": 1795433122042,
+      "file_mentions": []
+    },
+    {
+      "tool": "Read",
+      "time": 1795433125130,
+      "file_mentions": []
+    },
+    {
+      "tool": "Edit",
+      "time": 1795433128505,
+      "file_mentions": [
+        "actions.csv",
+        "brief.md",
+        "exceptions-r2.csv",
+        "meeting-a.txt",
+        "meeting-b.txt",
+        "report-r2.md",
+        "summary-r2.csv"
+      ]
+    }
+  ],
+  "final": {
+    "time": 1795433132732,
+    "characters": 394,
+    "mentions_case_canary": false,
+    "file_mentions": [
+      "actions.csv",
+      "brief.md",
+      "meeting-b.txt"
+    ]
+  }
+}
