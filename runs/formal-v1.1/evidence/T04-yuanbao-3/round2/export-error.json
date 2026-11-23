@@ -1,0 +1,20 @@
+{
+  "file": "actions-r2.csv",
+  "download": "元宝原生文件卡 → 下载 CSV → 本场输出目录",
+  "returned_format": "XML",
+  "code": "AccessDenied",
+  "message": "Access Denied.",
+  "bytes": 474,
+  "sha256": "317ddd2ed4a51fdea76a2fadff23ff8cdb718494919c4a9246f1ef7a1bcedefb",
+  "redaction": "原始错误响应本地留存；公开版省略存储路径、RequestId、TraceId。",
+  "first_download_at": "2026-11-23T20:00:52+08:00",
+  "same_card_retry": {
+    "method": "同一会话和同一文件卡，再选一次下载 CSV；未重新生成，另存到诊断目录",
+    "downloaded_at": "2026-11-23T20:06:31+08:00",
+    "bytes": 474,
+    "sha256": "8846f65859c10d6e1c135ee9f59722e495e62d86c5aa5d00d639ed63aea45da4",
+    "format": "XML",
+    "code": "AccessDenied",
+    "message": "Access Denied."
+  }
+}

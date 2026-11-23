@@ -1,0 +1,17 @@
+{
+  "stage": "正式实验初评封存，匿名复评尚待执行",
+  "runs": 60,
+  "rounds": 90,
+  "initial_result_items": 570,
+  "initial_review_sealed_at": "2026-11-23T20:07:10+08:00",
+  "last_initial_or_supplement_judgement_at": "2026-11-23T20:06:25+08:00",
+  "same_reviewer_eligible_at": "2026-11-24T20:06:25+08:00",
+  "rule": "正式方案第 9 节。校准试跑的等待豁免仅适用于那次试跑。",
+  "files_sha256": {
+    "first-review.csv": "d1213c3846c52977b7a214321211dcf541b3c21a62d0474fbc9e47f36c743d3c",
+    "first-review-supplement.csv": "325dedccbf0cfcc5a8f12db0019c12f9d3a30d721fa98d5c38f52e6400129189",
+    "process-review.csv": "d6b3ff0bd867d47df7b87dff1b7d5a7022dfd48a88e097f07d6406c02167ae1d"
+  },
+  "anonymous_packet_sha256": "276233893a132c83c30bd39972ec1599083bf0e570110240e26202faf5abdfe4",
+  "anonymous_key_file_sha256": "ebc9efb43760463b071db1a2a6941bfc5ee614a733242c87284f972b5511539b"
+}

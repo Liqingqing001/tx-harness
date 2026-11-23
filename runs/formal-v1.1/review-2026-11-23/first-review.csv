@@ -539,3 +539,33 @@ T04-yuanbao-2,2,E04,pass,brief-r2.md；public-reply.json#final,2026-11-23T19:58:
 T04-yuanbao-2,2,E05,unknown,只比到了本地上传源,2026-11-23T19:58:22+08:00
 T04-yuanbao-2,2,E06,pass,"brief-r2.md L15,16,3",2026-11-23T19:58:22+08:00
 T04-yuanbao-2,2,E07,unknown,云端旧件未逐一重新下载,2026-11-23T19:58:22+08:00
+T04-yuanbao-3,1,E01,pass,actions.csv,2026-11-23T20:01:38+08:00
+T04-yuanbao-3,1,E02,pass,"brief.md L9,10,11",2026-11-23T20:01:38+08:00
+T04-yuanbao-3,1,E03,pass,actions.csv；brief.md,2026-11-23T20:01:38+08:00
+T04-yuanbao-3,1,E04,pass,brief.md；public-reply.json#final,2026-11-23T20:01:38+08:00
+T04-yuanbao-3,1,E05,unknown,只比到了本地上传源,2026-11-23T20:01:38+08:00
+T04-yuanbao-3,2,E01,fail,actions-r2.csv,2026-11-23T20:01:38+08:00
+T04-yuanbao-3,2,E02,pass,"brief-r2.md L16,17,18",2026-11-23T20:01:38+08:00
+T04-yuanbao-3,2,E03,fail,原生导出的 actions-r2.csv 内容为存储服务 AccessDenied 错误页；见 export-error.json,2026-11-23T20:01:38+08:00
+T04-yuanbao-3,2,E04,pass,brief-r2.md；public-reply.json#final,2026-11-23T20:01:38+08:00
+T04-yuanbao-3,2,E05,unknown,只比到了本地上传源,2026-11-23T20:01:38+08:00
+T04-yuanbao-3,2,E06,pass,"brief-r2.md L9,10,3",2026-11-23T20:01:38+08:00
+T04-yuanbao-3,2,E07,unknown,云端旧件未逐一重新下载,2026-11-23T20:01:38+08:00
+T05-yuanbao-1,1,E01,pass,items.csv,2026-11-23T20:02:53+08:00
+T05-yuanbao-1,1,E02,pass,"recovery.md L4,9",2026-11-23T20:02:53+08:00
+T05-yuanbao-1,1,E03,pass,recovery.md 给出 Expecting value 和精确位置 L1:C64；原件此处为 units 的缺值,2026-11-23T20:02:53+08:00
+T05-yuanbao-1,1,E04,pass,"recovery.md L14,15",2026-11-23T20:02:53+08:00
+T05-yuanbao-1,1,E05,pass,items.csv；recovery.md,2026-11-23T20:02:53+08:00
+T05-yuanbao-1,1,E06,unknown,只比到了本地上传源,2026-11-23T20:02:53+08:00
+T05-yuanbao-2,1,E01,pass,items.csv,2026-11-23T20:04:14+08:00
+T05-yuanbao-2,1,E02,pass,"recovery.md L5,7",2026-11-23T20:04:14+08:00
+T05-yuanbao-2,1,E03,pass,recovery.md L12,2026-11-23T20:04:14+08:00
+T05-yuanbao-2,1,E04,pass,"recovery.md L26,27",2026-11-23T20:04:14+08:00
+T05-yuanbao-2,1,E05,pass,items.csv；recovery.md,2026-11-23T20:04:14+08:00
+T05-yuanbao-2,1,E06,unknown,只比到了本地上传源,2026-11-23T20:04:14+08:00
+T05-yuanbao-3,1,E01,pass,items.csv,2026-11-23T20:06:25+08:00
+T05-yuanbao-3,1,E02,pass,"recovery.md L5,9",2026-11-23T20:06:25+08:00
+T05-yuanbao-3,1,E03,pass,"recovery.md L20,23",2026-11-23T20:06:25+08:00
+T05-yuanbao-3,1,E04,pass,"recovery.md L34,35",2026-11-23T20:06:25+08:00
+T05-yuanbao-3,1,E05,pass,items.csv；recovery.md,2026-11-23T20:06:25+08:00
+T05-yuanbao-3,1,E06,unknown,只比到了本地上传源,2026-11-23T20:06:25+08:00

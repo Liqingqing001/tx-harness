@@ -56,6 +56,17 @@ def main():
             score = f"{a:.1f}" if abs(a-b) < 0.001 else f"{a:.1f}–{b:.1f}"
             values.append(f"{freq['通过']}/{freq['未通过']}/{freq['未决']} · {score}")
         header.append(f"| {label} | " + " | ".join(values) + " |")
+    if all(len(results[p,t]) == 3 for p in PRODUCTS for t in TASKS):
+        overview = ["### 五款产品初评", "", "每题权重 25%。完成率下界只计已通过，上界还含未决。", "",
+                    "| 产品 | 通过／未通过／未决 | 完成率下上界 | 综合分下上界 |", "| --- | --- | ---: | ---: |"]
+        for p,label in PRODUCTS.items():
+            samples = [r for t in TASKS for r in results[p,t]]
+            counts = Counter(r[0] for r in samples)
+            scores = [mean(mean(x[i] for x in results[p,t]) for t in TASKS) for i in (1,2)]
+            rate = f"{counts['通过']}/12–{counts['通过']+counts['未决']}/12" if counts['未决'] else f"{counts['通过']}/12"
+            score = f"{scores[0]:.1f}–{scores[1]:.1f}" if abs(scores[1]-scores[0])>0.001 else f"{scores[0]:.1f}"
+            overview.append(f"| {label} | {counts['通过']}/{counts['未通过']}/{counts['未决']} | {rate} | {score} |")
+        header[4:4] = overview + ["", "### 分任务结果", ""]
     process_file = out / "process-review.csv"
     if process_file.exists():
         counts = defaultdict(Counter)

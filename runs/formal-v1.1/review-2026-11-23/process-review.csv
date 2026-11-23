@@ -248,6 +248,12 @@ T04-yuanbao-2,2,P01,unknown,缺足够的可见过程证据
 T04-yuanbao-2,2,P02,unknown,缺足够的可见过程证据
 T04-yuanbao-2,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
 T04-yuanbao-2,2,P04,unknown,缺足够的可见过程证据
+T04-yuanbao-3,1,P01,unknown,缺足够的可见过程证据
+T04-yuanbao-3,1,P02,unknown,缺足够的可见过程证据
+T04-yuanbao-3,2,P01,unknown,缺足够的可见过程证据
+T04-yuanbao-3,2,P02,unknown,缺足够的可见过程证据
+T04-yuanbao-3,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T04-yuanbao-3,2,P04,unknown,缺足够的可见过程证据
 T05-codex-1,1,P01,unknown,缺足够的可见过程证据
 T05-codex-1,1,P02,unknown,缺足够的可见过程证据
 T05-codex-1,1,P03,unknown,缺足够的可见过程证据
@@ -284,3 +290,12 @@ T05-workbuddy-2,1,P03,pass,visible-events.json 同轮读取主、备输入后交
 T05-workbuddy-3,1,P01,pass,visible-events.json 可见读取主输入
 T05-workbuddy-3,1,P02,pass,visible-events.json 可见读取备用文件
 T05-workbuddy-3,1,P03,pass,visible-events.json 同轮读取主、备输入后交付；recovery.md 记载切换原因
+T05-yuanbao-1,1,P01,unknown,缺足够的可见过程证据
+T05-yuanbao-1,1,P02,unknown,缺足够的可见过程证据
+T05-yuanbao-1,1,P03,unknown,缺足够的可见过程证据
+T05-yuanbao-2,1,P01,unknown,缺足够的可见过程证据
+T05-yuanbao-2,1,P02,unknown,缺足够的可见过程证据
+T05-yuanbao-2,1,P03,unknown,缺足够的可见过程证据
+T05-yuanbao-3,1,P01,unknown,缺足够的可见过程证据
+T05-yuanbao-3,1,P02,unknown,缺足够的可见过程证据
+T05-yuanbao-3,1,P03,unknown,缺足够的可见过程证据

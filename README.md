@@ -2,7 +2,7 @@
 作者：Li Qing 李晴（Liqingqing001）
 仓库：https://github.com/Liqingqing001/tx-harness
 
-截至 11 月 23 日，已归档 56/60 场、85/90 轮正式实验，另有 20 场校准试跑。[最新结果与产品差距](reports/2026-11-23-formal.md) · [逐轮验收](runs/formal-v1.1/2026-11-23-rounds.csv) · [正式逐题初评](runs/formal-v1.1/review-2026-11-23/scorecard.md)
+截至 11 月 23 日，已归档 60/60 场、90/90 轮正式实验，另有 20 场校准试跑。[最新结果与产品差距](reports/2026-11-23-formal.md) · [逐轮验收](runs/formal-v1.1/2026-11-23-rounds.csv) · [正式逐题初评](runs/formal-v1.1/review-2026-11-23/scorecard.md)
 
 评测对象为 Codex、WorkBuddy、DeepSeek Harness（DSH）、元宝专家模式和豆包工作（独立客户端）。
 
