@@ -1,0 +1,14 @@
+{
+  "summary.csv": {
+    "bytes": 84,
+    "sha256": "143fb91270d00b363031b5ba9d3c710f2c37811d0464d3f86fcd53e43f4e154d"
+  },
+  "exceptions.csv": {
+    "bytes": 124,
+    "sha256": "eb369b7f0a98f80fc7035953e7e4ded880ad1d7ea2f97791639762b0acef84ee"
+  },
+  "report.md": {
+    "bytes": 2190,
+    "sha256": "7252dc73619a9c3fe7e1f4c52aabaeb26e2ef752396ca8e11bb71e29c8cbd075"
+  }
+}

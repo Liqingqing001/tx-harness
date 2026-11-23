@@ -1,0 +1,10 @@
+{
+  "actions.csv": {
+    "bytes": 123,
+    "sha256": "059f9b928ba1e4447db9f852932ce73b8ea63f05bbe355a5a1c01660147f2e0a"
+  },
+  "brief.md": {
+    "bytes": 1654,
+    "sha256": "3580e8d44b77a6dc1bf3decb9a8f03829e5da5c80d9a47c2481fb414731af1df"
+  }
+}

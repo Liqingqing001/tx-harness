@@ -1,0 +1,18 @@
+{
+  "people-copy.csv": {
+    "bytes": 56,
+    "sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc"
+  },
+  "stock-copy.csv": {
+    "bytes": 48,
+    "sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5"
+  },
+  "fields.md": {
+    "bytes": 235,
+    "sha256": "bc5559f41d5665202a77a19977e3908306a4f2220df93a8e39615a25611280af"
+  },
+  "manifest.csv": {
+    "bytes": 71,
+    "sha256": "a5809fdc79dd84de7604cc1aa04a93a6265b26ebc93eab0d43c64608b3b13e4c"
+  }
+}
