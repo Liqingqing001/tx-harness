@@ -1,0 +1,7 @@
+﻿order_id,reason
+o6,duplicate_older_revision
+o3,not_paid
+o4,invalid_number
+o7,refund_exceeds_amount
+o2,out_of_scope
+o6,out_of_scope
