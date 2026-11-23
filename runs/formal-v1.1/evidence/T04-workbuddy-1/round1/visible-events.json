@@ -6,31 +6,40 @@
       "time": 1795433092203,
       "file_mentions": [
         "meeting-a.txt"
-      ]
+      ],
+      "direct_file": "meeting-a.txt"
     },
     {
       "tool": "Read",
       "time": 1795433092280,
       "file_mentions": [
         "meeting-b.txt"
-      ]
+      ],
+      "direct_file": "meeting-b.txt"
     },
     {
       "tool": "Bash",
       "time": 1795433096030,
-      "file_mentions": []
+      "file_mentions": [],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Bash",
       "time": 1795433098864,
-      "file_mentions": []
+      "file_mentions": [],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Write",
       "time": 1795433101974,
       "file_mentions": [
         "actions.csv"
-      ]
+      ],
+      "direct_file": "actions.csv"
     },
     {
       "tool": "Write",
@@ -39,7 +48,8 @@
         "brief.md",
         "meeting-a.txt",
         "meeting-b.txt"
-      ]
+      ],
+      "direct_file": "brief.md"
     },
     {
       "tool": "Bash",
@@ -49,21 +59,30 @@
         "brief.md",
         "meeting-a.txt",
         "meeting-b.txt"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Bash",
       "time": 1795433113540,
       "file_mentions": [
         "actions.csv"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Bash",
       "time": 1795433117023,
       "file_mentions": [
         "brief.md"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "present_files",
@@ -76,7 +95,10 @@
     {
       "tool": "Bash",
       "time": 1795433122042,
-      "file_mentions": []
+      "file_mentions": [],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Read",

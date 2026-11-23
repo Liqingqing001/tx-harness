@@ -6,45 +6,58 @@
       "time": 1795434362250,
       "file_mentions": [
         "readme.txt"
-      ]
+      ],
+      "direct_file": "readme.txt"
     },
     {
       "tool": "Read",
       "time": 1795434364009,
       "file_mentions": [
         "primary.json"
-      ]
+      ],
+      "direct_file": "primary.json"
     },
     {
       "tool": "Read",
       "time": 1795434364082,
       "file_mentions": [
         "backup.csv"
-      ]
+      ],
+      "direct_file": "backup.csv"
     },
     {
       "tool": "Bash",
       "time": 1795434366765,
       "file_mentions": [
         "primary.json"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Bash",
       "time": 1795434371288,
-      "file_mentions": []
+      "file_mentions": [],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Bash",
       "time": 1795434373684,
-      "file_mentions": []
+      "file_mentions": [],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Write",
       "time": 1795434376970,
       "file_mentions": [
         "items.csv"
-      ]
+      ],
+      "direct_file": "items.csv"
     },
     {
       "tool": "Write",
@@ -55,7 +68,8 @@
         "primary.json",
         "readme.txt",
         "recovery.md"
-      ]
+      ],
+      "direct_file": "recovery.md"
     },
     {
       "tool": "Bash",
@@ -65,14 +79,20 @@
         "items.csv",
         "primary.json",
         "recovery.md"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Bash",
       "time": 1795434388347,
       "file_mentions": [
         "items.csv"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "present_files",

@@ -1,0 +1,37 @@
+{
+  "calls": [
+    {
+      "tool": "exec",
+      "time": "2026-11-23T10:42:17.512Z",
+      "file_mentions": [
+        "meeting-a.txt",
+        "meeting-b.txt"
+      ],
+      "mentions_hash_check": false,
+      "mentions_copy_operation": false,
+      "mentions_read_operation": true
+    },
+    {
+      "tool": "exec",
+      "time": "2026-11-23T10:42:31.804Z",
+      "file_mentions": [
+        "actions.csv",
+        "brief.md",
+        "meeting-a.txt",
+        "meeting-b.txt"
+      ],
+      "mentions_hash_check": false,
+      "mentions_copy_operation": false,
+      "mentions_read_operation": true
+    }
+  ],
+  "final": {
+    "time": "2026-11-23T10:47:24.105Z",
+    "characters": 70,
+    "mentions_case_canary": false,
+    "file_mentions": [
+      "actions.csv",
+      "brief.md"
+    ]
+  }
+}

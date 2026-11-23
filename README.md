@@ -2,7 +2,7 @@
 作者：Li Qing 李晴（Liqingqing001）
 仓库：https://github.com/Liqingqing001/tx-harness
 
-截至 11 月 23 日，已归档 53/60 场、80/90 轮正式实验，另有 20 场校准试跑。[最新结果与产品差距](reports/2026-11-23-formal.md) · [逐轮验收](runs/formal-v1.1/2026-11-23-rounds.csv)
+截至 11 月 23 日，已归档 56/60 场、85/90 轮正式实验，另有 20 场校准试跑。[最新结果与产品差距](reports/2026-11-23-formal.md) · [逐轮验收](runs/formal-v1.1/2026-11-23-rounds.csv) · [正式逐题初评](runs/formal-v1.1/review-2026-11-23/scorecard.md)
 
 评测对象为 Codex、WorkBuddy、DeepSeek Harness（DSH）、元宝专家模式和豆包工作（独立客户端）。
 
@@ -10,7 +10,7 @@
 
 想了解每款产品能做什么，读[五款产品主要功能调研](reports/2026-11-20-product-functions.md)。
 
-看设计，从 [完整评测方案](docs/evaluation-plan-v1.md) 开始；看五款产品各自的优点和不足，读 [综合报告](reports/2026-11-20-comparative.md)；核对某个结论，到 [正式实验原件](runs/formal-v1.1/evidence/) 或 [校准试跑原件](runs/pilot-20261119/) 找对应文件。
+看设计，从 [完整评测方案](docs/evaluation-plan-v1.md) 开始；看五款产品各自的优点和不足，读 [正式实验报告](reports/2026-11-23-formal.md)；核对某个结论，到 [正式实验原件](runs/formal-v1.1/evidence/) 或 [校准试跑原件](runs/pilot-20261119/) 找对应文件。
 
 下面用元宝的一场订单实验展开重复目录。其他产品和轮次可按同样的命名查找。
 

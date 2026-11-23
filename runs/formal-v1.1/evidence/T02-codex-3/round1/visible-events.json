@@ -1,0 +1,41 @@
+{
+  "calls": [
+    {
+      "tool": "exec",
+      "time": "2026-11-23T10:36:01.024Z",
+      "file_mentions": [
+        "orders.csv",
+        "policy-v1.md",
+        "policy-v2.md"
+      ],
+      "mentions_hash_check": false,
+      "mentions_copy_operation": false,
+      "mentions_read_operation": true
+    },
+    {
+      "tool": "exec",
+      "time": "2026-11-23T10:36:30.066Z",
+      "file_mentions": [
+        "exceptions.csv",
+        "orders.csv",
+        "policy-v1.md",
+        "policy-v2.md",
+        "report.md",
+        "summary.csv"
+      ],
+      "mentions_hash_check": true,
+      "mentions_copy_operation": false,
+      "mentions_read_operation": true
+    }
+  ],
+  "final": {
+    "time": "2026-11-23T10:36:35.645Z",
+    "characters": 98,
+    "mentions_case_canary": false,
+    "file_mentions": [
+      "exceptions.csv",
+      "report.md",
+      "summary.csv"
+    ]
+  }
+}

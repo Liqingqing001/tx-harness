@@ -6,40 +6,48 @@
       "time": 1795153689568,
       "file_mentions": [
         "orders.csv"
-      ]
+      ],
+      "direct_file": "orders.csv"
     },
     {
       "tool": "read",
       "time": 1795153689569,
       "file_mentions": [
         "policy-v1.md"
-      ]
+      ],
+      "direct_file": "policy-v1.md"
     },
     {
       "tool": "read",
       "time": 1795153689570,
       "file_mentions": [
         "policy-v2.md"
-      ]
+      ],
+      "direct_file": "policy-v2.md"
     },
     {
       "tool": "pwsh",
       "time": 1795153693255,
-      "file_mentions": []
+      "file_mentions": [],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "write",
       "time": 1795153696270,
       "file_mentions": [
         "summary.csv"
-      ]
+      ],
+      "direct_file": "summary.csv"
     },
     {
       "tool": "write",
       "time": 1795153696332,
       "file_mentions": [
         "exceptions.csv"
-      ]
+      ],
+      "direct_file": "exceptions.csv"
     },
     {
       "tool": "write",
@@ -51,7 +59,8 @@
         "policy-v2.md",
         "report.md",
         "summary.csv"
-      ]
+      ],
+      "direct_file": "report.md"
     },
     {
       "tool": "pwsh",
@@ -59,28 +68,38 @@
       "file_mentions": [
         "exceptions.csv",
         "summary.csv"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": true,
+      "mentions_copy_operation": false
     },
     {
       "tool": "read",
       "time": 1795153710140,
       "file_mentions": [
         "summary.csv"
-      ]
+      ],
+      "direct_file": "summary.csv"
     },
     {
       "tool": "pwsh",
       "time": 1795153710148,
       "file_mentions": [
         "summary.csv"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": true,
+      "mentions_copy_operation": false
     },
     {
       "tool": "pwsh",
       "time": 1795153713929,
       "file_mentions": [
         "orders.csv"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "present",

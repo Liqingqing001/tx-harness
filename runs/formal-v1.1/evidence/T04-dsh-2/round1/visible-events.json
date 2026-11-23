@@ -4,33 +4,42 @@
     {
       "tool": "pwsh",
       "time": 1795431906633,
-      "file_mentions": []
+      "file_mentions": [],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "read",
       "time": 1795431908767,
       "file_mentions": [
         "meeting-a.txt"
-      ]
+      ],
+      "direct_file": "meeting-a.txt"
     },
     {
       "tool": "read",
       "time": 1795431908768,
       "file_mentions": [
         "meeting-b.txt"
-      ]
+      ],
+      "direct_file": "meeting-b.txt"
     },
     {
       "tool": "pwsh",
       "time": 1795431910695,
-      "file_mentions": []
+      "file_mentions": [],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "write",
       "time": 1795431915127,
       "file_mentions": [
         "actions.csv"
-      ]
+      ],
+      "direct_file": "actions.csv"
     },
     {
       "tool": "write",
@@ -40,26 +49,36 @@
         "brief.md",
         "meeting-a.txt",
         "meeting-b.txt"
-      ]
+      ],
+      "direct_file": "brief.md"
     },
     {
       "tool": "pwsh",
       "time": 1795431916809,
       "file_mentions": [
         "actions.csv"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": true,
+      "mentions_copy_operation": false
     },
     {
       "tool": "pwsh",
       "time": 1795431919034,
       "file_mentions": [
         "actions.csv"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": true,
+      "mentions_copy_operation": false
     },
     {
       "tool": "pwsh",
       "time": 1795431920913,
-      "file_mentions": []
+      "file_mentions": [],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "present",

@@ -6,21 +6,24 @@
       "time": 1795433267847,
       "file_mentions": [
         "actions.csv"
-      ]
+      ],
+      "direct_file": "actions.csv"
     },
     {
       "tool": "Read",
       "time": 1795433267912,
       "file_mentions": [
         "brief.md"
-      ]
+      ],
+      "direct_file": "brief.md"
     },
     {
       "tool": "Write",
       "time": 1795433270248,
       "file_mentions": [
         "actions-r2.csv"
-      ]
+      ],
+      "direct_file": "actions-r2.csv"
     },
     {
       "tool": "Write",
@@ -32,6 +35,7 @@
         "meeting-a.txt",
         "meeting-b.txt"
       ],
+      "direct_file": "brief-r2.md",
       "brief_text_contains": {
         "小周": true,
         "小陈": true,
@@ -46,7 +50,10 @@
         "actions-r2.csv",
         "actions.csv",
         "brief-r2.md"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Edit",
@@ -79,6 +86,10 @@
       "小陈": true,
       "2026-12-02": true,
       "2026-12-04": true
-    }
+    },
+    "change_rows": [
+      "| A02 | owner（负责人） | 小周 | 小陈 |",
+      "| A02 | due（截止日期） | 2026-12-02 | 2026-12-04 |"
+    ]
   }
 }

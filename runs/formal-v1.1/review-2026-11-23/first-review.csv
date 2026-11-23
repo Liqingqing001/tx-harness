@@ -509,3 +509,33 @@ T05-workbuddy-3,1,E03,pass,"recovery.md L8,24",2026-11-23T19:48:28+08:00
 T05-workbuddy-3,1,E04,pass,"recovery.md L7,8",2026-11-23T19:48:28+08:00
 T05-workbuddy-3,1,E05,pass,items.csv；recovery.md,2026-11-23T19:48:28+08:00
 T05-workbuddy-3,1,E06,pass,checks.json#input_hash_matches,2026-11-23T19:48:28+08:00
+T03-yuanbao-3,1,E01,pass,people-copy.csv,2026-11-23T19:52:49+08:00
+T03-yuanbao-3,1,E02,pass,stock-copy.csv,2026-11-23T19:52:49+08:00
+T03-yuanbao-3,1,E03,pass,"fields.md L3,8,5,10,6",2026-11-23T19:52:49+08:00
+T03-yuanbao-3,1,E04,pass,manifest.csv,2026-11-23T19:52:49+08:00
+T03-yuanbao-3,1,E05,pass,people-copy.csv；stock-copy.csv；fields.md；manifest.csv,2026-11-23T19:52:49+08:00
+T03-yuanbao-3,1,E06,unknown,只比到了本地上传源,2026-11-23T19:52:49+08:00
+T04-yuanbao-1,1,E01,pass,actions.csv,2026-11-23T19:56:17+08:00
+T04-yuanbao-1,1,E02,pass,"brief.md L7,8,9",2026-11-23T19:56:17+08:00
+T04-yuanbao-1,1,E03,pass,actions.csv；brief.md,2026-11-23T19:56:17+08:00
+T04-yuanbao-1,1,E04,pass,brief.md；public-reply.json#final,2026-11-23T19:56:17+08:00
+T04-yuanbao-1,1,E05,unknown,只比到了本地上传源,2026-11-23T19:56:17+08:00
+T04-yuanbao-1,2,E01,fail,actions-r2.csv,2026-11-23T19:56:17+08:00
+T04-yuanbao-1,2,E02,pass,"brief-r2.md L18,19,20",2026-11-23T19:56:17+08:00
+T04-yuanbao-1,2,E03,pass,actions-r2.csv；brief-r2.md,2026-11-23T19:56:17+08:00
+T04-yuanbao-1,2,E04,pass,brief-r2.md；public-reply.json#final,2026-11-23T19:56:17+08:00
+T04-yuanbao-1,2,E05,unknown,只比到了本地上传源,2026-11-23T19:56:17+08:00
+T04-yuanbao-1,2,E06,pass,"brief-r2.md L9,10,3",2026-11-23T19:56:17+08:00
+T04-yuanbao-1,2,E07,unknown,云端旧件未逐一重新下载,2026-11-23T19:56:17+08:00
+T04-yuanbao-2,1,E01,pass,actions.csv,2026-11-23T19:58:22+08:00
+T04-yuanbao-2,1,E02,pass,"brief.md L7,8,9",2026-11-23T19:58:22+08:00
+T04-yuanbao-2,1,E03,pass,actions.csv；brief.md,2026-11-23T19:58:22+08:00
+T04-yuanbao-2,1,E04,pass,brief.md；public-reply.json#final,2026-11-23T19:58:22+08:00
+T04-yuanbao-2,1,E05,unknown,只比到了本地上传源,2026-11-23T19:58:22+08:00
+T04-yuanbao-2,2,E01,pass,actions-r2.csv,2026-11-23T19:58:22+08:00
+T04-yuanbao-2,2,E02,pass,"brief-r2.md L7,8,9",2026-11-23T19:58:22+08:00
+T04-yuanbao-2,2,E03,pass,actions-r2.csv；brief-r2.md,2026-11-23T19:58:22+08:00
+T04-yuanbao-2,2,E04,pass,brief-r2.md；public-reply.json#final,2026-11-23T19:58:22+08:00
+T04-yuanbao-2,2,E05,unknown,只比到了本地上传源,2026-11-23T19:58:22+08:00
+T04-yuanbao-2,2,E06,pass,"brief-r2.md L15,16,3",2026-11-23T19:58:22+08:00
+T04-yuanbao-2,2,E07,unknown,云端旧件未逐一重新下载,2026-11-23T19:58:22+08:00

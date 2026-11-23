@@ -6,54 +6,70 @@
       "time": 1795434303242,
       "file_mentions": [
         "readme.txt"
-      ]
+      ],
+      "direct_file": "readme.txt"
     },
     {
       "tool": "Read",
       "time": 1795434303439,
       "file_mentions": [
         "primary.json"
-      ]
+      ],
+      "direct_file": "primary.json"
     },
     {
       "tool": "Read",
       "time": 1795434303476,
       "file_mentions": [
         "backup.csv"
-      ]
+      ],
+      "direct_file": "backup.csv"
     },
     {
       "tool": "Bash",
       "time": 1795434307883,
       "file_mentions": [
         "primary.json"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": true,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Bash",
       "time": 1795434311477,
       "file_mentions": [
         "primary.json"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": true,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Bash",
       "time": 1795434311482,
-      "file_mentions": []
+      "file_mentions": [],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Bash",
       "time": 1795434316908,
       "file_mentions": [
         "backup.csv"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Write",
       "time": 1795434322097,
       "file_mentions": [
         "items.csv"
-      ]
+      ],
+      "direct_file": "items.csv"
     },
     {
       "tool": "Write",
@@ -64,7 +80,8 @@
         "primary.json",
         "readme.txt",
         "recovery.md"
-      ]
+      ],
+      "direct_file": "recovery.md"
     },
     {
       "tool": "Bash",
@@ -72,7 +89,10 @@
       "file_mentions": [
         "items.csv",
         "recovery.md"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Bash",
@@ -80,7 +100,10 @@
       "file_mentions": [
         "items.csv",
         "recovery.md"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": true,
+      "mentions_copy_operation": false
     },
     {
       "tool": "present_files",

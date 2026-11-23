@@ -6,31 +6,40 @@
       "time": 1795433649015,
       "file_mentions": [
         "meeting-a.txt"
-      ]
+      ],
+      "direct_file": "meeting-a.txt"
     },
     {
       "tool": "Read",
       "time": 1795433650796,
       "file_mentions": [
         "meeting-b.txt"
-      ]
+      ],
+      "direct_file": "meeting-b.txt"
     },
     {
       "tool": "Bash",
       "time": 1795433653104,
-      "file_mentions": []
+      "file_mentions": [],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Bash",
       "time": 1795433658864,
-      "file_mentions": []
+      "file_mentions": [],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Write",
       "time": 1795433661419,
       "file_mentions": [
         "actions.csv"
-      ]
+      ],
+      "direct_file": "actions.csv"
     },
     {
       "tool": "Write",
@@ -39,7 +48,8 @@
         "brief.md",
         "meeting-a.txt",
         "meeting-b.txt"
-      ]
+      ],
+      "direct_file": "brief.md"
     },
     {
       "tool": "present_files",

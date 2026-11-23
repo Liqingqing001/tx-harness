@@ -4,26 +4,38 @@
     {
       "tool": "pwsh",
       "time": 1795430338422,
-      "file_mentions": []
+      "file_mentions": [],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "pwsh",
       "time": 1795430340351,
-      "file_mentions": []
+      "file_mentions": [],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "pwsh",
       "time": 1795430344515,
       "file_mentions": [
         "people.csv"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": true,
+      "mentions_copy_operation": false
     },
     {
       "tool": "pwsh",
       "time": 1795430346218,
       "file_mentions": [
         "stock.csv"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": true,
+      "mentions_copy_operation": false
     },
     {
       "tool": "pwsh",
@@ -33,7 +45,10 @@
         "people.csv",
         "stock-copy.csv",
         "stock.csv"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": true
     },
     {
       "tool": "write",
@@ -42,7 +57,8 @@
         "fields.md",
         "people.csv",
         "stock.csv"
-      ]
+      ],
+      "direct_file": "fields.md"
     },
     {
       "tool": "write",
@@ -51,7 +67,8 @@
         "manifest.csv",
         "people.csv",
         "stock.csv"
-      ]
+      ],
+      "direct_file": "manifest.csv"
     },
     {
       "tool": "pwsh",
@@ -63,7 +80,10 @@
         "people.csv",
         "stock-copy.csv",
         "stock.csv"
-      ]
+      ],
+      "mentions_hash_check": true,
+      "mentions_read_operation": true,
+      "mentions_copy_operation": false
     },
     {
       "tool": "pwsh",
@@ -71,7 +91,10 @@
       "file_mentions": [
         "fields.md",
         "manifest.csv"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": true,
+      "mentions_copy_operation": false
     },
     {
       "tool": "present",

@@ -1,0 +1,27 @@
+{
+  "file": "actions-r2.csv",
+  "sha256": "12ac540e6f449a58635972c1c1cb808d8a69cdd9eb5443fad7e0d3b7cb0710cf",
+  "bytes": 134,
+  "utf8_bom": true,
+  "cr_cr_lf_sequences": 4,
+  "csv_field_counts_including_header": [
+    4,
+    0,
+    4,
+    0,
+    4,
+    0,
+    4,
+    0
+  ],
+  "nonempty_data_rows": 3,
+  "blank_records": 4,
+  "A02": [
+    [
+      "A02",
+      "小陈",
+      "更新预算",
+      "2026-12-04"
+    ]
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "source": "原生专家模式已处理标记至文件卡前的可见答复",
+  "final": "第二轮修订已完成，首轮文件原样保留。\nA02 变更对照\n字段\n原值\n新值\nowner\n小周\n小陈\ndue\n2026-12-02\n2026-12-04\ntask 字段仍为「更新预算」，未改动。\n待办清单（id 升序）\nid\nowner\ntask\ndue\n来源文件\n记录编号\nA01\n小林\n核对库存\n2026-12-01\nmeeting-a.txt\nA01\nA02\n小陈\n更新预算\n2026-12-04\nmeeting-a.txt\nA02\nA03\n小吴\n整理纪要\n2026-12-03\nmeeting-b.txt\nA03\n其余记录与字段均保持不变：A01（owner 小林、task 核对库存、due 2026-12-01）、A03（owner 小吴、task 整理纪要、due 2026-12-03）与首轮完全一致，清单总数 3 项、升序排序方式未变。首轮 actions.csv 与 brief.md 已保留，未被覆盖。"
+}

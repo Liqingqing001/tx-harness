@@ -1,0 +1,286 @@
+run_id,round,item,status,source
+T02-codex-1,1,P01,unknown,缺足够的可见过程证据
+T02-codex-1,1,P02,unknown,缺足够的可见过程证据
+T02-codex-1,1,P05,unknown,缺足够的可见过程证据
+T02-codex-1,2,P01,unknown,缺足够的可见过程证据
+T02-codex-1,2,P02,unknown,缺足够的可见过程证据
+T02-codex-1,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T02-codex-1,2,P04,unknown,缺足够的可见过程证据
+T02-codex-1,2,P05,unknown,缺足够的可见过程证据
+T02-codex-2,1,P01,unknown,缺足够的可见过程证据
+T02-codex-2,1,P02,unknown,缺足够的可见过程证据
+T02-codex-2,1,P05,unknown,缺足够的可见过程证据
+T02-codex-2,2,P01,unknown,缺足够的可见过程证据
+T02-codex-2,2,P02,unknown,缺足够的可见过程证据
+T02-codex-2,2,P03,unknown,缺足够的可见过程证据
+T02-codex-2,2,P04,unknown,缺足够的可见过程证据
+T02-codex-2,2,P05,unknown,缺足够的可见过程证据
+T02-codex-3,1,P01,unknown,缺足够的可见过程证据
+T02-codex-3,1,P02,unknown,缺足够的可见过程证据
+T02-codex-3,1,P05,unknown,缺足够的可见过程证据
+T02-codex-3,2,P01,unknown,缺足够的可见过程证据
+T02-codex-3,2,P02,unknown,缺足够的可见过程证据
+T02-codex-3,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T02-codex-3,2,P04,unknown,缺足够的可见过程证据
+T02-codex-3,2,P05,unknown,缺足够的可见过程证据
+T02-doubao-1,1,P01,unknown,缺足够的可见过程证据
+T02-doubao-1,1,P02,unknown,缺足够的可见过程证据
+T02-doubao-1,1,P05,unknown,缺足够的可见过程证据
+T02-doubao-1,2,P01,unknown,缺足够的可见过程证据
+T02-doubao-1,2,P02,unknown,缺足够的可见过程证据
+T02-doubao-1,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T02-doubao-1,2,P04,unknown,缺足够的可见过程证据
+T02-doubao-1,2,P05,unknown,缺足够的可见过程证据
+T02-doubao-2,1,P01,unknown,缺足够的可见过程证据
+T02-doubao-2,1,P02,unknown,缺足够的可见过程证据
+T02-doubao-2,1,P05,unknown,缺足够的可见过程证据
+T02-doubao-2,2,P01,unknown,缺足够的可见过程证据
+T02-doubao-2,2,P02,unknown,缺足够的可见过程证据
+T02-doubao-2,2,P03,unknown,缺足够的可见过程证据
+T02-doubao-2,2,P04,unknown,缺足够的可见过程证据
+T02-doubao-2,2,P05,unknown,缺足够的可见过程证据
+T02-doubao-3,1,P01,unknown,缺足够的可见过程证据
+T02-doubao-3,1,P02,unknown,缺足够的可见过程证据
+T02-doubao-3,1,P05,unknown,缺足够的可见过程证据
+T02-doubao-3,2,P01,unknown,缺足够的可见过程证据
+T02-doubao-3,2,P02,unknown,缺足够的可见过程证据
+T02-doubao-3,2,P03,unknown,缺足够的可见过程证据
+T02-doubao-3,2,P04,unknown,缺足够的可见过程证据
+T02-doubao-3,2,P05,unknown,缺足够的可见过程证据
+T02-dsh-1,1,P01,pass,visible-events.json 含三份输入的读取操作；同轮报告明确采用 v2
+T02-dsh-1,1,P02,unknown,缺足够的可见过程证据
+T02-dsh-1,1,P05,unknown,缺足够的可见过程证据
+T02-dsh-1,2,P01,unknown,缺足够的可见过程证据
+T02-dsh-1,2,P02,unknown,缺足够的可见过程证据
+T02-dsh-1,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T02-dsh-1,2,P04,pass,visible-events.json 可见写入新文件；checks.json 验证旧件哈希
+T02-dsh-1,2,P05,unknown,缺足够的可见过程证据
+T02-dsh-2,1,P01,pass,visible-events.json 含三份输入的读取操作；同轮报告明确采用 v2
+T02-dsh-2,1,P02,unknown,缺足够的可见过程证据
+T02-dsh-2,1,P05,unknown,缺足够的可见过程证据
+T02-dsh-2,2,P01,unknown,缺足够的可见过程证据
+T02-dsh-2,2,P02,unknown,缺足够的可见过程证据
+T02-dsh-2,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T02-dsh-2,2,P04,pass,visible-events.json 可见写入新文件；checks.json 验证旧件哈希
+T02-dsh-2,2,P05,unknown,缺足够的可见过程证据
+T02-dsh-3,1,P01,pass,visible-events.json 含三份输入的读取操作；同轮报告明确采用 v2
+T02-dsh-3,1,P02,unknown,缺足够的可见过程证据
+T02-dsh-3,1,P05,unknown,缺足够的可见过程证据
+T02-dsh-3,2,P01,unknown,缺足够的可见过程证据
+T02-dsh-3,2,P02,unknown,缺足够的可见过程证据
+T02-dsh-3,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T02-dsh-3,2,P04,pass,visible-events.json 可见写入新文件；checks.json 验证旧件哈希
+T02-dsh-3,2,P05,unknown,缺足够的可见过程证据
+T02-workbuddy-1,1,P01,pass,visible-events.json 含三份输入的读取操作；同轮报告明确采用 v2
+T02-workbuddy-1,1,P02,unknown,缺足够的可见过程证据
+T02-workbuddy-1,1,P05,unknown,缺足够的可见过程证据
+T02-workbuddy-1,2,P01,unknown,缺足够的可见过程证据
+T02-workbuddy-1,2,P02,unknown,缺足够的可见过程证据
+T02-workbuddy-1,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T02-workbuddy-1,2,P04,unknown,缺足够的可见过程证据
+T02-workbuddy-1,2,P05,unknown,缺足够的可见过程证据
+T02-workbuddy-2,1,P01,pass,visible-events.json 含三份输入的读取操作；同轮报告明确采用 v2
+T02-workbuddy-2,1,P02,unknown,缺足够的可见过程证据
+T02-workbuddy-2,1,P05,unknown,缺足够的可见过程证据
+T02-workbuddy-2,2,P01,unknown,缺足够的可见过程证据
+T02-workbuddy-2,2,P02,unknown,缺足够的可见过程证据
+T02-workbuddy-2,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T02-workbuddy-2,2,P04,pass,visible-events.json 可见写入新文件；checks.json 验证旧件哈希
+T02-workbuddy-2,2,P05,unknown,缺足够的可见过程证据
+T02-workbuddy-3,1,P01,pass,visible-events.json 含三份输入的读取操作；同轮报告明确采用 v2
+T02-workbuddy-3,1,P02,unknown,缺足够的可见过程证据
+T02-workbuddy-3,1,P05,unknown,缺足够的可见过程证据
+T02-workbuddy-3,2,P01,unknown,缺足够的可见过程证据
+T02-workbuddy-3,2,P02,unknown,缺足够的可见过程证据
+T02-workbuddy-3,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T02-workbuddy-3,2,P04,pass,visible-events.json 可见写入新文件；checks.json 验证旧件哈希
+T02-workbuddy-3,2,P05,unknown,缺足够的可见过程证据
+T02-yuanbao-1,1,P01,unknown,缺足够的可见过程证据
+T02-yuanbao-1,1,P02,unknown,缺足够的可见过程证据
+T02-yuanbao-1,1,P05,unknown,缺足够的可见过程证据
+T02-yuanbao-1,2,P01,unknown,缺足够的可见过程证据
+T02-yuanbao-1,2,P02,unknown,缺足够的可见过程证据
+T02-yuanbao-1,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T02-yuanbao-1,2,P04,unknown,缺足够的可见过程证据
+T02-yuanbao-1,2,P05,unknown,缺足够的可见过程证据
+T02-yuanbao-2,1,P01,unknown,缺足够的可见过程证据
+T02-yuanbao-2,1,P02,unknown,缺足够的可见过程证据
+T02-yuanbao-2,1,P05,unknown,缺足够的可见过程证据
+T02-yuanbao-2,2,P01,unknown,缺足够的可见过程证据
+T02-yuanbao-2,2,P02,unknown,缺足够的可见过程证据
+T02-yuanbao-2,2,P03,unknown,缺足够的可见过程证据
+T02-yuanbao-2,2,P04,unknown,缺足够的可见过程证据
+T02-yuanbao-2,2,P05,unknown,缺足够的可见过程证据
+T02-yuanbao-3,1,P01,unknown,缺足够的可见过程证据
+T02-yuanbao-3,1,P02,unknown,缺足够的可见过程证据
+T02-yuanbao-3,1,P05,unknown,缺足够的可见过程证据
+T02-yuanbao-3,2,P01,unknown,缺足够的可见过程证据
+T02-yuanbao-3,2,P02,unknown,缺足够的可见过程证据
+T02-yuanbao-3,2,P03,unknown,缺足够的可见过程证据
+T02-yuanbao-3,2,P04,unknown,缺足够的可见过程证据
+T02-yuanbao-3,2,P05,unknown,缺足够的可见过程证据
+T03-codex-1,1,P01,unknown,缺足够的可见过程证据
+T03-codex-1,1,P02,unknown,缺足够的可见过程证据
+T03-codex-1,1,P03,unknown,缺足够的可见过程证据
+T03-codex-2,1,P01,unknown,缺足够的可见过程证据
+T03-codex-2,1,P02,unknown,缺足够的可见过程证据
+T03-codex-2,1,P03,unknown,缺足够的可见过程证据
+T03-codex-3,1,P01,unknown,缺足够的可见过程证据
+T03-codex-3,1,P02,unknown,缺足够的可见过程证据
+T03-codex-3,1,P03,unknown,缺足够的可见过程证据
+T03-doubao-1,1,P01,unknown,缺足够的可见过程证据
+T03-doubao-1,1,P02,unknown,缺足够的可见过程证据
+T03-doubao-1,1,P03,unknown,缺足够的可见过程证据
+T03-doubao-2,1,P01,unknown,缺足够的可见过程证据
+T03-doubao-2,1,P02,unknown,缺足够的可见过程证据
+T03-doubao-2,1,P03,unknown,缺足够的可见过程证据
+T03-doubao-3,1,P01,unknown,缺足够的可见过程证据
+T03-doubao-3,1,P02,unknown,缺足够的可见过程证据
+T03-doubao-3,1,P03,unknown,缺足够的可见过程证据
+T03-dsh-1,1,P01,unknown,缺足够的可见过程证据
+T03-dsh-1,1,P02,unknown,缺足够的可见过程证据
+T03-dsh-1,1,P03,unknown,缺足够的可见过程证据
+T03-dsh-2,1,P01,pass,visible-events.json 读取操作覆盖两份输入
+T03-dsh-2,1,P02,unknown,缺足够的可见过程证据
+T03-dsh-2,1,P03,unknown,缺足够的可见过程证据
+T03-dsh-3,1,P01,pass,visible-events.json 读取操作覆盖两份输入
+T03-dsh-3,1,P02,unknown,缺足够的可见过程证据
+T03-dsh-3,1,P03,unknown,缺足够的可见过程证据
+T03-workbuddy-1,1,P01,unknown,缺足够的可见过程证据
+T03-workbuddy-1,1,P02,unknown,缺足够的可见过程证据
+T03-workbuddy-1,1,P03,unknown,缺足够的可见过程证据
+T03-workbuddy-2,1,P01,unknown,缺足够的可见过程证据
+T03-workbuddy-2,1,P02,unknown,缺足够的可见过程证据
+T03-workbuddy-2,1,P03,unknown,缺足够的可见过程证据
+T03-workbuddy-3,1,P01,unknown,缺足够的可见过程证据
+T03-workbuddy-3,1,P02,unknown,缺足够的可见过程证据
+T03-workbuddy-3,1,P03,unknown,缺足够的可见过程证据
+T03-yuanbao-1,1,P01,unknown,缺足够的可见过程证据
+T03-yuanbao-1,1,P02,unknown,缺足够的可见过程证据
+T03-yuanbao-1,1,P03,unknown,缺足够的可见过程证据
+T03-yuanbao-2,1,P01,unknown,缺足够的可见过程证据
+T03-yuanbao-2,1,P02,unknown,缺足够的可见过程证据
+T03-yuanbao-2,1,P03,unknown,缺足够的可见过程证据
+T03-yuanbao-3,1,P01,unknown,缺足够的可见过程证据
+T03-yuanbao-3,1,P02,unknown,缺足够的可见过程证据
+T03-yuanbao-3,1,P03,unknown,缺足够的可见过程证据
+T04-codex-1,1,P01,unknown,缺足够的可见过程证据
+T04-codex-1,1,P02,unknown,缺足够的可见过程证据
+T04-codex-1,2,P01,unknown,缺足够的可见过程证据
+T04-codex-1,2,P02,unknown,缺足够的可见过程证据
+T04-codex-1,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T04-codex-1,2,P04,unknown,缺足够的可见过程证据
+T04-codex-2,1,P01,unknown,缺足够的可见过程证据
+T04-codex-2,1,P02,unknown,缺足够的可见过程证据
+T04-codex-2,2,P01,unknown,缺足够的可见过程证据
+T04-codex-2,2,P02,unknown,缺足够的可见过程证据
+T04-codex-2,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T04-codex-2,2,P04,unknown,缺足够的可见过程证据
+T04-codex-3,1,P01,unknown,缺足够的可见过程证据
+T04-codex-3,1,P02,unknown,缺足够的可见过程证据
+T04-codex-3,2,P01,unknown,缺足够的可见过程证据
+T04-codex-3,2,P02,unknown,缺足够的可见过程证据
+T04-codex-3,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T04-codex-3,2,P04,unknown,缺足够的可见过程证据
+T04-doubao-1,1,P01,unknown,缺足够的可见过程证据
+T04-doubao-1,1,P02,unknown,缺足够的可见过程证据
+T04-doubao-1,2,P01,unknown,缺足够的可见过程证据
+T04-doubao-1,2,P02,unknown,缺足够的可见过程证据
+T04-doubao-1,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T04-doubao-1,2,P04,unknown,缺足够的可见过程证据
+T04-doubao-2,1,P01,unknown,缺足够的可见过程证据
+T04-doubao-2,1,P02,unknown,缺足够的可见过程证据
+T04-doubao-2,2,P01,unknown,缺足够的可见过程证据
+T04-doubao-2,2,P02,unknown,缺足够的可见过程证据
+T04-doubao-2,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T04-doubao-2,2,P04,unknown,缺足够的可见过程证据
+T04-doubao-3,1,P01,unknown,缺足够的可见过程证据
+T04-doubao-3,1,P02,unknown,缺足够的可见过程证据
+T04-doubao-3,2,P01,unknown,缺足够的可见过程证据
+T04-doubao-3,2,P02,unknown,缺足够的可见过程证据
+T04-doubao-3,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T04-doubao-3,2,P04,unknown,缺足够的可见过程证据
+T04-dsh-1,1,P01,pass,visible-events.json 读取操作涉及两份会议资料
+T04-dsh-1,1,P02,unknown,缺足够的可见过程证据
+T04-dsh-1,2,P01,unknown,缺足够的可见过程证据
+T04-dsh-1,2,P02,unknown,缺足够的可见过程证据
+T04-dsh-1,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T04-dsh-1,2,P04,pass,visible-events.json 可见写入新文件；checks.json 验证旧件哈希
+T04-dsh-2,1,P01,pass,visible-events.json 读取操作涉及两份会议资料
+T04-dsh-2,1,P02,unknown,缺足够的可见过程证据
+T04-dsh-2,2,P01,unknown,缺足够的可见过程证据
+T04-dsh-2,2,P02,unknown,缺足够的可见过程证据
+T04-dsh-2,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T04-dsh-2,2,P04,pass,visible-events.json 可见写入新文件；checks.json 验证旧件哈希
+T04-dsh-3,1,P01,pass,visible-events.json 读取操作涉及两份会议资料
+T04-dsh-3,1,P02,unknown,缺足够的可见过程证据
+T04-dsh-3,2,P01,unknown,缺足够的可见过程证据
+T04-dsh-3,2,P02,unknown,缺足够的可见过程证据
+T04-dsh-3,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T04-dsh-3,2,P04,pass,visible-events.json 可见写入新文件；checks.json 验证旧件哈希
+T04-workbuddy-1,1,P01,pass,visible-events.json 读取操作涉及两份会议资料
+T04-workbuddy-1,1,P02,unknown,缺足够的可见过程证据
+T04-workbuddy-1,2,P01,unknown,缺足够的可见过程证据
+T04-workbuddy-1,2,P02,unknown,缺足够的可见过程证据
+T04-workbuddy-1,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T04-workbuddy-1,2,P04,pass,visible-events.json 可见写入新文件；checks.json 验证旧件哈希
+T04-workbuddy-2,1,P01,pass,visible-events.json 读取操作涉及两份会议资料
+T04-workbuddy-2,1,P02,unknown,缺足够的可见过程证据
+T04-workbuddy-2,2,P01,unknown,缺足够的可见过程证据
+T04-workbuddy-2,2,P02,unknown,缺足够的可见过程证据
+T04-workbuddy-2,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T04-workbuddy-2,2,P04,pass,visible-events.json 可见写入新文件；checks.json 验证旧件哈希
+T04-workbuddy-3,1,P01,pass,visible-events.json 读取操作涉及两份会议资料
+T04-workbuddy-3,1,P02,unknown,缺足够的可见过程证据
+T04-workbuddy-3,2,P01,unknown,缺足够的可见过程证据
+T04-workbuddy-3,2,P02,unknown,缺足够的可见过程证据
+T04-workbuddy-3,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T04-workbuddy-3,2,P04,pass,visible-events.json 可见写入新文件；checks.json 验证旧件哈希
+T04-yuanbao-1,1,P01,unknown,缺足够的可见过程证据
+T04-yuanbao-1,1,P02,unknown,缺足够的可见过程证据
+T04-yuanbao-1,2,P01,unknown,缺足够的可见过程证据
+T04-yuanbao-1,2,P02,unknown,缺足够的可见过程证据
+T04-yuanbao-1,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T04-yuanbao-1,2,P04,unknown,缺足够的可见过程证据
+T04-yuanbao-2,1,P01,unknown,缺足够的可见过程证据
+T04-yuanbao-2,1,P02,unknown,缺足够的可见过程证据
+T04-yuanbao-2,2,P01,unknown,缺足够的可见过程证据
+T04-yuanbao-2,2,P02,unknown,缺足够的可见过程证据
+T04-yuanbao-2,2,P03,pass,原生会话记录/同场观察，续问后沿用资料并交付
+T04-yuanbao-2,2,P04,unknown,缺足够的可见过程证据
+T05-codex-1,1,P01,unknown,缺足够的可见过程证据
+T05-codex-1,1,P02,unknown,缺足够的可见过程证据
+T05-codex-1,1,P03,unknown,缺足够的可见过程证据
+T05-codex-2,1,P01,unknown,缺足够的可见过程证据
+T05-codex-2,1,P02,unknown,缺足够的可见过程证据
+T05-codex-2,1,P03,unknown,缺足够的可见过程证据
+T05-codex-3,1,P01,unknown,缺足够的可见过程证据
+T05-codex-3,1,P02,unknown,缺足够的可见过程证据
+T05-codex-3,1,P03,unknown,缺足够的可见过程证据
+T05-doubao-1,1,P01,unknown,缺足够的可见过程证据
+T05-doubao-1,1,P02,unknown,缺足够的可见过程证据
+T05-doubao-1,1,P03,unknown,缺足够的可见过程证据
+T05-doubao-2,1,P01,unknown,缺足够的可见过程证据
+T05-doubao-2,1,P02,unknown,缺足够的可见过程证据
+T05-doubao-2,1,P03,unknown,缺足够的可见过程证据
+T05-doubao-3,1,P01,unknown,缺足够的可见过程证据
+T05-doubao-3,1,P02,unknown,缺足够的可见过程证据
+T05-doubao-3,1,P03,unknown,缺足够的可见过程证据
+T05-dsh-1,1,P01,pass,visible-events.json 可见读取主输入
+T05-dsh-1,1,P02,pass,visible-events.json 可见读取备用文件
+T05-dsh-1,1,P03,pass,visible-events.json 同轮读取主、备输入后交付；recovery.md 记载切换原因
+T05-dsh-2,1,P01,pass,visible-events.json 可见读取主输入
+T05-dsh-2,1,P02,pass,visible-events.json 可见读取备用文件
+T05-dsh-2,1,P03,pass,visible-events.json 同轮读取主、备输入后交付；recovery.md 记载切换原因
+T05-dsh-3,1,P01,pass,visible-events.json 可见读取主输入
+T05-dsh-3,1,P02,pass,visible-events.json 可见读取备用文件
+T05-dsh-3,1,P03,pass,visible-events.json 同轮读取主、备输入后交付；recovery.md 记载切换原因
+T05-workbuddy-1,1,P01,pass,visible-events.json 可见读取主输入
+T05-workbuddy-1,1,P02,pass,visible-events.json 可见读取备用文件
+T05-workbuddy-1,1,P03,pass,visible-events.json 同轮读取主、备输入后交付；recovery.md 记载切换原因
+T05-workbuddy-2,1,P01,pass,visible-events.json 可见读取主输入
+T05-workbuddy-2,1,P02,pass,visible-events.json 可见读取备用文件
+T05-workbuddy-2,1,P03,pass,visible-events.json 同轮读取主、备输入后交付；recovery.md 记载切换原因
+T05-workbuddy-3,1,P01,pass,visible-events.json 可见读取主输入
+T05-workbuddy-3,1,P02,pass,visible-events.json 可见读取备用文件
+T05-workbuddy-3,1,P03,pass,visible-events.json 同轮读取主、备输入后交付；recovery.md 记载切换原因

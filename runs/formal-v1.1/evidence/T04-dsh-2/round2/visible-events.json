@@ -6,14 +6,16 @@
       "time": 1795431944478,
       "file_mentions": [
         "brief.md"
-      ]
+      ],
+      "direct_file": "brief.md"
     },
     {
       "tool": "write",
       "time": 1795431947827,
       "file_mentions": [
         "actions-r2.csv"
-      ]
+      ],
+      "direct_file": "actions-r2.csv"
     },
     {
       "tool": "write",
@@ -25,7 +27,8 @@
         "brief.md",
         "meeting-a.txt",
         "meeting-b.txt"
-      ]
+      ],
+      "direct_file": "brief-r2.md"
     },
     {
       "tool": "pwsh",
@@ -33,7 +36,10 @@
       "file_mentions": [
         "actions-r2.csv",
         "actions.csv"
-      ]
+      ],
+      "mentions_hash_check": true,
+      "mentions_read_operation": true,
+      "mentions_copy_operation": false
     },
     {
       "tool": "present",

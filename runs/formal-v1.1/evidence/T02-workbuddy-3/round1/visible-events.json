@@ -6,45 +6,56 @@
       "time": 1795430320206,
       "file_mentions": [
         "orders.csv"
-      ]
+      ],
+      "direct_file": "orders.csv"
     },
     {
       "tool": "Read",
       "time": 1795430321867,
       "file_mentions": [
         "policy-v1.md"
-      ]
+      ],
+      "direct_file": "policy-v1.md"
     },
     {
       "tool": "Read",
       "time": 1795430323379,
       "file_mentions": [
         "policy-v2.md"
-      ]
+      ],
+      "direct_file": "policy-v2.md"
     },
     {
       "tool": "Bash",
       "time": 1795430335537,
-      "file_mentions": []
+      "file_mentions": [],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Bash",
       "time": 1795430338856,
-      "file_mentions": []
+      "file_mentions": [],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Write",
       "time": 1795430345185,
       "file_mentions": [
         "summary.csv"
-      ]
+      ],
+      "direct_file": "summary.csv"
     },
     {
       "tool": "Write",
       "time": 1795430347188,
       "file_mentions": [
         "exceptions.csv"
-      ]
+      ],
+      "direct_file": "exceptions.csv"
     },
     {
       "tool": "Write",
@@ -56,7 +67,8 @@
         "policy-v2.md",
         "report.md",
         "summary.csv"
-      ]
+      ],
+      "direct_file": "report.md"
     },
     {
       "tool": "Bash",
@@ -65,7 +77,10 @@
         "exceptions.csv",
         "report.md",
         "summary.csv"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Bash",
@@ -73,19 +88,28 @@
       "file_mentions": [
         "exceptions.csv",
         "summary.csv"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": true,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Bash",
       "time": 1795430369204,
       "file_mentions": [
         "report.md"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": true,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Bash",
       "time": 1795430373354,
-      "file_mentions": []
+      "file_mentions": [],
+      "mentions_hash_check": false,
+      "mentions_read_operation": false,
+      "mentions_copy_operation": false
     },
     {
       "tool": "Write",

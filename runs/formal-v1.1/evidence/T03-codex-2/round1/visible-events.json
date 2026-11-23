@@ -1,0 +1,49 @@
+{
+  "calls": [
+    {
+      "tool": "exec",
+      "time": "2026-11-23T10:41:04.512Z",
+      "file_mentions": [],
+      "mentions_hash_check": false,
+      "mentions_copy_operation": false,
+      "mentions_read_operation": true
+    },
+    {
+      "tool": "exec",
+      "time": "2026-11-23T10:41:09.704Z",
+      "file_mentions": [
+        "people.csv",
+        "stock.csv"
+      ],
+      "mentions_hash_check": false,
+      "mentions_copy_operation": false,
+      "mentions_read_operation": true
+    },
+    {
+      "tool": "exec",
+      "time": "2026-11-23T10:41:22.104Z",
+      "file_mentions": [
+        "fields.md",
+        "manifest.csv",
+        "people-copy.csv",
+        "people.csv",
+        "stock-copy.csv",
+        "stock.csv"
+      ],
+      "mentions_hash_check": false,
+      "mentions_copy_operation": true,
+      "mentions_read_operation": true
+    }
+  ],
+  "final": {
+    "time": "2026-11-23T10:41:29.382Z",
+    "characters": 86,
+    "mentions_case_canary": false,
+    "file_mentions": [
+      "fields.md",
+      "manifest.csv",
+      "people-copy.csv",
+      "stock-copy.csv"
+    ]
+  }
+}

@@ -6,14 +6,16 @@
       "time": 1795429934169,
       "file_mentions": [
         "summary-r2.csv"
-      ]
+      ],
+      "direct_file": "summary-r2.csv"
     },
     {
       "tool": "write",
       "time": 1795429934250,
       "file_mentions": [
         "exceptions-r2.csv"
-      ]
+      ],
+      "direct_file": "exceptions-r2.csv"
     },
     {
       "tool": "write",
@@ -28,7 +30,8 @@
         "report.md",
         "summary-r2.csv",
         "summary.csv"
-      ]
+      ],
+      "direct_file": "report-r2.md"
     },
     {
       "tool": "pwsh",
@@ -38,7 +41,10 @@
         "exceptions.csv",
         "summary-r2.csv",
         "summary.csv"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": true,
+      "mentions_copy_operation": false
     },
     {
       "tool": "present",

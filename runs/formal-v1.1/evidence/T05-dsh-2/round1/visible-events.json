@@ -6,21 +6,24 @@
       "time": 1795432427901,
       "file_mentions": [
         "readme.txt"
-      ]
+      ],
+      "direct_file": "readme.txt"
     },
     {
       "tool": "read",
       "time": 1795432427902,
       "file_mentions": [
         "primary.json"
-      ]
+      ],
+      "direct_file": "primary.json"
     },
     {
       "tool": "read",
       "time": 1795432427903,
       "file_mentions": [
         "backup.csv"
-      ]
+      ],
+      "direct_file": "backup.csv"
     },
     {
       "tool": "pwsh",
@@ -28,14 +31,18 @@
       "file_mentions": [
         "backup.csv",
         "primary.json"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": true,
+      "mentions_copy_operation": false
     },
     {
       "tool": "write",
       "time": 1795432436691,
       "file_mentions": [
         "items.csv"
-      ]
+      ],
+      "direct_file": "items.csv"
     },
     {
       "tool": "write",
@@ -46,7 +53,8 @@
         "primary.json",
         "readme.txt",
         "recovery.md"
-      ]
+      ],
+      "direct_file": "recovery.md"
     },
     {
       "tool": "pwsh",
@@ -55,7 +63,10 @@
         "backup.csv",
         "items.csv",
         "primary.json"
-      ]
+      ],
+      "mentions_hash_check": false,
+      "mentions_read_operation": true,
+      "mentions_copy_operation": false
     },
     {
       "tool": "present",

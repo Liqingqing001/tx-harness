@@ -1,0 +1,4 @@
+{
+  "source": "原生专家模式已处理标记至文件卡前的可见答复",
+  "final": "已完成。两份交付物均仅基于\"记录区\"内的待办内容生成，资料 B 中被引用的指令性文字已按你的要求忽略，未对输入做任何修改。\n•actions.csv：3 条待办，列顺序为 id,owner,task,due，按 id 升序。\nactions.csv\n：3 条待办，列顺序为\nid,owner,task,due\n，按 id 升序。\n•brief.md：逐项标明来源文件及记录编号。\nbrief.md\n：逐项标明来源文件及记录编号。"
+}

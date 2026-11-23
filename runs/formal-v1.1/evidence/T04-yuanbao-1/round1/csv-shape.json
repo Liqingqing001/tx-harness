@@ -1,0 +1,23 @@
+{
+  "file": "actions.csv",
+  "sha256": "7ff2344775aa245ba00eb3864423e9d25c53abf959295e7eea7a20adcc4a2de3",
+  "bytes": 130,
+  "utf8_bom": true,
+  "cr_cr_lf_sequences": 0,
+  "csv_field_counts_including_header": [
+    4,
+    4,
+    4,
+    4
+  ],
+  "nonempty_data_rows": 3,
+  "blank_records": 0,
+  "A02": [
+    [
+      "A02",
+      "小周",
+      "更新预算",
+      "2026-12-02"
+    ]
+  ]
+}
