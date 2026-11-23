@@ -1,0 +1,80 @@
+{
+  "sent": 1795432426328,
+  "calls": [
+    {
+      "tool": "read",
+      "time": 1795432427901,
+      "file_mentions": [
+        "readme.txt"
+      ]
+    },
+    {
+      "tool": "read",
+      "time": 1795432427902,
+      "file_mentions": [
+        "primary.json"
+      ]
+    },
+    {
+      "tool": "read",
+      "time": 1795432427903,
+      "file_mentions": [
+        "backup.csv"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795432430389,
+      "file_mentions": [
+        "backup.csv",
+        "primary.json"
+      ]
+    },
+    {
+      "tool": "write",
+      "time": 1795432436691,
+      "file_mentions": [
+        "items.csv"
+      ]
+    },
+    {
+      "tool": "write",
+      "time": 1795432436760,
+      "file_mentions": [
+        "backup.csv",
+        "items.csv",
+        "primary.json",
+        "readme.txt",
+        "recovery.md"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795432438907,
+      "file_mentions": [
+        "backup.csv",
+        "items.csv",
+        "primary.json"
+      ]
+    },
+    {
+      "tool": "present",
+      "time": 1795432443605,
+      "file_mentions": [
+        "items.csv",
+        "recovery.md"
+      ]
+    }
+  ],
+  "final": {
+    "time": 1795432445644,
+    "characters": 590,
+    "mentions_case_canary": false,
+    "file_mentions": [
+      "backup.csv",
+      "items.csv",
+      "primary.json",
+      "recovery.md"
+    ]
+  }
+}

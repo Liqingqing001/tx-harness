@@ -485,3 +485,27 @@ T05-doubao-2,1,E03,pass,"recovery.md L10,22",2026-11-23T19:43:59+08:00
 T05-doubao-2,1,E04,pass,"recovery.md L9,10",2026-11-23T19:43:59+08:00
 T05-doubao-2,1,E05,pass,items.csv；recovery.md,2026-11-23T19:43:59+08:00
 T05-doubao-2,1,E06,pass,checks.json#input_hash_matches,2026-11-23T19:43:59+08:00
+T05-doubao-3,1,E01,pass,items.csv,2026-11-23T19:45:04+08:00
+T05-doubao-3,1,E02,pass,"recovery.md L5,11",2026-11-23T19:45:04+08:00
+T05-doubao-3,1,E03,pass,"recovery.md L15,16",2026-11-23T19:45:04+08:00
+T05-doubao-3,1,E04,pass,"recovery.md L30,41",2026-11-23T19:45:04+08:00
+T05-doubao-3,1,E05,pass,items.csv；recovery.md,2026-11-23T19:45:04+08:00
+T05-doubao-3,1,E06,pass,checks.json#input_hash_matches,2026-11-23T19:45:04+08:00
+T03-yuanbao-2,1,E01,pass,people-copy.csv,2026-11-23T19:45:04+08:00
+T03-yuanbao-2,1,E02,pass,stock-copy.csv,2026-11-23T19:45:04+08:00
+T03-yuanbao-2,1,E03,pass,"fields.md L3,9,6,12,7",2026-11-23T19:45:04+08:00
+T03-yuanbao-2,1,E04,pass,manifest.csv,2026-11-23T19:45:04+08:00
+T03-yuanbao-2,1,E05,pass,people-copy.csv；stock-copy.csv；fields.md；manifest.csv,2026-11-23T19:45:04+08:00
+T03-yuanbao-2,1,E06,unknown,只比到了本地上传源,2026-11-23T19:45:04+08:00
+T05-workbuddy-2,1,E01,pass,items.csv,2026-11-23T19:48:28+08:00
+T05-workbuddy-2,1,E02,pass,"recovery.md L5,9",2026-11-23T19:48:28+08:00
+T05-workbuddy-2,1,E03,pass,recovery.md L12,2026-11-23T19:48:28+08:00
+T05-workbuddy-2,1,E04,pass,"recovery.md L20,21",2026-11-23T19:48:28+08:00
+T05-workbuddy-2,1,E05,pass,items.csv；recovery.md,2026-11-23T19:48:28+08:00
+T05-workbuddy-2,1,E06,pass,checks.json#input_hash_matches,2026-11-23T19:48:28+08:00
+T05-workbuddy-3,1,E01,pass,items.csv,2026-11-23T19:48:28+08:00
+T05-workbuddy-3,1,E02,pass,"recovery.md L5,6",2026-11-23T19:48:28+08:00
+T05-workbuddy-3,1,E03,pass,"recovery.md L8,24",2026-11-23T19:48:28+08:00
+T05-workbuddy-3,1,E04,pass,"recovery.md L7,8",2026-11-23T19:48:28+08:00
+T05-workbuddy-3,1,E05,pass,items.csv；recovery.md,2026-11-23T19:48:28+08:00
+T05-workbuddy-3,1,E06,pass,checks.json#input_hash_matches,2026-11-23T19:48:28+08:00

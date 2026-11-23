@@ -84,6 +84,12 @@
       "actions.csv",
       "brief-r2.md",
       "brief.md"
-    ]
+    ],
+    "change_value_mentions": {
+      "小周": true,
+      "小陈": true,
+      "2026-12-02": true,
+      "2026-12-04": true
+    }
   }
 }

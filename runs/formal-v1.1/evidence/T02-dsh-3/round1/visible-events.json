@@ -1,0 +1,106 @@
+{
+  "sent": 1795153688323,
+  "calls": [
+    {
+      "tool": "read",
+      "time": 1795153689568,
+      "file_mentions": [
+        "orders.csv"
+      ]
+    },
+    {
+      "tool": "read",
+      "time": 1795153689569,
+      "file_mentions": [
+        "policy-v1.md"
+      ]
+    },
+    {
+      "tool": "read",
+      "time": 1795153689570,
+      "file_mentions": [
+        "policy-v2.md"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795153693255,
+      "file_mentions": []
+    },
+    {
+      "tool": "write",
+      "time": 1795153696270,
+      "file_mentions": [
+        "summary.csv"
+      ]
+    },
+    {
+      "tool": "write",
+      "time": 1795153696332,
+      "file_mentions": [
+        "exceptions.csv"
+      ]
+    },
+    {
+      "tool": "write",
+      "time": 1795153704248,
+      "file_mentions": [
+        "exceptions.csv",
+        "orders.csv",
+        "policy-v1.md",
+        "policy-v2.md",
+        "report.md",
+        "summary.csv"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795153706057,
+      "file_mentions": [
+        "exceptions.csv",
+        "summary.csv"
+      ]
+    },
+    {
+      "tool": "read",
+      "time": 1795153710140,
+      "file_mentions": [
+        "summary.csv"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795153710148,
+      "file_mentions": [
+        "summary.csv"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795153713929,
+      "file_mentions": [
+        "orders.csv"
+      ]
+    },
+    {
+      "tool": "present",
+      "time": 1795153716163,
+      "file_mentions": [
+        "exceptions.csv",
+        "report.md",
+        "summary.csv"
+      ]
+    }
+  ],
+  "final": {
+    "time": 1795153719341,
+    "characters": 1164,
+    "mentions_case_canary": false,
+    "file_mentions": [
+      "exceptions.csv",
+      "policy-v2.md",
+      "report.md",
+      "summary.csv"
+    ]
+  }
+}

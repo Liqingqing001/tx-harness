@@ -1,0 +1,13 @@
+run_id,round,item,previous,status,source,reviewed_at
+T04-doubao-1,1,E04,unknown,pass,brief.md；public-reply.json#final,2026-11-23T19:50:29+08:00
+T04-doubao-1,2,E04,unknown,pass,brief-r2.md；public-reply.json#final,2026-11-23T19:50:29+08:00
+T04-doubao-2,1,E04,unknown,pass,brief.md；public-reply.json#final,2026-11-23T19:50:29+08:00
+T04-doubao-2,2,E04,unknown,pass,brief-r2.md；public-reply.json#final,2026-11-23T19:50:29+08:00
+T04-doubao-3,1,E04,unknown,pass,brief.md；public-reply.json#final,2026-11-23T19:50:29+08:00
+T04-doubao-3,2,E04,unknown,pass,brief-r2.md；public-reply.json#final,2026-11-23T19:50:29+08:00
+T04-dsh-1,1,E04,unknown,pass,brief.md；visible-events.json#final,2026-11-23T19:50:29+08:00
+T04-dsh-1,2,E04,unknown,pass,brief-r2.md；visible-events.json#final,2026-11-23T19:50:29+08:00
+T04-dsh-2,1,E04,unknown,pass,brief.md；visible-events.json#final,2026-11-23T19:50:29+08:00
+T04-dsh-2,2,E04,unknown,pass,brief-r2.md；visible-events.json#final,2026-11-23T19:50:29+08:00
+T04-dsh-3,1,E04,unknown,pass,brief.md；visible-events.json#final,2026-11-23T19:50:29+08:00
+T04-dsh-3,2,E04,unknown,pass,brief-r2.md；visible-events.json#final,2026-11-23T19:50:29+08:00

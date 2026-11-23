@@ -1,0 +1,102 @@
+{
+  "sent": 1795430335788,
+  "calls": [
+    {
+      "tool": "pwsh",
+      "time": 1795430338422,
+      "file_mentions": []
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795430340351,
+      "file_mentions": []
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795430344515,
+      "file_mentions": [
+        "people.csv"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795430346218,
+      "file_mentions": [
+        "stock.csv"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795430352660,
+      "file_mentions": [
+        "people-copy.csv",
+        "people.csv",
+        "stock-copy.csv",
+        "stock.csv"
+      ]
+    },
+    {
+      "tool": "write",
+      "time": 1795430357446,
+      "file_mentions": [
+        "fields.md",
+        "people.csv",
+        "stock.csv"
+      ]
+    },
+    {
+      "tool": "write",
+      "time": 1795430357531,
+      "file_mentions": [
+        "manifest.csv",
+        "people.csv",
+        "stock.csv"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795430360621,
+      "file_mentions": [
+        "fields.md",
+        "manifest.csv",
+        "people-copy.csv",
+        "people.csv",
+        "stock-copy.csv",
+        "stock.csv"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795430366514,
+      "file_mentions": [
+        "fields.md",
+        "manifest.csv"
+      ]
+    },
+    {
+      "tool": "present",
+      "time": 1795430370429,
+      "file_mentions": [
+        "fields.md",
+        "manifest.csv",
+        "people-copy.csv",
+        "people.csv",
+        "stock-copy.csv",
+        "stock.csv"
+      ]
+    }
+  ],
+  "final": {
+    "time": 1795430372218,
+    "characters": 595,
+    "mentions_case_canary": false,
+    "file_mentions": [
+      "fields.md",
+      "manifest.csv",
+      "people-copy.csv",
+      "people.csv",
+      "stock-copy.csv",
+      "stock.csv"
+    ]
+  }
+}

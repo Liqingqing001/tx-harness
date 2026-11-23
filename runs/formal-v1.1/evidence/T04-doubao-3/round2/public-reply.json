@@ -1,0 +1,5 @@
+{
+  "source": "原生会话界面可见答复（按阅读顺序）",
+  "duration": "共用时 30 秒",
+  "final": "第二轮文件已交付，第一轮文件原样保留未覆盖。\nA02 变更明细\n表格\n字段\n原值\n新值\nowner（负责人）\n小周\n小陈\ndue（截止日期）\n2026-12-02\n2026-12-04\n保持不变的部分\nA01：owner = 小林，task = 核对库存，due=2026-12-01\nA03：owner = 小吴，task = 整理纪要，due=2026-12-03\nA02 的 task（更新预算）未改动；其余记录的全部字段、CSV 列顺序（id, owner, task, due）及按 id 升序的排列方式均与第一轮一致。\noutputs 目录现状\nactions.csv、brief.md（第一轮，未覆盖）\nactions.csv\nbrief.md\nactions-r2.csv、brief-r2.md（本轮新增）\nactions-r2.csv\nbrief-r2.md"
+}

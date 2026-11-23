@@ -1,0 +1,86 @@
+{
+  "sent": 1795432462498,
+  "calls": [
+    {
+      "tool": "read",
+      "time": 1795432463981,
+      "file_mentions": [
+        "readme.txt"
+      ]
+    },
+    {
+      "tool": "read",
+      "time": 1795432463981,
+      "file_mentions": [
+        "primary.json"
+      ]
+    },
+    {
+      "tool": "read",
+      "time": 1795432465391,
+      "file_mentions": [
+        "backup.csv"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795432466907,
+      "file_mentions": [
+        "backup.csv",
+        "primary.json"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795432470476,
+      "file_mentions": [
+        "backup.csv",
+        "items.csv"
+      ]
+    },
+    {
+      "tool": "write",
+      "time": 1795432472811,
+      "file_mentions": [
+        "items.csv"
+      ]
+    },
+    {
+      "tool": "write",
+      "time": 1795432477544,
+      "file_mentions": [
+        "backup.csv",
+        "items.csv",
+        "primary.json",
+        "recovery.md"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795432479254,
+      "file_mentions": [
+        "items.csv"
+      ]
+    },
+    {
+      "tool": "present",
+      "time": 1795432481666,
+      "file_mentions": [
+        "backup.csv",
+        "items.csv",
+        "recovery.md"
+      ]
+    }
+  ],
+  "final": {
+    "time": 1795432483926,
+    "characters": 780,
+    "mentions_case_canary": false,
+    "file_mentions": [
+      "backup.csv",
+      "items.csv",
+      "primary.json",
+      "recovery.md"
+    ]
+  }
+}

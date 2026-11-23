@@ -1,0 +1,63 @@
+{
+  "sent": 1795429928302,
+  "calls": [
+    {
+      "tool": "write",
+      "time": 1795429934169,
+      "file_mentions": [
+        "summary-r2.csv"
+      ]
+    },
+    {
+      "tool": "write",
+      "time": 1795429934250,
+      "file_mentions": [
+        "exceptions-r2.csv"
+      ]
+    },
+    {
+      "tool": "write",
+      "time": 1795429943657,
+      "file_mentions": [
+        "exceptions-r2.csv",
+        "exceptions.csv",
+        "orders.csv",
+        "policy-v1.md",
+        "policy-v2.md",
+        "report-r2.md",
+        "report.md",
+        "summary-r2.csv",
+        "summary.csv"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795429945078,
+      "file_mentions": [
+        "exceptions-r2.csv",
+        "exceptions.csv",
+        "summary-r2.csv",
+        "summary.csv"
+      ]
+    },
+    {
+      "tool": "present",
+      "time": 1795429947482,
+      "file_mentions": [
+        "exceptions-r2.csv",
+        "report-r2.md",
+        "summary-r2.csv"
+      ]
+    }
+  ],
+  "final": {
+    "time": 1795429950097,
+    "characters": 968,
+    "mentions_case_canary": false,
+    "file_mentions": [
+      "exceptions-r2.csv",
+      "report-r2.md",
+      "summary-r2.csv"
+    ]
+  }
+}

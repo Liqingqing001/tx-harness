@@ -51,19 +51,14 @@
     {
       "tool": "Read",
       "time": 1795430489678,
-      "file_mentions": []
+      "file_mentions": [],
+      "target_kind": "daily_memory_note"
     },
     {
       "tool": "Edit",
       "time": 1795430492404,
-      "file_mentions": [
-        "exceptions-r2.csv",
-        "exceptions.csv",
-        "report-r2.md",
-        "report.md",
-        "summary-r2.csv",
-        "summary.csv"
-      ]
+      "file_mentions": [],
+      "target_kind": "daily_memory_note"
     },
     {
       "tool": "present_files",

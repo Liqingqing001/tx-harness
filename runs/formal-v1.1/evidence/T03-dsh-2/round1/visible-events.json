@@ -1,0 +1,115 @@
+{
+  "sent": 1795430420909,
+  "calls": [
+    {
+      "tool": "pwsh",
+      "time": 1795430423503,
+      "file_mentions": []
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795430424761,
+      "file_mentions": []
+    },
+    {
+      "tool": "read",
+      "time": 1795430427407,
+      "file_mentions": [
+        "people.csv"
+      ]
+    },
+    {
+      "tool": "read",
+      "time": 1795430427408,
+      "file_mentions": [
+        "stock.csv"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795430430443,
+      "file_mentions": [
+        "people.csv",
+        "stock.csv"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795430433061,
+      "file_mentions": [
+        "people-copy.csv",
+        "people.csv",
+        "stock-copy.csv",
+        "stock.csv"
+      ]
+    },
+    {
+      "tool": "write",
+      "time": 1795430436343,
+      "file_mentions": [
+        "fields.md",
+        "people.csv",
+        "stock.csv"
+      ]
+    },
+    {
+      "tool": "write",
+      "time": 1795430436418,
+      "file_mentions": [
+        "manifest.csv",
+        "people.csv",
+        "stock.csv"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795430439697,
+      "file_mentions": [
+        "manifest.csv",
+        "people-copy.csv",
+        "people.csv",
+        "stock-copy.csv",
+        "stock.csv"
+      ]
+    },
+    {
+      "tool": "read",
+      "time": 1795430441246,
+      "file_mentions": [
+        "fields.md"
+      ]
+    },
+    {
+      "tool": "read",
+      "time": 1795430441247,
+      "file_mentions": [
+        "manifest.csv"
+      ]
+    },
+    {
+      "tool": "present",
+      "time": 1795430443095,
+      "file_mentions": [
+        "fields.md",
+        "manifest.csv",
+        "people-copy.csv",
+        "people.csv",
+        "stock-copy.csv",
+        "stock.csv"
+      ]
+    }
+  ],
+  "final": {
+    "time": 1795430444713,
+    "characters": 398,
+    "mentions_case_canary": false,
+    "file_mentions": [
+      "fields.md",
+      "manifest.csv",
+      "people-copy.csv",
+      "people.csv",
+      "stock-copy.csv",
+      "stock.csv"
+    ]
+  }
+}

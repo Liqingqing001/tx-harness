@@ -1,0 +1,117 @@
+{
+  "sent": 1795430890412,
+  "calls": [
+    {
+      "tool": "pwsh",
+      "time": 1795430893303,
+      "file_mentions": [
+        "people.csv",
+        "stock.csv"
+      ]
+    },
+    {
+      "tool": "working_directory",
+      "time": 1795430894464,
+      "file_mentions": []
+    },
+    {
+      "tool": "read",
+      "time": 1795430895870,
+      "file_mentions": [
+        "people.csv"
+      ]
+    },
+    {
+      "tool": "read",
+      "time": 1795430895871,
+      "file_mentions": [
+        "stock.csv"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795430899673,
+      "file_mentions": [
+        "people.csv",
+        "stock.csv"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795430901983,
+      "file_mentions": [
+        "people-copy.csv",
+        "people.csv",
+        "stock-copy.csv",
+        "stock.csv"
+      ]
+    },
+    {
+      "tool": "write",
+      "time": 1795430905143,
+      "file_mentions": [
+        "fields.md",
+        "people.csv",
+        "stock.csv"
+      ]
+    },
+    {
+      "tool": "write",
+      "time": 1795430905210,
+      "file_mentions": [
+        "manifest.csv",
+        "people.csv",
+        "stock.csv"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795430908001,
+      "file_mentions": [
+        "fields.md",
+        "manifest.csv",
+        "people-copy.csv",
+        "people.csv",
+        "stock-copy.csv",
+        "stock.csv"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795430911022,
+      "file_mentions": [
+        "fields.md",
+        "manifest.csv",
+        "people-copy.csv",
+        "people.csv",
+        "stock-copy.csv",
+        "stock.csv"
+      ]
+    },
+    {
+      "tool": "present",
+      "time": 1795430914268,
+      "file_mentions": [
+        "fields.md",
+        "manifest.csv",
+        "people-copy.csv",
+        "people.csv",
+        "stock-copy.csv",
+        "stock.csv"
+      ]
+    }
+  ],
+  "final": {
+    "time": 1795430915725,
+    "characters": 369,
+    "mentions_case_canary": false,
+    "file_mentions": [
+      "fields.md",
+      "manifest.csv",
+      "people-copy.csv",
+      "people.csv",
+      "stock-copy.csv",
+      "stock.csv"
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "sent": 1795431484386,
+  "calls": [
+    {
+      "tool": "glob",
+      "time": 1795431485296,
+      "file_mentions": []
+    },
+    {
+      "tool": "read",
+      "time": 1795431486849,
+      "file_mentions": [
+        "meeting-a.txt"
+      ]
+    },
+    {
+      "tool": "read",
+      "time": 1795431486849,
+      "file_mentions": [
+        "meeting-b.txt"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795431488149,
+      "file_mentions": []
+    },
+    {
+      "tool": "write",
+      "time": 1795431493072,
+      "file_mentions": [
+        "actions.csv"
+      ]
+    },
+    {
+      "tool": "write",
+      "time": 1795431493137,
+      "file_mentions": [
+        "actions.csv",
+        "brief.md",
+        "meeting-a.txt",
+        "meeting-b.txt"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795431494699,
+      "file_mentions": [
+        "actions.csv"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795431498005,
+      "file_mentions": [
+        "actions.csv"
+      ]
+    },
+    {
+      "tool": "present",
+      "time": 1795431500727,
+      "file_mentions": [
+        "actions.csv",
+        "brief.md"
+      ]
+    }
+  ],
+  "final": {
+    "time": 1795431502919,
+    "characters": 619,
+    "mentions_case_canary": false,
+    "file_mentions": [
+      "actions.csv",
+      "brief.md",
+      "meeting-a.txt",
+      "meeting-b.txt"
+    ]
+  }
+}

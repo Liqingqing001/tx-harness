@@ -51,12 +51,8 @@
     {
       "tool": "Edit",
       "time": 1795433281415,
-      "file_mentions": [
-        "actions-r2.csv",
-        "actions.csv",
-        "brief-r2.md",
-        "brief.md"
-      ]
+      "file_mentions": [],
+      "target_kind": "daily_memory_note"
     },
     {
       "tool": "present_files",
@@ -77,6 +73,12 @@
       "brief-r2.md",
       "brief.md",
       "meeting-a.txt"
-    ]
+    ],
+    "change_value_mentions": {
+      "小周": true,
+      "小陈": true,
+      "2026-12-02": true,
+      "2026-12-04": true
+    }
   }
 }

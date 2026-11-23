@@ -81,20 +81,14 @@
     {
       "tool": "Read",
       "time": 1795433125130,
-      "file_mentions": []
+      "file_mentions": [],
+      "target_kind": "daily_memory_note"
     },
     {
       "tool": "Edit",
       "time": 1795433128505,
-      "file_mentions": [
-        "actions.csv",
-        "brief.md",
-        "exceptions-r2.csv",
-        "meeting-a.txt",
-        "meeting-b.txt",
-        "report-r2.md",
-        "summary-r2.csv"
-      ]
+      "file_mentions": [],
+      "target_kind": "daily_memory_note"
     }
   ],
   "final": {

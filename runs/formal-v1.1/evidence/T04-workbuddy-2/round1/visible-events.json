@@ -57,7 +57,8 @@
     {
       "tool": "Read",
       "time": 1795433343476,
-      "file_mentions": []
+      "file_mentions": [],
+      "target_kind": "daily_memory_note"
     },
     {
       "tool": "Bash",

@@ -1,0 +1,94 @@
+{
+  "sent": 1795432380515,
+  "calls": [
+    {
+      "tool": "read",
+      "time": 1795432382350,
+      "file_mentions": [
+        "readme.txt"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795432382371,
+      "file_mentions": []
+    },
+    {
+      "tool": "read",
+      "time": 1795432384789,
+      "file_mentions": [
+        "primary.json"
+      ]
+    },
+    {
+      "tool": "read",
+      "time": 1795432384790,
+      "file_mentions": [
+        "backup.csv"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795432387290,
+      "file_mentions": [
+        "primary.json"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795432391652,
+      "file_mentions": [
+        "backup.csv",
+        "primary.json",
+        "readme.txt"
+      ]
+    },
+    {
+      "tool": "write",
+      "time": 1795432394114,
+      "file_mentions": [
+        "items.csv"
+      ]
+    },
+    {
+      "tool": "write",
+      "time": 1795432399588,
+      "file_mentions": [
+        "backup.csv",
+        "items.csv",
+        "primary.json",
+        "readme.txt",
+        "recovery.md"
+      ]
+    },
+    {
+      "tool": "pwsh",
+      "time": 1795432401366,
+      "file_mentions": [
+        "backup.csv",
+        "items.csv",
+        "primary.json",
+        "readme.txt"
+      ]
+    },
+    {
+      "tool": "present",
+      "time": 1795432404264,
+      "file_mentions": [
+        "items.csv",
+        "recovery.md"
+      ]
+    }
+  ],
+  "final": {
+    "time": 1795432407017,
+    "characters": 982,
+    "mentions_case_canary": false,
+    "file_mentions": [
+      "backup.csv",
+      "items.csv",
+      "primary.json",
+      "recovery.md"
+    ]
+  }
+}
