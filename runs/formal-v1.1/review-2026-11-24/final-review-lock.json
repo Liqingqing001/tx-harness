@@ -1,0 +1,36 @@
+{
+  "finalized_at": "2026-11-24T10:36:41+08:00",
+  "independent_ai_chat": "01a20b53-6231-75f1-b8d6-f532906bb2e1",
+  "anonymous_review_sealed_at": "2026-11-24T10:18:22+08:00",
+  "items": 570,
+  "differing_items": 92,
+  "download_evidence_disagreements": 89,
+  "status_changed_from_initial": [
+    {
+      "run_id": "T04-yuanbao-1",
+      "round": "2",
+      "item": "E01",
+      "initial": "fail",
+      "blind": "unknown",
+      "final": "unknown",
+      "decision": "接受复评；冻结文本同时豁免换行差异和禁止额外行，空解析记录的适用边界未明确；保留未决",
+      "evidence": "T04/ad925eee03ff3882/round2/actions-r2.csv（全字节/完整解析）：UTF-8 BOM，四个行尾均为CR CR LF；csv.reader得到表头、三条正确有序完整记录及4个空列表。冻结规则同时要求无额外行和不因换行编码差异扣E01，未定义空记录是否忽略，已记待裁决；不自行选择口径"
+    },
+    {
+      "run_id": "T02-workbuddy-3",
+      "round": "1",
+      "item": "E05",
+      "initial": "pass",
+      "blind": "fail",
+      "final": "fail",
+      "decision": "接受复评；关键首因规则仅指向不存在的第6条，无法按所给位置定位",
+      "evidence": "T02/e74c93b685570a49/round1/report.md:7-8,45：首个适用原因规则反复定位到不存在的v2条款6；任务与依据/T02/inputs/policy-v2.md仅5条，该规则实际位于第5条。虽金额与订单明细35-41可定位，关键规则引用不成立"
+    }
+  ],
+  "files_sha256": {
+    "final-review.csv": "4d4cae6b9493526382cb0e1c6023e32a8ad9c3f89038a2da426e6a9a6b4ebfcb",
+    "adjudications.csv": "e4592c48c312e1ff213fe1513e507e0bbfa0310a567a83d0d38d239c5c1869e5",
+    "issues-decisions.csv": "7156d5ef8fe7636c8f5b0e7e4dac17e1f101a304c2022bf01a8734349089c311",
+    "anonymous-map.csv": "26113eecd5ef93b83b804f58586607cfa0bda2dd71119e6a7e7bda960474936a"
+  }
+}

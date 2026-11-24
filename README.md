@@ -2,7 +2,7 @@
 作者：Li Qing 李晴（Liqingqing001）
 仓库：https://github.com/Liqingqing001/tx-harness
 
-截至 11 月 23 日，已归档 60/60 场、90/90 轮正式实验，另有 20 场校准试跑。[最新结果与产品差距](reports/2026-11-23-formal.md) · [逐轮验收](runs/formal-v1.1/2026-11-23-rounds.csv) · [正式逐题初评](runs/formal-v1.1/review-2026-11-23/scorecard.md)
+截至 11 月 24 日，60/60 场、90/90 轮正式实验已完成，570 项匿名复评与分歧裁决已封存。另有 20 场校准试跑。[最新结果与产品差距](reports/2026-11-24-final.md) · [逐轮验收](runs/formal-v1.1/2026-11-23-rounds.csv) · [最终评分](runs/formal-v1.1/review-2026-11-24/scorecard.md) · [分歧裁决](runs/formal-v1.1/review-2026-11-24/adjudications.csv)
 
 评测对象为 Codex、WorkBuddy、DeepSeek Harness（DSH）、元宝专家模式和豆包工作（独立客户端）。
 
@@ -10,7 +10,7 @@
 
 想了解每款产品能做什么，读[五款产品主要功能调研](reports/2026-11-20-product-functions.md)。
 
-看设计，从 [完整评测方案](docs/evaluation-plan-v1.md) 开始；看五款产品各自的优点和不足，读 [正式实验报告](reports/2026-11-23-formal.md)；核对某个结论，到 [正式实验原件](runs/formal-v1.1/evidence/) 或 [校准试跑原件](runs/pilot-20261119/) 找对应文件。
+看设计，从 [完整评测方案](docs/evaluation-plan-v1.md) 开始；看五款产品各自的优点和不足，读 [正式实验报告](reports/2026-11-24-final.md)；核对某个结论，到 [正式实验原件](runs/formal-v1.1/evidence/) 或 [校准试跑原件](runs/pilot-20261119/) 找对应文件。
 
 下面用元宝的一场订单实验展开重复目录。其他产品和轮次可按同样的命名查找。
 
@@ -49,6 +49,11 @@ tx-harness/
 │       ├── review-amendment-20261119.md  匿名复评规则的修改记录
 │       ├── blind-review-sealed.csv 封存的匿名复评结果
 │       ├── pilot-adjudication.md   对试跑评分分歧的裁决和理由
+│       ├── review-2026-11-23/      初评、补证记录及封存哈希
+│       ├── review-2026-11-24/      最终评分、匿名复评、分歧裁决及补证
+│       │   ├── final-review.csv    570 项最终判断和依据
+│       │   ├── adjudications.csv   初复评不一致的 92 项及处理结果
+│       │   └── anonymous/          原始匿名复评表、说明、问题及封存
 │       └── evidence/               正式运行实际交付的文件和检查结果
 │           ├── dispatch-notes.md   实际投递顺序及偏离排期的原因
 │           └── T02-yuanbao-1/      示例：订单题、元宝、第 1 次独立运行
@@ -101,3 +106,5 @@ T02已有CSV验收器：`python scripts/check_t02.py --outputs <产物目录> --
 [运行模板](runs/TEMPLATE.md) / [报告模板](reports/report-template.md) / [ChangeLog](CHANGELOG.md) / [周报草稿](reports/weekly/2026-11-21-draft.md)
 
 方案与脚本由AI辅助起草，执行者负责审核、实测和结论。公开证据需脱敏；不得上传账号令牌、私人记录或企业资料。原创代码和材料采用MIT许可，第三方材料遵循其许可。
+
+复核本次最终评分，查看 [570 项最终判断](runs/formal-v1.1/review-2026-11-24/final-review.csv)、[匿名复评原表与封存](runs/formal-v1.1/review-2026-11-24/anonymous/) 和 [补证说明](runs/formal-v1.1/review-2026-11-24/delivery-adjudication.md)。[11 月 23 日初评](runs/formal-v1.1/review-2026-11-23/scorecard.md) 保留。

@@ -1,0 +1,212 @@
+[
+  {
+    "run_id": "T02-dsh-2",
+    "round": "1",
+    "kind": "native_present",
+    "time": 1795153165484,
+    "files": [
+      "summary.csv",
+      "exceptions.csv",
+      "report.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T02-dsh-2",
+    "round": "2",
+    "kind": "native_present",
+    "time": 1795153219823,
+    "files": [
+      "summary-r2.csv",
+      "exceptions-r2.csv",
+      "report-r2.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T05-dsh-3",
+    "round": "1",
+    "kind": "native_present",
+    "time": 1795432481674,
+    "files": [
+      "items.csv",
+      "recovery.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T02-dsh-3",
+    "round": "1",
+    "kind": "native_present",
+    "time": 1795153716171,
+    "files": [
+      "summary.csv",
+      "exceptions.csv",
+      "report.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T02-dsh-3",
+    "round": "2",
+    "kind": "native_present",
+    "time": 1795429947490,
+    "files": [
+      "summary-r2.csv",
+      "exceptions-r2.csv",
+      "report-r2.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T04-dsh-3",
+    "round": "1",
+    "kind": "native_present",
+    "time": 1795432342073,
+    "files": [
+      "actions.csv",
+      "brief.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T04-dsh-3",
+    "round": "2",
+    "kind": "native_present",
+    "time": 1795432364595,
+    "files": [
+      "actions-r2.csv",
+      "brief-r2.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T02-dsh-1",
+    "round": "1",
+    "kind": "native_present",
+    "time": 1795152306965,
+    "files": [
+      "summary.csv",
+      "exceptions.csv",
+      "report.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T02-dsh-1",
+    "round": "2",
+    "kind": "native_present",
+    "time": 1795152385069,
+    "files": [
+      "summary-r2.csv",
+      "exceptions-r2.csv",
+      "report-r2.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T05-dsh-1",
+    "round": "1",
+    "kind": "native_present",
+    "time": 1795432404273,
+    "files": [
+      "items.csv",
+      "recovery.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T04-dsh-2",
+    "round": "1",
+    "kind": "native_present",
+    "time": 1795431924177,
+    "files": [
+      "actions.csv",
+      "brief.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T04-dsh-2",
+    "round": "2",
+    "kind": "native_present",
+    "time": 1795431952718,
+    "files": [
+      "actions-r2.csv",
+      "brief-r2.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T03-dsh-3",
+    "round": "1",
+    "kind": "native_present",
+    "time": 1795430914277,
+    "files": [
+      "people-copy.csv",
+      "stock-copy.csv",
+      "fields.md",
+      "manifest.csv"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T04-dsh-1",
+    "round": "1",
+    "kind": "native_present",
+    "time": 1795431500745,
+    "files": [
+      "actions.csv",
+      "brief.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T04-dsh-1",
+    "round": "2",
+    "kind": "native_present",
+    "time": 1795431671646,
+    "files": [
+      "actions-r2.csv",
+      "brief-r2.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T03-dsh-2",
+    "round": "1",
+    "kind": "native_present",
+    "time": 1795430443108,
+    "files": [
+      "people-copy.csv",
+      "stock-copy.csv",
+      "fields.md",
+      "manifest.csv"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T03-dsh-1",
+    "round": "1",
+    "kind": "native_present",
+    "time": 1795430370446,
+    "files": [
+      "people-copy.csv",
+      "stock-copy.csv",
+      "fields.md",
+      "manifest.csv"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T05-dsh-2",
+    "round": "1",
+    "kind": "native_present",
+    "time": 1795432443612,
+    "files": [
+      "items.csv",
+      "recovery.md"
+    ],
+    "result": "success"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "thread_id": "01a20b53-6231-75f1-b8d6-f532906bb2e1",
+  "observed_status": "idle / completed",
+  "anonymous_review_sealed_at": "2026-11-24T10:18:22+08:00",
+  "explanation_seal_repaired_at": "2026-11-24T10:26:19+08:00",
+  "review_items": 570,
+  "model_in_local_turn_configuration": "gpt-6-astra",
+  "reasoning_in_local_turn_configuration": "medium",
+  "actual_backend_snapshot_and_route": "unknown",
+  "fresh_chat_used": true,
+  "different_model_from_initial_review_verified": false
+}

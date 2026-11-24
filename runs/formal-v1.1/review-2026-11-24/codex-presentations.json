@@ -1,0 +1,194 @@
+[
+  {
+    "run_id": "T02-codex-1",
+    "round": "1",
+    "time": "2026-11-20T04:36:24.554Z",
+    "files": [
+      "exceptions.csv",
+      "report.md",
+      "summary.csv"
+    ],
+    "kind": "native_final_local_download_links"
+  },
+  {
+    "run_id": "T02-codex-1",
+    "round": "2",
+    "time": "2026-11-20T04:52:30.215Z",
+    "files": [
+      "exceptions-r2.csv",
+      "report-r2.md",
+      "summary-r2.csv"
+    ],
+    "kind": "native_final_local_download_links"
+  },
+  {
+    "run_id": "T02-codex-2",
+    "round": "1",
+    "time": "2026-11-20T05:33:48.186Z",
+    "files": [
+      "exceptions.csv",
+      "report.md",
+      "summary.csv"
+    ],
+    "kind": "native_final_local_download_links"
+  },
+  {
+    "run_id": "T02-codex-2",
+    "round": "2",
+    "time": "2026-11-20T05:35:30.441Z",
+    "files": [
+      "exceptions-r2.csv",
+      "report-r2.md",
+      "summary-r2.csv"
+    ],
+    "kind": "native_final_local_download_links"
+  },
+  {
+    "run_id": "T02-codex-3",
+    "round": "1",
+    "time": "2026-11-23T10:36:35.645Z",
+    "files": [
+      "exceptions.csv",
+      "report.md",
+      "summary.csv"
+    ],
+    "kind": "native_final_local_download_links"
+  },
+  {
+    "run_id": "T02-codex-3",
+    "round": "2",
+    "time": "2026-11-23T10:40:22.464Z",
+    "files": [
+      "exceptions-r2.csv",
+      "report-r2.md",
+      "summary-r2.csv"
+    ],
+    "kind": "native_final_local_download_links"
+  },
+  {
+    "run_id": "T03-codex-1",
+    "round": "1",
+    "time": "2026-11-23T10:40:54.701Z",
+    "files": [
+      "fields.md",
+      "manifest.csv",
+      "people-copy.csv",
+      "stock-copy.csv"
+    ],
+    "kind": "native_final_local_download_links"
+  },
+  {
+    "run_id": "T03-codex-2",
+    "round": "1",
+    "time": "2026-11-23T10:41:29.382Z",
+    "files": [
+      "fields.md",
+      "manifest.csv",
+      "people-copy.csv",
+      "stock-copy.csv"
+    ],
+    "kind": "native_final_local_download_links"
+  },
+  {
+    "run_id": "T03-codex-3",
+    "round": "1",
+    "time": "2026-11-23T10:42:06.027Z",
+    "files": [
+      "fields.md",
+      "manifest.csv",
+      "people-copy.csv",
+      "stock-copy.csv"
+    ],
+    "kind": "native_final_local_download_links"
+  },
+  {
+    "run_id": "T04-codex-1",
+    "round": "1",
+    "time": "2026-11-23T10:47:24.105Z",
+    "files": [
+      "actions.csv",
+      "brief.md"
+    ],
+    "kind": "native_final_local_download_links"
+  },
+  {
+    "run_id": "T04-codex-1",
+    "round": "2",
+    "time": "2026-11-23T10:47:50.973Z",
+    "files": [
+      "actions-r2.csv",
+      "brief-r2.md"
+    ],
+    "kind": "native_final_local_download_links"
+  },
+  {
+    "run_id": "T04-codex-2",
+    "round": "1",
+    "time": "2026-11-23T10:48:24.522Z",
+    "files": [
+      "actions.csv",
+      "brief.md"
+    ],
+    "kind": "native_final_local_download_links"
+  },
+  {
+    "run_id": "T04-codex-2",
+    "round": "2",
+    "time": "2026-11-23T10:48:52.010Z",
+    "files": [
+      "actions-r2.csv",
+      "brief-r2.md"
+    ],
+    "kind": "native_final_local_download_links"
+  },
+  {
+    "run_id": "T04-codex-3",
+    "round": "1",
+    "time": "2026-11-23T10:49:22.206Z",
+    "files": [
+      "actions.csv",
+      "brief.md"
+    ],
+    "kind": "native_final_local_download_links"
+  },
+  {
+    "run_id": "T04-codex-3",
+    "round": "2",
+    "time": "2026-11-23T10:54:30.255Z",
+    "files": [
+      "actions-r2.csv",
+      "brief-r2.md"
+    ],
+    "kind": "native_final_local_download_links"
+  },
+  {
+    "run_id": "T05-codex-1",
+    "round": "1",
+    "time": "2026-11-23T10:55:03.880Z",
+    "files": [
+      "items.csv",
+      "recovery.md"
+    ],
+    "kind": "native_final_local_download_links"
+  },
+  {
+    "run_id": "T05-codex-2",
+    "round": "1",
+    "time": "2026-11-23T10:56:20.790Z",
+    "files": [
+      "items.csv",
+      "recovery.md"
+    ],
+    "kind": "native_final_local_download_links"
+  },
+  {
+    "run_id": "T05-codex-3",
+    "round": "1",
+    "time": "2026-11-23T10:56:52.969Z",
+    "files": [
+      "items.csv",
+      "recovery.md"
+    ],
+    "kind": "native_final_local_download_links"
+  }
+]

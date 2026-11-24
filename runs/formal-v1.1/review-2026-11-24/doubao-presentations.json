@@ -1,0 +1,290 @@
+[
+  {
+    "run_id": "T04-doubao-1",
+    "file": "actions.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:31:38.642Z"
+  },
+  {
+    "run_id": "T04-doubao-1",
+    "file": "brief.md",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:31:38.643Z"
+  },
+  {
+    "run_id": "T04-doubao-1",
+    "file": "actions-r2.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:31:38.643Z"
+  },
+  {
+    "run_id": "T04-doubao-1",
+    "file": "brief-r2.md",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:31:38.643Z"
+  },
+  {
+    "run_id": "T05-doubao-3",
+    "file": "items.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:03.709Z"
+  },
+  {
+    "run_id": "T05-doubao-3",
+    "file": "recovery.md",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:03.709Z"
+  },
+  {
+    "run_id": "T05-doubao-2",
+    "file": "items.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:11.674Z"
+  },
+  {
+    "run_id": "T05-doubao-2",
+    "file": "recovery.md",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:11.674Z"
+  },
+  {
+    "run_id": "T05-doubao-1",
+    "file": "items.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:20.274Z"
+  },
+  {
+    "run_id": "T05-doubao-1",
+    "file": "recovery.md",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:20.274Z"
+  },
+  {
+    "run_id": "T04-doubao-3",
+    "file": "actions.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:30.144Z"
+  },
+  {
+    "run_id": "T04-doubao-3",
+    "file": "brief.md",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:30.144Z"
+  },
+  {
+    "run_id": "T04-doubao-3",
+    "file": "actions-r2.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:30.144Z"
+  },
+  {
+    "run_id": "T04-doubao-3",
+    "file": "brief-r2.md",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:30.144Z"
+  },
+  {
+    "run_id": "T04-doubao-2",
+    "file": "actions.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:38.339Z"
+  },
+  {
+    "run_id": "T04-doubao-2",
+    "file": "brief.md",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:38.339Z"
+  },
+  {
+    "run_id": "T04-doubao-2",
+    "file": "actions-r2.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:38.339Z"
+  },
+  {
+    "run_id": "T04-doubao-2",
+    "file": "brief-r2.md",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:38.339Z"
+  },
+  {
+    "run_id": "T03-doubao-3",
+    "file": "people-copy.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:47.546Z"
+  },
+  {
+    "run_id": "T03-doubao-3",
+    "file": "stock-copy.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:47.546Z"
+  },
+  {
+    "run_id": "T03-doubao-3",
+    "file": "fields.md",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:47.546Z"
+  },
+  {
+    "run_id": "T03-doubao-3",
+    "file": "manifest.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:47.546Z"
+  },
+  {
+    "run_id": "T03-doubao-2",
+    "file": "people-copy.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:56.071Z"
+  },
+  {
+    "run_id": "T03-doubao-2",
+    "file": "stock-copy.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:56.071Z"
+  },
+  {
+    "run_id": "T03-doubao-2",
+    "file": "fields.md",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:56.071Z"
+  },
+  {
+    "run_id": "T03-doubao-2",
+    "file": "manifest.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:32:56.071Z"
+  },
+  {
+    "run_id": "T03-doubao-1",
+    "file": "people-copy.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:33:03.936Z"
+  },
+  {
+    "run_id": "T03-doubao-1",
+    "file": "stock-copy.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:33:03.936Z"
+  },
+  {
+    "run_id": "T03-doubao-1",
+    "file": "fields.md",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:33:03.936Z"
+  },
+  {
+    "run_id": "T03-doubao-1",
+    "file": "manifest.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:33:03.936Z"
+  },
+  {
+    "run_id": "T02-doubao-3",
+    "file": "summary.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:33:11.991Z"
+  },
+  {
+    "run_id": "T02-doubao-3",
+    "file": "exceptions.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:33:11.991Z"
+  },
+  {
+    "run_id": "T02-doubao-3",
+    "file": "report.md",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:33:11.991Z"
+  },
+  {
+    "run_id": "T02-doubao-3",
+    "file": "summary-r2.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:33:11.991Z"
+  },
+  {
+    "run_id": "T02-doubao-3",
+    "file": "exceptions-r2.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:33:11.991Z"
+  },
+  {
+    "run_id": "T02-doubao-3",
+    "file": "report-r2.md",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:33:11.991Z"
+  },
+  {
+    "run_id": "T02-doubao-2",
+    "file": "summary-r2.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:33:20.207Z"
+  },
+  {
+    "run_id": "T02-doubao-2",
+    "file": "exceptions-r2.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:33:20.207Z"
+  },
+  {
+    "run_id": "T02-doubao-2",
+    "file": "report-r2.md",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:33:20.207Z"
+  },
+  {
+    "run_id": "T02-doubao-2",
+    "file": "summary.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:33:57.399Z"
+  },
+  {
+    "run_id": "T02-doubao-2",
+    "file": "exceptions.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:33:57.399Z"
+  },
+  {
+    "run_id": "T02-doubao-2",
+    "file": "report.md",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:33:57.399Z"
+  },
+  {
+    "run_id": "T02-doubao-1",
+    "file": "summary.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:34:30.099Z"
+  },
+  {
+    "run_id": "T02-doubao-1",
+    "file": "exceptions.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:34:30.099Z"
+  },
+  {
+    "run_id": "T02-doubao-1",
+    "file": "report.md",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:34:30.099Z"
+  },
+  {
+    "run_id": "T02-doubao-1",
+    "file": "summary-r2.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:34:30.099Z"
+  },
+  {
+    "run_id": "T02-doubao-1",
+    "file": "exceptions-r2.csv",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:34:30.099Z"
+  },
+  {
+    "run_id": "T02-doubao-1",
+    "file": "report-r2.md",
+    "kind": "原生界面本地文件卡的目标路径",
+    "observed_at": "2026-11-24T02:34:30.099Z"
+  }
+]

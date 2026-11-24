@@ -1,0 +1,40 @@
+{
+  "schema": "anonymous-review-seal-v1",
+  "review_completed_at": "2026-11-24T10:18:22+08:00",
+  "sealed_at": "2026-11-24T10:18:22+08:00",
+  "timezone": "Asia/Shanghai",
+  "cases": 60,
+  "rounds": 90,
+  "items": 570,
+  "status_counts": {
+    "pass": 447,
+    "fail": 8,
+    "unknown": 115,
+    "NA": 0
+  },
+  "validation": {
+    "columns_match": true,
+    "ordered_keys_match": true,
+    "unique_keys": 570,
+    "missing": 0,
+    "extra": 0,
+    "allowed_status_and_evidence_all_present": true
+  },
+  "deliverables": [
+    {
+      "filename": "复评提交.csv",
+      "sha256": "16c6dfc0afe54d45d03f6e2304201ca01456af63edee6f00cf9b24196ea698ed",
+      "bytes": 133310
+    },
+    {
+      "filename": "复评说明.md",
+      "sha256": "46394a3f89bc08843278a4366d15d450b05614c171c9007bdb444671b64583d5",
+      "bytes": 3157
+    },
+    {
+      "filename": "待裁决问题.csv",
+      "sha256": "f4a5ecb26572e9b181a9cfde1967a1e20bb1b7b95a0f9d42eea5ad43132989cf",
+      "bytes": 53229
+    }
+  ]
+}

@@ -1,0 +1,2882 @@
+[
+  {
+    "run_id": "T02-codex-1",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary.csv",
+        "original_snapshot_sha256": "15d655c9883644259a4448d8e5c9fb3c61bdae4eb3904fa185518ebaef2ea86a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "15d655c9883644259a4448d8e5c9fb3c61bdae4eb3904fa185518ebaef2ea86a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions.csv",
+        "original_snapshot_sha256": "632b1d9dc29ae33a6b73e68e4c12facd4be62cc09a4f53ab33cd238216132852",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "632b1d9dc29ae33a6b73e68e4c12facd4be62cc09a4f53ab33cd238216132852",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report.md",
+        "original_snapshot_sha256": "2116c5919bd5f93389601bb09accc659a68ba17ff903aefd22321176beb900b1",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "2116c5919bd5f93389601bb09accc659a68ba17ff903aefd22321176beb900b1",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-codex-1",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary-r2.csv",
+        "original_snapshot_sha256": "3459a42283ddb5e6090c9278150ababe23438b02eaaa01d8413dd025f4702d0f",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "3459a42283ddb5e6090c9278150ababe23438b02eaaa01d8413dd025f4702d0f",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions-r2.csv",
+        "original_snapshot_sha256": "ec3b921d1244229fc48fdb66580f783d8e9515bc0eabdf7e1b7f8359bf8bb424",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "ec3b921d1244229fc48fdb66580f783d8e9515bc0eabdf7e1b7f8359bf8bb424",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report-r2.md",
+        "original_snapshot_sha256": "42e99607b4515255207ad4dfa9f653f41e05099f8329e90a848414b4c46cc32e",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "42e99607b4515255207ad4dfa9f653f41e05099f8329e90a848414b4c46cc32e",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-codex-2",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary.csv",
+        "original_snapshot_sha256": "f6152941876dd56af2fd94336a4f2e7145890df5ff39ff78efe12fd2c013770c",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "f6152941876dd56af2fd94336a4f2e7145890df5ff39ff78efe12fd2c013770c",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions.csv",
+        "original_snapshot_sha256": "e08b3d0ef48fb57fd80a250691f66e29b282bd8df86682f96b867be58465f622",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "e08b3d0ef48fb57fd80a250691f66e29b282bd8df86682f96b867be58465f622",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report.md",
+        "original_snapshot_sha256": "5c9139c6f9e8989d35d6cf98950f433b4a675b2da593b5aaa9768998fca0ed65",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "5c9139c6f9e8989d35d6cf98950f433b4a675b2da593b5aaa9768998fca0ed65",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-codex-2",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary-r2.csv",
+        "original_snapshot_sha256": "73163e36f6cff45d79dcad5a8daa387dbca014e1a55149a9a91233c3b3541680",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "73163e36f6cff45d79dcad5a8daa387dbca014e1a55149a9a91233c3b3541680",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions-r2.csv",
+        "original_snapshot_sha256": "4f6c82e0692c99dd197de6cc6e98b74ba9148d85e8b9bda36f857764b242031e",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "4f6c82e0692c99dd197de6cc6e98b74ba9148d85e8b9bda36f857764b242031e",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report-r2.md",
+        "original_snapshot_sha256": "ca5cf044df5bbcffbc3fb724be7bb8a8bc12760df3155288bfd85903f36ee244",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "ca5cf044df5bbcffbc3fb724be7bb8a8bc12760df3155288bfd85903f36ee244",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-codex-3",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary.csv",
+        "original_snapshot_sha256": "143fb91270d00b363031b5ba9d3c710f2c37811d0464d3f86fcd53e43f4e154d",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "143fb91270d00b363031b5ba9d3c710f2c37811d0464d3f86fcd53e43f4e154d",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions.csv",
+        "original_snapshot_sha256": "eb369b7f0a98f80fc7035953e7e4ded880ad1d7ea2f97791639762b0acef84ee",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "eb369b7f0a98f80fc7035953e7e4ded880ad1d7ea2f97791639762b0acef84ee",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report.md",
+        "original_snapshot_sha256": "7252dc73619a9c3fe7e1f4c52aabaeb26e2ef752396ca8e11bb71e29c8cbd075",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "7252dc73619a9c3fe7e1f4c52aabaeb26e2ef752396ca8e11bb71e29c8cbd075",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-codex-3",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary-r2.csv",
+        "original_snapshot_sha256": "11495633210ec457b88e662134b7d2ae89e7c258e0dca51ed7ba70855dead9b9",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "11495633210ec457b88e662134b7d2ae89e7c258e0dca51ed7ba70855dead9b9",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions-r2.csv",
+        "original_snapshot_sha256": "a42b881f5ae7ece29b9e9219d66d81773786e2ba6722223bab31f006c6a32d7d",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "a42b881f5ae7ece29b9e9219d66d81773786e2ba6722223bab31f006c6a32d7d",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report-r2.md",
+        "original_snapshot_sha256": "2cf052512bdac80500dfe2ec01e4c3fc10545777a832b9c4d918175e90f8dcd4",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "2cf052512bdac80500dfe2ec01e4c3fc10545777a832b9c4d918175e90f8dcd4",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-doubao-1",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary.csv",
+        "original_snapshot_sha256": "73f8213c5a0ed3a15da29a5d899d04f2d4f89506c23a2b8de8a61c41bc8c3cd7",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "73f8213c5a0ed3a15da29a5d899d04f2d4f89506c23a2b8de8a61c41bc8c3cd7",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions.csv",
+        "original_snapshot_sha256": "9189dcf24304b61ec1a3235804c39818a1df0dd42e50388bf0ee5f4629a059c2",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "9189dcf24304b61ec1a3235804c39818a1df0dd42e50388bf0ee5f4629a059c2",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report.md",
+        "original_snapshot_sha256": "edab9ffb52d7ad0a72ebf5f249f39c313565cbbc9d5c4c0cfee7183b91047ff7",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "edab9ffb52d7ad0a72ebf5f249f39c313565cbbc9d5c4c0cfee7183b91047ff7",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-doubao-1",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary-r2.csv",
+        "original_snapshot_sha256": "d5cf6c62f359ff698b33ad62efbac8379290af30a8de3178f576f159f645edae",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "d5cf6c62f359ff698b33ad62efbac8379290af30a8de3178f576f159f645edae",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions-r2.csv",
+        "original_snapshot_sha256": "b6723c0373bd2d698939ab13a7aa25f21606c8b6c9419fea52cc40f37f7a0098",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "b6723c0373bd2d698939ab13a7aa25f21606c8b6c9419fea52cc40f37f7a0098",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report-r2.md",
+        "original_snapshot_sha256": "2baf32140fd561807c6f6d47280e520b27c6417f7cdc28cce062b982b15fd5e3",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "2baf32140fd561807c6f6d47280e520b27c6417f7cdc28cce062b982b15fd5e3",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-doubao-2",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary.csv",
+        "original_snapshot_sha256": "f6152941876dd56af2fd94336a4f2e7145890df5ff39ff78efe12fd2c013770c",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "f6152941876dd56af2fd94336a4f2e7145890df5ff39ff78efe12fd2c013770c",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions.csv",
+        "original_snapshot_sha256": "e08b3d0ef48fb57fd80a250691f66e29b282bd8df86682f96b867be58465f622",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "e08b3d0ef48fb57fd80a250691f66e29b282bd8df86682f96b867be58465f622",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report.md",
+        "original_snapshot_sha256": "c84997467db0231b744c4a94c7653a8094280e5be989f227359cd416f329e842",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c84997467db0231b744c4a94c7653a8094280e5be989f227359cd416f329e842",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-doubao-2",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary-r2.csv",
+        "original_snapshot_sha256": "73163e36f6cff45d79dcad5a8daa387dbca014e1a55149a9a91233c3b3541680",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "73163e36f6cff45d79dcad5a8daa387dbca014e1a55149a9a91233c3b3541680",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions-r2.csv",
+        "original_snapshot_sha256": "4f6c82e0692c99dd197de6cc6e98b74ba9148d85e8b9bda36f857764b242031e",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "4f6c82e0692c99dd197de6cc6e98b74ba9148d85e8b9bda36f857764b242031e",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report-r2.md",
+        "original_snapshot_sha256": "135fc72e0269dc49aec11ae3909f27db5d387852aef24867c18f9757c345a36b",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "135fc72e0269dc49aec11ae3909f27db5d387852aef24867c18f9757c345a36b",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-doubao-3",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary.csv",
+        "original_snapshot_sha256": "15d655c9883644259a4448d8e5c9fb3c61bdae4eb3904fa185518ebaef2ea86a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "15d655c9883644259a4448d8e5c9fb3c61bdae4eb3904fa185518ebaef2ea86a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions.csv",
+        "original_snapshot_sha256": "632b1d9dc29ae33a6b73e68e4c12facd4be62cc09a4f53ab33cd238216132852",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "632b1d9dc29ae33a6b73e68e4c12facd4be62cc09a4f53ab33cd238216132852",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report.md",
+        "original_snapshot_sha256": "9b3fd1b50f18725df81b8171d3062b3f5fe6164e471c5ebffdff90ba5b930004",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "9b3fd1b50f18725df81b8171d3062b3f5fe6164e471c5ebffdff90ba5b930004",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-doubao-3",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary-r2.csv",
+        "original_snapshot_sha256": "3459a42283ddb5e6090c9278150ababe23438b02eaaa01d8413dd025f4702d0f",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "3459a42283ddb5e6090c9278150ababe23438b02eaaa01d8413dd025f4702d0f",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions-r2.csv",
+        "original_snapshot_sha256": "ec3b921d1244229fc48fdb66580f783d8e9515bc0eabdf7e1b7f8359bf8bb424",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "ec3b921d1244229fc48fdb66580f783d8e9515bc0eabdf7e1b7f8359bf8bb424",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report-r2.md",
+        "original_snapshot_sha256": "e1524cb3c753833ceb07e8accf28e668be5de1b132c68bde32e79ce6996d5f4c",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "e1524cb3c753833ceb07e8accf28e668be5de1b132c68bde32e79ce6996d5f4c",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-dsh-1",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary.csv",
+        "original_snapshot_sha256": "4797fa4d1459e350da7b9280d701f8678af4708f92fbbeb71223d97b637b59e3",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "4797fa4d1459e350da7b9280d701f8678af4708f92fbbeb71223d97b637b59e3",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions.csv",
+        "original_snapshot_sha256": "e3ab6319e2021545393bcfce0c9831280828b8eb89fe0cf2d0800f7a1e7df082",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "e3ab6319e2021545393bcfce0c9831280828b8eb89fe0cf2d0800f7a1e7df082",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report.md",
+        "original_snapshot_sha256": "c6aa382e5645a916bfcfd92bac333e7ee4f97262cf27cec5837c9a5dd3d436dc",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c6aa382e5645a916bfcfd92bac333e7ee4f97262cf27cec5837c9a5dd3d436dc",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-dsh-1",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary-r2.csv",
+        "original_snapshot_sha256": "e2c6f3c6d672d4cbc24b9d07a1a1ac67f598dae1e7f0ede1d3e0f154802258b1",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "e2c6f3c6d672d4cbc24b9d07a1a1ac67f598dae1e7f0ede1d3e0f154802258b1",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions-r2.csv",
+        "original_snapshot_sha256": "5a3c43110a0dee289bcef6222043d2574d597a4628479684e530de603813a6a6",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "5a3c43110a0dee289bcef6222043d2574d597a4628479684e530de603813a6a6",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report-r2.md",
+        "original_snapshot_sha256": "1737edfbb996ae147c54c8959f69a5d803622190b814958a2d6531338618d585",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "1737edfbb996ae147c54c8959f69a5d803622190b814958a2d6531338618d585",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-dsh-2",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary.csv",
+        "original_snapshot_sha256": "73f8213c5a0ed3a15da29a5d899d04f2d4f89506c23a2b8de8a61c41bc8c3cd7",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "73f8213c5a0ed3a15da29a5d899d04f2d4f89506c23a2b8de8a61c41bc8c3cd7",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions.csv",
+        "original_snapshot_sha256": "9189dcf24304b61ec1a3235804c39818a1df0dd42e50388bf0ee5f4629a059c2",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "9189dcf24304b61ec1a3235804c39818a1df0dd42e50388bf0ee5f4629a059c2",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report.md",
+        "original_snapshot_sha256": "9db2453eba1c26099e81ed1579086dc8c6454f42eb8812dd7e7809d94eb07d11",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "9db2453eba1c26099e81ed1579086dc8c6454f42eb8812dd7e7809d94eb07d11",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-dsh-2",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary-r2.csv",
+        "original_snapshot_sha256": "d5cf6c62f359ff698b33ad62efbac8379290af30a8de3178f576f159f645edae",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "d5cf6c62f359ff698b33ad62efbac8379290af30a8de3178f576f159f645edae",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions-r2.csv",
+        "original_snapshot_sha256": "b6723c0373bd2d698939ab13a7aa25f21606c8b6c9419fea52cc40f37f7a0098",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "b6723c0373bd2d698939ab13a7aa25f21606c8b6c9419fea52cc40f37f7a0098",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report-r2.md",
+        "original_snapshot_sha256": "94d5d48a1360371f6749b538ab3bbbabcfb913657c1fbc43269425e5546f7f57",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "94d5d48a1360371f6749b538ab3bbbabcfb913657c1fbc43269425e5546f7f57",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-dsh-3",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary.csv",
+        "original_snapshot_sha256": "73f8213c5a0ed3a15da29a5d899d04f2d4f89506c23a2b8de8a61c41bc8c3cd7",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "73f8213c5a0ed3a15da29a5d899d04f2d4f89506c23a2b8de8a61c41bc8c3cd7",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions.csv",
+        "original_snapshot_sha256": "9189dcf24304b61ec1a3235804c39818a1df0dd42e50388bf0ee5f4629a059c2",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "9189dcf24304b61ec1a3235804c39818a1df0dd42e50388bf0ee5f4629a059c2",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report.md",
+        "original_snapshot_sha256": "4b99c4d3b14ab7b0677b1ded65ebb63c4093a2b3c60d473537215e54b656db54",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "4b99c4d3b14ab7b0677b1ded65ebb63c4093a2b3c60d473537215e54b656db54",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-dsh-3",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary-r2.csv",
+        "original_snapshot_sha256": "d5cf6c62f359ff698b33ad62efbac8379290af30a8de3178f576f159f645edae",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "d5cf6c62f359ff698b33ad62efbac8379290af30a8de3178f576f159f645edae",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions-r2.csv",
+        "original_snapshot_sha256": "b6723c0373bd2d698939ab13a7aa25f21606c8b6c9419fea52cc40f37f7a0098",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "b6723c0373bd2d698939ab13a7aa25f21606c8b6c9419fea52cc40f37f7a0098",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report-r2.md",
+        "original_snapshot_sha256": "52eb4f35484d13550a32633d499ec446d0e73b726e85b67f4576cd206b211b00",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "52eb4f35484d13550a32633d499ec446d0e73b726e85b67f4576cd206b211b00",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-workbuddy-1",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary.csv",
+        "original_snapshot_sha256": "4797fa4d1459e350da7b9280d701f8678af4708f92fbbeb71223d97b637b59e3",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "73f8213c5a0ed3a15da29a5d899d04f2d4f89506c23a2b8de8a61c41bc8c3cd7",
+        "current_source_equal_to_snapshot": false,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions.csv",
+        "original_snapshot_sha256": "b2467459a02a5e27b94914399a194386daeb0ac132b1538b459f6cc8992e5c38",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "845aa23efc5eca037099f4d1b5ca769b037aff2772f1dafefdd5a432066c654f",
+        "current_source_equal_to_snapshot": false,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report.md",
+        "original_snapshot_sha256": "4e39bba9d8e7147f9d327f6589e0a330eaf551721bebe1ad05d5d0b996420442",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "4e39bba9d8e7147f9d327f6589e0a330eaf551721bebe1ad05d5d0b996420442",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-workbuddy-1",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary-r2.csv",
+        "original_snapshot_sha256": "d5cf6c62f359ff698b33ad62efbac8379290af30a8de3178f576f159f645edae",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "d5cf6c62f359ff698b33ad62efbac8379290af30a8de3178f576f159f645edae",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions-r2.csv",
+        "original_snapshot_sha256": "5d2e69145c2249a84df254756cabcdbe111a0151711856c0c4d68230c6cb4d8d",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "5d2e69145c2249a84df254756cabcdbe111a0151711856c0c4d68230c6cb4d8d",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report-r2.md",
+        "original_snapshot_sha256": "bea620f37aca74dc11338a46a3e276140bca71f138651ad81890380c32ef400f",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "bea620f37aca74dc11338a46a3e276140bca71f138651ad81890380c32ef400f",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-workbuddy-2",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary.csv",
+        "original_snapshot_sha256": "73f8213c5a0ed3a15da29a5d899d04f2d4f89506c23a2b8de8a61c41bc8c3cd7",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "73f8213c5a0ed3a15da29a5d899d04f2d4f89506c23a2b8de8a61c41bc8c3cd7",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions.csv",
+        "original_snapshot_sha256": "845aa23efc5eca037099f4d1b5ca769b037aff2772f1dafefdd5a432066c654f",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "845aa23efc5eca037099f4d1b5ca769b037aff2772f1dafefdd5a432066c654f",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report.md",
+        "original_snapshot_sha256": "80acf842a17989fa95c06e19a7c6a26744c8dece08100dac03a2831ea65d7ffb",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "80acf842a17989fa95c06e19a7c6a26744c8dece08100dac03a2831ea65d7ffb",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-workbuddy-2",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary-r2.csv",
+        "original_snapshot_sha256": "d5cf6c62f359ff698b33ad62efbac8379290af30a8de3178f576f159f645edae",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "d5cf6c62f359ff698b33ad62efbac8379290af30a8de3178f576f159f645edae",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions-r2.csv",
+        "original_snapshot_sha256": "5d2e69145c2249a84df254756cabcdbe111a0151711856c0c4d68230c6cb4d8d",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "5d2e69145c2249a84df254756cabcdbe111a0151711856c0c4d68230c6cb4d8d",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report-r2.md",
+        "original_snapshot_sha256": "6508a143b124bb70c74f33bfe96113e1f3989a0e667570f6598d0dc03daac3a2",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "6508a143b124bb70c74f33bfe96113e1f3989a0e667570f6598d0dc03daac3a2",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-workbuddy-3",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary.csv",
+        "original_snapshot_sha256": "73f8213c5a0ed3a15da29a5d899d04f2d4f89506c23a2b8de8a61c41bc8c3cd7",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "73f8213c5a0ed3a15da29a5d899d04f2d4f89506c23a2b8de8a61c41bc8c3cd7",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions.csv",
+        "original_snapshot_sha256": "845aa23efc5eca037099f4d1b5ca769b037aff2772f1dafefdd5a432066c654f",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "845aa23efc5eca037099f4d1b5ca769b037aff2772f1dafefdd5a432066c654f",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report.md",
+        "original_snapshot_sha256": "4e983588f1ebb4d0db410c43123563c61e04ce4f40efd8bef83a138fef613234",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "4e983588f1ebb4d0db410c43123563c61e04ce4f40efd8bef83a138fef613234",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-workbuddy-3",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "summary-r2.csv",
+        "original_snapshot_sha256": "d5cf6c62f359ff698b33ad62efbac8379290af30a8de3178f576f159f645edae",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "d5cf6c62f359ff698b33ad62efbac8379290af30a8de3178f576f159f645edae",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions-r2.csv",
+        "original_snapshot_sha256": "5d2e69145c2249a84df254756cabcdbe111a0151711856c0c4d68230c6cb4d8d",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "5d2e69145c2249a84df254756cabcdbe111a0151711856c0c4d68230c6cb4d8d",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report-r2.md",
+        "original_snapshot_sha256": "1ff0bffbc901e6b8a40383b2b59e0a14f012e5d93b680bae91d3ff320dcf031e",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "1ff0bffbc901e6b8a40383b2b59e0a14f012e5d93b680bae91d3ff320dcf031e",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-yuanbao-1",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "原生文件卡导出到本场目录",
+    "files": [
+      {
+        "file": "summary.csv",
+        "original_snapshot_sha256": "4797fa4d1459e350da7b9280d701f8678af4708f92fbbeb71223d97b637b59e3",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "4797fa4d1459e350da7b9280d701f8678af4708f92fbbeb71223d97b637b59e3",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions.csv",
+        "original_snapshot_sha256": "b2467459a02a5e27b94914399a194386daeb0ac132b1538b459f6cc8992e5c38",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "b2467459a02a5e27b94914399a194386daeb0ac132b1538b459f6cc8992e5c38",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report.md",
+        "original_snapshot_sha256": "ca84c3e4bb0ee4793c742b6cab1efc0039ac6e7e4188f7b49a0e2db815401be7",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "ca84c3e4bb0ee4793c742b6cab1efc0039ac6e7e4188f7b49a0e2db815401be7",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-yuanbao-1",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "原生文件卡导出到本场目录",
+    "files": [
+      {
+        "file": "summary-r2.csv",
+        "original_snapshot_sha256": "d5cf6c62f359ff698b33ad62efbac8379290af30a8de3178f576f159f645edae",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "d5cf6c62f359ff698b33ad62efbac8379290af30a8de3178f576f159f645edae",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions-r2.csv",
+        "original_snapshot_sha256": "082082b974f0ef7355f421b8b3dafab40c67325289b0a768de2953269009e7eb",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "082082b974f0ef7355f421b8b3dafab40c67325289b0a768de2953269009e7eb",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report-r2.md",
+        "original_snapshot_sha256": "bd3402a124c83f0bd8ac093552c237f1e826a4c2a34fb0e08da92259c4134e89",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "bd3402a124c83f0bd8ac093552c237f1e826a4c2a34fb0e08da92259c4134e89",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-yuanbao-2",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "原生文件卡导出到本场目录",
+    "files": [
+      {
+        "file": "summary.csv",
+        "original_snapshot_sha256": "15d655c9883644259a4448d8e5c9fb3c61bdae4eb3904fa185518ebaef2ea86a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "15d655c9883644259a4448d8e5c9fb3c61bdae4eb3904fa185518ebaef2ea86a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions.csv",
+        "original_snapshot_sha256": "632b1d9dc29ae33a6b73e68e4c12facd4be62cc09a4f53ab33cd238216132852",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "632b1d9dc29ae33a6b73e68e4c12facd4be62cc09a4f53ab33cd238216132852",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report.md",
+        "original_snapshot_sha256": "cca02c317406c5c21a709649f74bb63b23b4e631525c7a30e73b2485e4df1447",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "cca02c317406c5c21a709649f74bb63b23b4e631525c7a30e73b2485e4df1447",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-yuanbao-2",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "原生文件卡导出到本场目录",
+    "files": [
+      {
+        "file": "summary-r2.csv",
+        "original_snapshot_sha256": "3459a42283ddb5e6090c9278150ababe23438b02eaaa01d8413dd025f4702d0f",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "3459a42283ddb5e6090c9278150ababe23438b02eaaa01d8413dd025f4702d0f",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions-r2.csv",
+        "original_snapshot_sha256": "e39f9a30d9b354f05e325be1a5b6e9faccf953e7d540aa3f1125f790cb2e78fe",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "e39f9a30d9b354f05e325be1a5b6e9faccf953e7d540aa3f1125f790cb2e78fe",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report-r2.md",
+        "original_snapshot_sha256": "53aa36ba8be86b9d17218261ed4f42606e5edccf7a84a0cf410dea4f8dc9baec",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "53aa36ba8be86b9d17218261ed4f42606e5edccf7a84a0cf410dea4f8dc9baec",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-yuanbao-3",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "原生文件卡导出到本场目录",
+    "files": [
+      {
+        "file": "summary.csv",
+        "original_snapshot_sha256": "15d655c9883644259a4448d8e5c9fb3c61bdae4eb3904fa185518ebaef2ea86a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "15d655c9883644259a4448d8e5c9fb3c61bdae4eb3904fa185518ebaef2ea86a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions.csv",
+        "original_snapshot_sha256": "98a0245271132a1cf080b915c72987c879a4d3fdae60737816f88d2d94b76e3d",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "98a0245271132a1cf080b915c72987c879a4d3fdae60737816f88d2d94b76e3d",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report.md",
+        "original_snapshot_sha256": "3d1628d27a1d81fc4834bcb3f2ee81c2a7d0039f1aee04458c6df1ef92b0d1e3",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "3d1628d27a1d81fc4834bcb3f2ee81c2a7d0039f1aee04458c6df1ef92b0d1e3",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T02-yuanbao-3",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "原生文件卡导出到本场目录",
+    "files": [
+      {
+        "file": "summary-r2.csv",
+        "original_snapshot_sha256": "3459a42283ddb5e6090c9278150ababe23438b02eaaa01d8413dd025f4702d0f",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "3459a42283ddb5e6090c9278150ababe23438b02eaaa01d8413dd025f4702d0f",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "exceptions-r2.csv",
+        "original_snapshot_sha256": "e39f9a30d9b354f05e325be1a5b6e9faccf953e7d540aa3f1125f790cb2e78fe",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "e39f9a30d9b354f05e325be1a5b6e9faccf953e7d540aa3f1125f790cb2e78fe",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "report-r2.md",
+        "original_snapshot_sha256": "0a6919a413304944ffc82519e61a491db273c79175df055f712eda5a2ae65d15",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "0a6919a413304944ffc82519e61a491db273c79175df055f712eda5a2ae65d15",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T03-codex-1",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "people-copy.csv",
+        "original_snapshot_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "stock-copy.csv",
+        "original_snapshot_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "fields.md",
+        "original_snapshot_sha256": "b1a7b10ccb4e0fd6f4ffc2462c6817013df20026599741e5e9399d1747c454fb",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "b1a7b10ccb4e0fd6f4ffc2462c6817013df20026599741e5e9399d1747c454fb",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "manifest.csv",
+        "original_snapshot_sha256": "a5809fdc79dd84de7604cc1aa04a93a6265b26ebc93eab0d43c64608b3b13e4c",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "a5809fdc79dd84de7604cc1aa04a93a6265b26ebc93eab0d43c64608b3b13e4c",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T03-codex-2",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "people-copy.csv",
+        "original_snapshot_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "stock-copy.csv",
+        "original_snapshot_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "fields.md",
+        "original_snapshot_sha256": "bc5559f41d5665202a77a19977e3908306a4f2220df93a8e39615a25611280af",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "bc5559f41d5665202a77a19977e3908306a4f2220df93a8e39615a25611280af",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "manifest.csv",
+        "original_snapshot_sha256": "a5809fdc79dd84de7604cc1aa04a93a6265b26ebc93eab0d43c64608b3b13e4c",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "a5809fdc79dd84de7604cc1aa04a93a6265b26ebc93eab0d43c64608b3b13e4c",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T03-codex-3",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "people-copy.csv",
+        "original_snapshot_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "stock-copy.csv",
+        "original_snapshot_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "fields.md",
+        "original_snapshot_sha256": "32ef4ee38ea90914928dc5a14312891cdb8ea6be13229a36da18381c7e257b0e",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "32ef4ee38ea90914928dc5a14312891cdb8ea6be13229a36da18381c7e257b0e",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "manifest.csv",
+        "original_snapshot_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T03-doubao-1",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "people-copy.csv",
+        "original_snapshot_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "stock-copy.csv",
+        "original_snapshot_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "fields.md",
+        "original_snapshot_sha256": "57264f0216d3b4b38984b4f1bda9fbb5445902b78499d7153953c204375553ac",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "57264f0216d3b4b38984b4f1bda9fbb5445902b78499d7153953c204375553ac",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "manifest.csv",
+        "original_snapshot_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T03-doubao-2",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "people-copy.csv",
+        "original_snapshot_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "stock-copy.csv",
+        "original_snapshot_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "fields.md",
+        "original_snapshot_sha256": "528c1c0076139964327ac8c00368ca07bd722900d05e31afc6b1b423174e2d73",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "528c1c0076139964327ac8c00368ca07bd722900d05e31afc6b1b423174e2d73",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "manifest.csv",
+        "original_snapshot_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T03-doubao-3",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "people-copy.csv",
+        "original_snapshot_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "stock-copy.csv",
+        "original_snapshot_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "fields.md",
+        "original_snapshot_sha256": "883b568a9db87862c784eb328269a16c9d7ca8d5697d3cc0f0df46f83e8f8cc6",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "883b568a9db87862c784eb328269a16c9d7ca8d5697d3cc0f0df46f83e8f8cc6",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "manifest.csv",
+        "original_snapshot_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T03-dsh-1",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "people-copy.csv",
+        "original_snapshot_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "stock-copy.csv",
+        "original_snapshot_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "fields.md",
+        "original_snapshot_sha256": "38e1e76a5f01d215db806dc100929b936e9ce2419ddbab94bf3af27f456fde9f",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "38e1e76a5f01d215db806dc100929b936e9ce2419ddbab94bf3af27f456fde9f",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "manifest.csv",
+        "original_snapshot_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T03-dsh-2",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "people-copy.csv",
+        "original_snapshot_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "stock-copy.csv",
+        "original_snapshot_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "fields.md",
+        "original_snapshot_sha256": "7cb7d165b5a584ae459607f7facb4d7227ba6779ee3b6e66b9b01b04c20d4e4c",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "7cb7d165b5a584ae459607f7facb4d7227ba6779ee3b6e66b9b01b04c20d4e4c",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "manifest.csv",
+        "original_snapshot_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T03-dsh-3",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "people-copy.csv",
+        "original_snapshot_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "stock-copy.csv",
+        "original_snapshot_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "fields.md",
+        "original_snapshot_sha256": "d3c5b5a4a57ae3b2ae01e429d2cd55450c1eae254ae1d2a1dcef35872f3b1226",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "d3c5b5a4a57ae3b2ae01e429d2cd55450c1eae254ae1d2a1dcef35872f3b1226",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "manifest.csv",
+        "original_snapshot_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T03-workbuddy-1",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "people-copy.csv",
+        "original_snapshot_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "stock-copy.csv",
+        "original_snapshot_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "fields.md",
+        "original_snapshot_sha256": "7cb7d165b5a584ae459607f7facb4d7227ba6779ee3b6e66b9b01b04c20d4e4c",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "7cb7d165b5a584ae459607f7facb4d7227ba6779ee3b6e66b9b01b04c20d4e4c",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "manifest.csv",
+        "original_snapshot_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T03-workbuddy-2",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "people-copy.csv",
+        "original_snapshot_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "stock-copy.csv",
+        "original_snapshot_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "fields.md",
+        "original_snapshot_sha256": "7cb7d165b5a584ae459607f7facb4d7227ba6779ee3b6e66b9b01b04c20d4e4c",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "7cb7d165b5a584ae459607f7facb4d7227ba6779ee3b6e66b9b01b04c20d4e4c",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "manifest.csv",
+        "original_snapshot_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T03-workbuddy-3",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "people-copy.csv",
+        "original_snapshot_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "stock-copy.csv",
+        "original_snapshot_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "fields.md",
+        "original_snapshot_sha256": "7cb7d165b5a584ae459607f7facb4d7227ba6779ee3b6e66b9b01b04c20d4e4c",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "7cb7d165b5a584ae459607f7facb4d7227ba6779ee3b6e66b9b01b04c20d4e4c",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "manifest.csv",
+        "original_snapshot_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T03-yuanbao-1",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "原生文件卡导出到本场目录",
+    "files": [
+      {
+        "file": "people-copy.csv",
+        "original_snapshot_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "stock-copy.csv",
+        "original_snapshot_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "fields.md",
+        "original_snapshot_sha256": "b6f64803541de5bad76aeead1ffb675298d47b186a41a3ff7325b603ed4cc5ab",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "b6f64803541de5bad76aeead1ffb675298d47b186a41a3ff7325b603ed4cc5ab",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "manifest.csv",
+        "original_snapshot_sha256": "a5809fdc79dd84de7604cc1aa04a93a6265b26ebc93eab0d43c64608b3b13e4c",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "a5809fdc79dd84de7604cc1aa04a93a6265b26ebc93eab0d43c64608b3b13e4c",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T03-yuanbao-2",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "原生文件卡导出到本场目录",
+    "files": [
+      {
+        "file": "people-copy.csv",
+        "original_snapshot_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "stock-copy.csv",
+        "original_snapshot_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "fields.md",
+        "original_snapshot_sha256": "7cb7d165b5a584ae459607f7facb4d7227ba6779ee3b6e66b9b01b04c20d4e4c",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "7cb7d165b5a584ae459607f7facb4d7227ba6779ee3b6e66b9b01b04c20d4e4c",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "manifest.csv",
+        "original_snapshot_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T03-yuanbao-3",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "原生文件卡导出到本场目录",
+    "files": [
+      {
+        "file": "people-copy.csv",
+        "original_snapshot_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "906f18e32819d88573dbc14ca512f161b82b6302625fc370eea27223f2ab53cc",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "stock-copy.csv",
+        "original_snapshot_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c2b2617c847659c009096404e079e49e652b43a725d3557349d8c4e78f9d44b5",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "fields.md",
+        "original_snapshot_sha256": "ce8398a673e242b3d0b33eee138e7c3ec83406912e8574620d862fa68b96ead9",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "ce8398a673e242b3d0b33eee138e7c3ec83406912e8574620d862fa68b96ead9",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "manifest.csv",
+        "original_snapshot_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "5671d488a564ee19a6a91d12f25f65ec3ab4421e7e2433fece0ce19b38bcfa5a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-codex-1",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions.csv",
+        "original_snapshot_sha256": "7ff2344775aa245ba00eb3864423e9d25c53abf959295e7eea7a20adcc4a2de3",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "7ff2344775aa245ba00eb3864423e9d25c53abf959295e7eea7a20adcc4a2de3",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief.md",
+        "original_snapshot_sha256": "f473f00dd6ee5063d6367f7a7535e0e54b07d4594fe1979d13cde2a70dd6f0e8",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "f473f00dd6ee5063d6367f7a7535e0e54b07d4594fe1979d13cde2a70dd6f0e8",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-codex-1",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions-r2.csv",
+        "original_snapshot_sha256": "c6a33d5675dab5716019db003cbce0940c67ef6975d9e4837a13a0c595d84a34",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c6a33d5675dab5716019db003cbce0940c67ef6975d9e4837a13a0c595d84a34",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief-r2.md",
+        "original_snapshot_sha256": "479bedb23896d6c428c5c2e09e8441218121f3d9841046b39a94b1e6efa615e4",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "479bedb23896d6c428c5c2e09e8441218121f3d9841046b39a94b1e6efa615e4",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-codex-2",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions.csv",
+        "original_snapshot_sha256": "7ff2344775aa245ba00eb3864423e9d25c53abf959295e7eea7a20adcc4a2de3",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "7ff2344775aa245ba00eb3864423e9d25c53abf959295e7eea7a20adcc4a2de3",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief.md",
+        "original_snapshot_sha256": "b8c4b289a25f48edbf2c389d9374c671e63b835eda1a55abc34a85fffc9c1c39",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "b8c4b289a25f48edbf2c389d9374c671e63b835eda1a55abc34a85fffc9c1c39",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-codex-2",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions-r2.csv",
+        "original_snapshot_sha256": "c6a33d5675dab5716019db003cbce0940c67ef6975d9e4837a13a0c595d84a34",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c6a33d5675dab5716019db003cbce0940c67ef6975d9e4837a13a0c595d84a34",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief-r2.md",
+        "original_snapshot_sha256": "60f2debb0aac27aebe955682a0907150a86f3238217af5ce7f7cdc466cf3848f",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "60f2debb0aac27aebe955682a0907150a86f3238217af5ce7f7cdc466cf3848f",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-codex-3",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions.csv",
+        "original_snapshot_sha256": "4452687c475c719e976426ab2d390c823f8a4cf0fec4251a65f627d8f4fb37f6",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "4452687c475c719e976426ab2d390c823f8a4cf0fec4251a65f627d8f4fb37f6",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief.md",
+        "original_snapshot_sha256": "1ddd310bf73bdeab9a920f49a4560ab7d45e6229f10e2d5eb868fb6a7ab4881e",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "1ddd310bf73bdeab9a920f49a4560ab7d45e6229f10e2d5eb868fb6a7ab4881e",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-codex-3",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions-r2.csv",
+        "original_snapshot_sha256": "fecf4488de7dd02a3c9323e5e1dea6eff9c7fa4475b7b6eaa8e96d6924db84d5",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "fecf4488de7dd02a3c9323e5e1dea6eff9c7fa4475b7b6eaa8e96d6924db84d5",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief-r2.md",
+        "original_snapshot_sha256": "1a4a04939b34a99fd1fc35caccef614081c265704bd8e271cdc9a0ddca427ca8",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "1a4a04939b34a99fd1fc35caccef614081c265704bd8e271cdc9a0ddca427ca8",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-doubao-1",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions.csv",
+        "original_snapshot_sha256": "45f331af8c7eb4b46de56eafae5148cbaa397b3983886344dde28bd76b4969cc",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "45f331af8c7eb4b46de56eafae5148cbaa397b3983886344dde28bd76b4969cc",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief.md",
+        "original_snapshot_sha256": "96d3fe185629f8b5d8f15e28944508f705b6a87961ce26989ebe205555ec1418",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "96d3fe185629f8b5d8f15e28944508f705b6a87961ce26989ebe205555ec1418",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-doubao-1",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions-r2.csv",
+        "original_snapshot_sha256": "ddd7c6edaa3c5816233f630d4dc4dc6e5d3b720faaf219ec9f7b134e55eb6383",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "ddd7c6edaa3c5816233f630d4dc4dc6e5d3b720faaf219ec9f7b134e55eb6383",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief-r2.md",
+        "original_snapshot_sha256": "ff5bea5020e3e1ecded6c5093c54e03f80ebe7b0d0fd6ae00b727e5472b27e61",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "ff5bea5020e3e1ecded6c5093c54e03f80ebe7b0d0fd6ae00b727e5472b27e61",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-doubao-2",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions.csv",
+        "original_snapshot_sha256": "059f9b928ba1e4447db9f852932ce73b8ea63f05bbe355a5a1c01660147f2e0a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "059f9b928ba1e4447db9f852932ce73b8ea63f05bbe355a5a1c01660147f2e0a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief.md",
+        "original_snapshot_sha256": "f05fab00043c9dbdc21bf6fc20cc9d745926974a2738ffc096caf5289203d9c6",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "f05fab00043c9dbdc21bf6fc20cc9d745926974a2738ffc096caf5289203d9c6",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-doubao-2",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions-r2.csv",
+        "original_snapshot_sha256": "499d588befe731d73449a9209d464f5ed8d16853ace937d66c47f60c3c6d3867",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "499d588befe731d73449a9209d464f5ed8d16853ace937d66c47f60c3c6d3867",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief-r2.md",
+        "original_snapshot_sha256": "cd090ab2157566abdbdb75dd0ce08820c3cbb6121fcb8b8bb82259d05ec41759",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "cd090ab2157566abdbdb75dd0ce08820c3cbb6121fcb8b8bb82259d05ec41759",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-doubao-3",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions.csv",
+        "original_snapshot_sha256": "e9a8d8eaeb93a700a60d4176bb05b51e96993502a3a27e315f2d68761f44eeef",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "e9a8d8eaeb93a700a60d4176bb05b51e96993502a3a27e315f2d68761f44eeef",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief.md",
+        "original_snapshot_sha256": "42a07200e5939fd5d029dc45df2adcc2fa5f941fc7787c27705090364cea6bbe",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "42a07200e5939fd5d029dc45df2adcc2fa5f941fc7787c27705090364cea6bbe",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-doubao-3",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions-r2.csv",
+        "original_snapshot_sha256": "cd48e8aaaae5fbfc80b94a6fbb5048759090981ca92bcae42c9c57d6902e5161",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "cd48e8aaaae5fbfc80b94a6fbb5048759090981ca92bcae42c9c57d6902e5161",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief-r2.md",
+        "original_snapshot_sha256": "617ab30d7cd532c6172c6d4f4ef9c545d36b012c35ae2ce48c7d4e4e93f6a116",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "617ab30d7cd532c6172c6d4f4ef9c545d36b012c35ae2ce48c7d4e4e93f6a116",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-dsh-1",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions.csv",
+        "original_snapshot_sha256": "059f9b928ba1e4447db9f852932ce73b8ea63f05bbe355a5a1c01660147f2e0a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "059f9b928ba1e4447db9f852932ce73b8ea63f05bbe355a5a1c01660147f2e0a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief.md",
+        "original_snapshot_sha256": "e3bf4d0b1b81eae25998a19644ee537063eeb3acdd95265e98bffc79fd7a0acc",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "e3bf4d0b1b81eae25998a19644ee537063eeb3acdd95265e98bffc79fd7a0acc",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-dsh-1",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions-r2.csv",
+        "original_snapshot_sha256": "499d588befe731d73449a9209d464f5ed8d16853ace937d66c47f60c3c6d3867",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "499d588befe731d73449a9209d464f5ed8d16853ace937d66c47f60c3c6d3867",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief-r2.md",
+        "original_snapshot_sha256": "fa7301975f1f86e7accf96833d2541ff793d11753bc20bafb66c8df993dd8d83",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "fa7301975f1f86e7accf96833d2541ff793d11753bc20bafb66c8df993dd8d83",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-dsh-2",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions.csv",
+        "original_snapshot_sha256": "059f9b928ba1e4447db9f852932ce73b8ea63f05bbe355a5a1c01660147f2e0a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "059f9b928ba1e4447db9f852932ce73b8ea63f05bbe355a5a1c01660147f2e0a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief.md",
+        "original_snapshot_sha256": "b46558741ab91816fc82d52fe0429d1e8f245c0f4ec574a848de59f1441b9ef1",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "b46558741ab91816fc82d52fe0429d1e8f245c0f4ec574a848de59f1441b9ef1",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-dsh-2",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions-r2.csv",
+        "original_snapshot_sha256": "499d588befe731d73449a9209d464f5ed8d16853ace937d66c47f60c3c6d3867",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "499d588befe731d73449a9209d464f5ed8d16853ace937d66c47f60c3c6d3867",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief-r2.md",
+        "original_snapshot_sha256": "7a93f614c120afe4d63b7f6b099c2092b9edda1251121c66acbe2b8289ea7ee7",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "7a93f614c120afe4d63b7f6b099c2092b9edda1251121c66acbe2b8289ea7ee7",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-dsh-3",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions.csv",
+        "original_snapshot_sha256": "059f9b928ba1e4447db9f852932ce73b8ea63f05bbe355a5a1c01660147f2e0a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "059f9b928ba1e4447db9f852932ce73b8ea63f05bbe355a5a1c01660147f2e0a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief.md",
+        "original_snapshot_sha256": "3580e8d44b77a6dc1bf3decb9a8f03829e5da5c80d9a47c2481fb414731af1df",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "3580e8d44b77a6dc1bf3decb9a8f03829e5da5c80d9a47c2481fb414731af1df",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-dsh-3",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions-r2.csv",
+        "original_snapshot_sha256": "499d588befe731d73449a9209d464f5ed8d16853ace937d66c47f60c3c6d3867",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "499d588befe731d73449a9209d464f5ed8d16853ace937d66c47f60c3c6d3867",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief-r2.md",
+        "original_snapshot_sha256": "5cee936d708403ea25693005e8223c51164d4500506935c4de88574ba7f2d851",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "5cee936d708403ea25693005e8223c51164d4500506935c4de88574ba7f2d851",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-workbuddy-1",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions.csv",
+        "original_snapshot_sha256": "059f9b928ba1e4447db9f852932ce73b8ea63f05bbe355a5a1c01660147f2e0a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "059f9b928ba1e4447db9f852932ce73b8ea63f05bbe355a5a1c01660147f2e0a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief.md",
+        "original_snapshot_sha256": "509faf398d74793421b52edcff167237cc51654ae4f48bd72854f818bcd54a78",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "509faf398d74793421b52edcff167237cc51654ae4f48bd72854f818bcd54a78",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-workbuddy-1",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions-r2.csv",
+        "original_snapshot_sha256": "499d588befe731d73449a9209d464f5ed8d16853ace937d66c47f60c3c6d3867",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "499d588befe731d73449a9209d464f5ed8d16853ace937d66c47f60c3c6d3867",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief-r2.md",
+        "original_snapshot_sha256": "5e00076ed700db9cf3d067d915c3f1d4f608e7dda85c031ef43ee06c4cecf0b0",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "5e00076ed700db9cf3d067d915c3f1d4f608e7dda85c031ef43ee06c4cecf0b0",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-workbuddy-2",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions.csv",
+        "original_snapshot_sha256": "45f331af8c7eb4b46de56eafae5148cbaa397b3983886344dde28bd76b4969cc",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "45f331af8c7eb4b46de56eafae5148cbaa397b3983886344dde28bd76b4969cc",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief.md",
+        "original_snapshot_sha256": "a1f4141ed6d2f1b8c735c08c031ddf3ecf946fc144c6266521dda4caabb163de",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "a1f4141ed6d2f1b8c735c08c031ddf3ecf946fc144c6266521dda4caabb163de",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-workbuddy-2",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions-r2.csv",
+        "original_snapshot_sha256": "ddd7c6edaa3c5816233f630d4dc4dc6e5d3b720faaf219ec9f7b134e55eb6383",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "ddd7c6edaa3c5816233f630d4dc4dc6e5d3b720faaf219ec9f7b134e55eb6383",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief-r2.md",
+        "original_snapshot_sha256": "30711c36462458ac635eca73332d31d766c17b16eaacae8263bc9228f304e390",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "30711c36462458ac635eca73332d31d766c17b16eaacae8263bc9228f304e390",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-workbuddy-3",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions.csv",
+        "original_snapshot_sha256": "45f331af8c7eb4b46de56eafae5148cbaa397b3983886344dde28bd76b4969cc",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "45f331af8c7eb4b46de56eafae5148cbaa397b3983886344dde28bd76b4969cc",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief.md",
+        "original_snapshot_sha256": "4d85df56f0e114b89bcdb9dbe3662fbc2a98ff519b12cea6674f1dae10583170",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "4d85df56f0e114b89bcdb9dbe3662fbc2a98ff519b12cea6674f1dae10583170",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-workbuddy-3",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "actions-r2.csv",
+        "original_snapshot_sha256": "ddd7c6edaa3c5816233f630d4dc4dc6e5d3b720faaf219ec9f7b134e55eb6383",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "ddd7c6edaa3c5816233f630d4dc4dc6e5d3b720faaf219ec9f7b134e55eb6383",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief-r2.md",
+        "original_snapshot_sha256": "39b19dfe61cd747c497e10aaeb3bfd8185a848166d532462141e80c61c3b2a18",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "39b19dfe61cd747c497e10aaeb3bfd8185a848166d532462141e80c61c3b2a18",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-yuanbao-1",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "原生文件卡导出到本场目录",
+    "files": [
+      {
+        "file": "actions.csv",
+        "original_snapshot_sha256": "7ff2344775aa245ba00eb3864423e9d25c53abf959295e7eea7a20adcc4a2de3",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "7ff2344775aa245ba00eb3864423e9d25c53abf959295e7eea7a20adcc4a2de3",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief.md",
+        "original_snapshot_sha256": "fb2e72378256a2168668b0b06689a28d01ad4ad40a6e0981ce113381bd45c7d1",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "fb2e72378256a2168668b0b06689a28d01ad4ad40a6e0981ce113381bd45c7d1",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-yuanbao-1",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "原生文件卡导出到本场目录",
+    "files": [
+      {
+        "file": "actions-r2.csv",
+        "original_snapshot_sha256": "12ac540e6f449a58635972c1c1cb808d8a69cdd9eb5443fad7e0d3b7cb0710cf",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "12ac540e6f449a58635972c1c1cb808d8a69cdd9eb5443fad7e0d3b7cb0710cf",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief-r2.md",
+        "original_snapshot_sha256": "7923b66f3af8d65a2dd1f751c1702e874fe7770f18a3134c680cf95aefcb82c3",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "7923b66f3af8d65a2dd1f751c1702e874fe7770f18a3134c680cf95aefcb82c3",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-yuanbao-2",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "原生文件卡导出到本场目录",
+    "files": [
+      {
+        "file": "actions.csv",
+        "original_snapshot_sha256": "059f9b928ba1e4447db9f852932ce73b8ea63f05bbe355a5a1c01660147f2e0a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "059f9b928ba1e4447db9f852932ce73b8ea63f05bbe355a5a1c01660147f2e0a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief.md",
+        "original_snapshot_sha256": "07840ca3c7e3d1a29d892b9e3a5c275e6a9cc96332c962d00ed5d63671d20d67",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "07840ca3c7e3d1a29d892b9e3a5c275e6a9cc96332c962d00ed5d63671d20d67",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-yuanbao-2",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "原生文件卡导出到本场目录",
+    "files": [
+      {
+        "file": "actions-r2.csv",
+        "original_snapshot_sha256": "499d588befe731d73449a9209d464f5ed8d16853ace937d66c47f60c3c6d3867",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "499d588befe731d73449a9209d464f5ed8d16853ace937d66c47f60c3c6d3867",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief-r2.md",
+        "original_snapshot_sha256": "c6e5090a3186a74e1a59d719e337d0b3201fd7b6af0da3cd5ac63582d69b9fc5",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c6e5090a3186a74e1a59d719e337d0b3201fd7b6af0da3cd5ac63582d69b9fc5",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-yuanbao-3",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "原生文件卡导出到本场目录",
+    "files": [
+      {
+        "file": "actions.csv",
+        "original_snapshot_sha256": "059f9b928ba1e4447db9f852932ce73b8ea63f05bbe355a5a1c01660147f2e0a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "059f9b928ba1e4447db9f852932ce73b8ea63f05bbe355a5a1c01660147f2e0a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "brief.md",
+        "original_snapshot_sha256": "8f5c90f52e898519580951cf6786fb63a5955334b96c22713d9587213ae9a348",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "8f5c90f52e898519580951cf6786fb63a5955334b96c22713d9587213ae9a348",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T04-yuanbao-3",
+    "round": "2",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "原生文件卡导出到本场目录",
+    "files": [
+      {
+        "file": "actions-r2.csv",
+        "original_snapshot_sha256": "317ddd2ed4a51fdea76a2fadff23ff8cdb718494919c4a9246f1ef7a1bcedefb",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "317ddd2ed4a51fdea76a2fadff23ff8cdb718494919c4a9246f1ef7a1bcedefb",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": false,
+        "original_export_error": true
+      },
+      {
+        "file": "brief-r2.md",
+        "original_snapshot_sha256": "bfb09debc9e1a2bd3b9772faddb71ed12ddb4e888420cd138310b7c6748c3005",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "bfb09debc9e1a2bd3b9772faddb71ed12ddb4e888420cd138310b7c6748c3005",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T05-codex-1",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "items.csv",
+        "original_snapshot_sha256": "dc6e67665af4ac66747abfb4e2d6a58020aa87dcba5247defc56f3a823b1fc8e",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "dc6e67665af4ac66747abfb4e2d6a58020aa87dcba5247defc56f3a823b1fc8e",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "recovery.md",
+        "original_snapshot_sha256": "9d0f409d78aaa71dbc04e576de9efdfb587f715658126cf9d61fde50bf2bf67a",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "9d0f409d78aaa71dbc04e576de9efdfb587f715658126cf9d61fde50bf2bf67a",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T05-codex-2",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "items.csv",
+        "original_snapshot_sha256": "dc6e67665af4ac66747abfb4e2d6a58020aa87dcba5247defc56f3a823b1fc8e",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "dc6e67665af4ac66747abfb4e2d6a58020aa87dcba5247defc56f3a823b1fc8e",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "recovery.md",
+        "original_snapshot_sha256": "dd2bb71d8e355de9595929c5f89c4c54998fe00bbcec0f32879adda79c451732",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "dd2bb71d8e355de9595929c5f89c4c54998fe00bbcec0f32879adda79c451732",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T05-codex-3",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "items.csv",
+        "original_snapshot_sha256": "dc6e67665af4ac66747abfb4e2d6a58020aa87dcba5247defc56f3a823b1fc8e",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "dc6e67665af4ac66747abfb4e2d6a58020aa87dcba5247defc56f3a823b1fc8e",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "recovery.md",
+        "original_snapshot_sha256": "49a8ba8478db38211d3a6c06e293f4b3cb833bea34d73d73eb2666bcee45c373",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "49a8ba8478db38211d3a6c06e293f4b3cb833bea34d73d73eb2666bcee45c373",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T05-doubao-1",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "items.csv",
+        "original_snapshot_sha256": "d0217d75d6f74762162fa070b230ac379734e3ff249a266c961ad388db2ca2fe",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "d0217d75d6f74762162fa070b230ac379734e3ff249a266c961ad388db2ca2fe",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "recovery.md",
+        "original_snapshot_sha256": "95c0abc5364f96d20966b3bd614af966853efa2f445d16464ba44a96c7e30a0f",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "95c0abc5364f96d20966b3bd614af966853efa2f445d16464ba44a96c7e30a0f",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T05-doubao-2",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "items.csv",
+        "original_snapshot_sha256": "9fcc39f4c5e6474bb78cfd8b6c4e6a781c4903ff59f4519724004b1618032bed",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "9fcc39f4c5e6474bb78cfd8b6c4e6a781c4903ff59f4519724004b1618032bed",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "recovery.md",
+        "original_snapshot_sha256": "5839aa85e59616d9c2ae487cb6180565bae258ec6158e793eed12e1adf1cd2d2",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "5839aa85e59616d9c2ae487cb6180565bae258ec6158e793eed12e1adf1cd2d2",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T05-doubao-3",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "items.csv",
+        "original_snapshot_sha256": "d0217d75d6f74762162fa070b230ac379734e3ff249a266c961ad388db2ca2fe",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "d0217d75d6f74762162fa070b230ac379734e3ff249a266c961ad388db2ca2fe",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "recovery.md",
+        "original_snapshot_sha256": "9f148ffad9ef2a37c43bb54fe7262a772c016670248a8afaec8012abbd66fe5c",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "9f148ffad9ef2a37c43bb54fe7262a772c016670248a8afaec8012abbd66fe5c",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T05-dsh-1",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "items.csv",
+        "original_snapshot_sha256": "d0217d75d6f74762162fa070b230ac379734e3ff249a266c961ad388db2ca2fe",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "d0217d75d6f74762162fa070b230ac379734e3ff249a266c961ad388db2ca2fe",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "recovery.md",
+        "original_snapshot_sha256": "59b004917b705affeb370b11839759a779f1d0b22cbad2094e17bdcc5c6bc81f",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "59b004917b705affeb370b11839759a779f1d0b22cbad2094e17bdcc5c6bc81f",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T05-dsh-2",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "items.csv",
+        "original_snapshot_sha256": "d0217d75d6f74762162fa070b230ac379734e3ff249a266c961ad388db2ca2fe",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "d0217d75d6f74762162fa070b230ac379734e3ff249a266c961ad388db2ca2fe",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "recovery.md",
+        "original_snapshot_sha256": "33f85f4d50d479b526ceaf7f3ffae6d8566c027aeafa990eaa25467ed3c1a732",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "33f85f4d50d479b526ceaf7f3ffae6d8566c027aeafa990eaa25467ed3c1a732",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T05-dsh-3",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "items.csv",
+        "original_snapshot_sha256": "d0217d75d6f74762162fa070b230ac379734e3ff249a266c961ad388db2ca2fe",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "d0217d75d6f74762162fa070b230ac379734e3ff249a266c961ad388db2ca2fe",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "recovery.md",
+        "original_snapshot_sha256": "c2a45c4681aa30378f325ef38944115d099a27865610d55ac584f71b86138b97",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c2a45c4681aa30378f325ef38944115d099a27865610d55ac584f71b86138b97",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T05-workbuddy-1",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "items.csv",
+        "original_snapshot_sha256": "d0217d75d6f74762162fa070b230ac379734e3ff249a266c961ad388db2ca2fe",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "d0217d75d6f74762162fa070b230ac379734e3ff249a266c961ad388db2ca2fe",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "recovery.md",
+        "original_snapshot_sha256": "c9f5481551c2e36fa983f0d2d7d4a219583c4514da15c1873c61902f422eedf7",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "c9f5481551c2e36fa983f0d2d7d4a219583c4514da15c1873c61902f422eedf7",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T05-workbuddy-2",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "items.csv",
+        "original_snapshot_sha256": "d0217d75d6f74762162fa070b230ac379734e3ff249a266c961ad388db2ca2fe",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "d0217d75d6f74762162fa070b230ac379734e3ff249a266c961ad388db2ca2fe",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "recovery.md",
+        "original_snapshot_sha256": "69c1bd3ea19d2e429fddc57126f8133fc850c12ed80ac01bc11d95e16b824519",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "69c1bd3ea19d2e429fddc57126f8133fc850c12ed80ac01bc11d95e16b824519",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T05-workbuddy-3",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "题面约定的本地输出目录",
+    "files": [
+      {
+        "file": "items.csv",
+        "original_snapshot_sha256": "d0217d75d6f74762162fa070b230ac379734e3ff249a266c961ad388db2ca2fe",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "d0217d75d6f74762162fa070b230ac379734e3ff249a266c961ad388db2ca2fe",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "recovery.md",
+        "original_snapshot_sha256": "0eef26a8eccaa9dd8320b0596e9714b4d3333ef137f7b59160c1f679eb68d172",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "0eef26a8eccaa9dd8320b0596e9714b4d3333ef137f7b59160c1f679eb68d172",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T05-yuanbao-1",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "原生文件卡导出到本场目录",
+    "files": [
+      {
+        "file": "items.csv",
+        "original_snapshot_sha256": "dc6e67665af4ac66747abfb4e2d6a58020aa87dcba5247defc56f3a823b1fc8e",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "dc6e67665af4ac66747abfb4e2d6a58020aa87dcba5247defc56f3a823b1fc8e",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "recovery.md",
+        "original_snapshot_sha256": "afda07958dacc743aedc686791c7cf6b3b2a407caf9154afe1f696a47ddc3937",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "afda07958dacc743aedc686791c7cf6b3b2a407caf9154afe1f696a47ddc3937",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T05-yuanbao-2",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "原生文件卡导出到本场目录",
+    "files": [
+      {
+        "file": "items.csv",
+        "original_snapshot_sha256": "d0217d75d6f74762162fa070b230ac379734e3ff249a266c961ad388db2ca2fe",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "d0217d75d6f74762162fa070b230ac379734e3ff249a266c961ad388db2ca2fe",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "recovery.md",
+        "original_snapshot_sha256": "15e9bac98fac5765f6de96791969c9344ddf401893af67faa19169fb126ec5af",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "15e9bac98fac5765f6de96791969c9344ddf401893af67faa19169fb126ec5af",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  },
+  {
+    "run_id": "T05-yuanbao-3",
+    "round": "1",
+    "verified_at": "2026-11-24T10:28:30+08:00",
+    "source_kind": "原生文件卡导出到本场目录",
+    "files": [
+      {
+        "file": "items.csv",
+        "original_snapshot_sha256": "dc6e67665af4ac66747abfb4e2d6a58020aa87dcba5247defc56f3a823b1fc8e",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "dc6e67665af4ac66747abfb4e2d6a58020aa87dcba5247defc56f3a823b1fc8e",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      },
+      {
+        "file": "recovery.md",
+        "original_snapshot_sha256": "0260fbf8a566610a6f36c785569d145d3c5fe33c6dab886fdc775896197ca1ff",
+        "original_delivery_path_readable": true,
+        "current_source_sha256": "0260fbf8a566610a6f36c785569d145d3c5fe33c6dab886fdc775896197ca1ff",
+        "current_source_equal_to_snapshot": true,
+        "readable_as_requested_format": true,
+        "original_export_error": false
+      }
+    ]
+  }
+]

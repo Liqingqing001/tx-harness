@@ -1,0 +1,158 @@
+[
+  {
+    "run_id": "T02-yuanbao-3",
+    "file": "exceptions-r2.csv",
+    "time": "2026-11-23T11:14:15.103Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T02-yuanbao-3",
+    "file": "summary-r2.csv",
+    "time": "2026-11-23T11:16:01.201Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T03-yuanbao-1",
+    "file": "manifest.csv",
+    "time": "2026-11-23T11:22:49.587Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T03-yuanbao-1",
+    "file": "people-copy.csv",
+    "time": "2026-11-23T11:20:50.003Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T03-yuanbao-1",
+    "file": "stock-copy.csv",
+    "time": "2026-11-23T11:21:50.081Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T03-yuanbao-3",
+    "file": "fields.md",
+    "time": "2026-11-23T11:51:29.689Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T03-yuanbao-3",
+    "file": "manifest.csv",
+    "time": "2026-11-23T11:51:51.850Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T03-yuanbao-3",
+    "file": "stock-copy.csv",
+    "time": "2026-11-23T11:51:03.838Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T04-yuanbao-1",
+    "file": "actions-r2.csv",
+    "time": "2026-11-23T11:55:28.503Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T04-yuanbao-1",
+    "file": "actions.csv",
+    "time": "2026-11-23T11:54:17.333Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T04-yuanbao-1",
+    "file": "brief-r2.md",
+    "time": "2026-11-23T11:55:44.457Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T04-yuanbao-1",
+    "file": "brief.md",
+    "time": "2026-11-23T11:54:29.039Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T04-yuanbao-2",
+    "file": "actions-r2.csv",
+    "time": "2026-11-23T11:57:57.850Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T04-yuanbao-2",
+    "file": "actions.csv",
+    "time": "2026-11-23T11:56:40.305Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T04-yuanbao-2",
+    "file": "brief-r2.md",
+    "time": "2026-11-23T11:58:04.343Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T04-yuanbao-2",
+    "file": "brief.md",
+    "time": "2026-11-23T11:57:07.441Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T04-yuanbao-3",
+    "file": "actions-r2.csv",
+    "time": "2026-11-23T12:00:24.817Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T04-yuanbao-3",
+    "file": "actions.csv",
+    "time": "2026-11-23T11:59:08.737Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T04-yuanbao-3",
+    "file": "brief-r2.md",
+    "time": "2026-11-23T12:00:55.770Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T04-yuanbao-3",
+    "file": "brief.md",
+    "time": "2026-11-23T11:59:43.900Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T05-yuanbao-1",
+    "file": "items.csv",
+    "time": "2026-11-23T12:02:01.743Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T05-yuanbao-1",
+    "file": "recovery.md",
+    "time": "2026-11-23T12:02:21.653Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T05-yuanbao-2",
+    "file": "items.csv",
+    "time": "2026-11-23T12:03:33.581Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T05-yuanbao-2",
+    "file": "recovery.md",
+    "time": "2026-11-23T12:03:48.303Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T05-yuanbao-3",
+    "file": "items.csv",
+    "time": "2026-11-23T12:05:05.392Z",
+    "kind": "collector_native_export_acknowledgement"
+  },
+  {
+    "run_id": "T05-yuanbao-3",
+    "file": "recovery.md",
+    "time": "2026-11-23T12:05:28.852Z",
+    "kind": "collector_native_export_acknowledgement"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "observed_at": "2026-11-24T10:26:19+08:00",
+  "timezone": "Asia/Shanghai",
+  "original_seal": {
+    "filename": "复评封存.json",
+    "sha256": "e55f86aa4b06aaa2d0ac41d24e5befe0899b8c9028fa33f33f4f6b61586f881d",
+    "bytes": 1035
+  },
+  "mismatch": {
+    "filename": "复评说明.md",
+    "expected": {
+      "filename": "复评说明.md",
+      "sha256": "46394a3f89bc08843278a4366d15d450b05614c171c9007bdb444671b64583d5",
+      "bytes": 3157
+    },
+    "observed_sha256": "a43cbf40c308f230d4bc61271494f751c4dca85c84e26dd5a48d45ec6f8d2480",
+    "observed_bytes": 3184,
+    "observed_last_write_time": "2026-11-24T10:24:19+08:00"
+  },
+  "difference": "末段在“三者SHA-256”后多出“新对话接收匿名材料”9个汉字（27字节）；删除这段后与原封存哈希及长度完全一致。",
+  "cause": "修改者及修改原因未知；文件修改时间不证明修改者。",
+  "preserved_snapshot": "复评说明-不匹配原样留存.md",
+  "repair": "仅删除上述插入文字，恢复原封存字节；保留原封存，新增修订封存。",
+  "csv_validation": "两份CSV实际哈希和长度与原封存一致；本次不改写。"
+}

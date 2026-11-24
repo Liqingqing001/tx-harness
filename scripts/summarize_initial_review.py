@@ -11,12 +11,20 @@ TASKS = dict(T02="订单核对", T03="原样复制", T04="会议修订", T05="�
 
 def main():
     parser = argparse.ArgumentParser(description="Rebuild the task scorecard from recorded per-item judgements.")
-    parser.add_argument("directory", type=Path, nargs="?", default=Path(__file__).resolve().parents[1]/"formal-evidence"/"2026-11-23")
-    out = parser.parse_args().directory
-    with (out / "first-review.csv").open(encoding="utf-8", newline="") as f:
+    parser.add_argument("directory", type=Path, nargs="?")
+    parser.add_argument("--final", action="store_true", help="Summarize sealed adjudicated final-review.csv")
+    args = parser.parse_args()
+    out = args.directory
+    if out is None:
+        root = Path(__file__).resolve().parents[1]
+        date = "2026-11-24" if args.final else "2026-11-23"
+        local = root / "formal-evidence" / date
+        out = local if local.is_dir() else root / "runs/formal-v1.1" / ("review-" + date)
+    review_file = "final-review.csv" if args.final else "first-review.csv"
+    with (out / review_file).open(encoding="utf-8", newline="") as f:
         rows = list(csv.DictReader(f))
     supplement = out / "first-review-supplement.csv"
-    if supplement.exists():
+    if supplement.exists() and not args.final:
         with supplement.open(encoding="utf-8", newline="") as f:
             corrections = {(r["run_id"], r["round"], r["item"]): r for r in csv.DictReader(f)}
         for row in rows:
@@ -41,7 +49,8 @@ def main():
             required.extend(r["status"] for r in observations if (task, r["item"]) != ("T02", "E05"))
         state = "未通过" if "fail" in required else "未决" if "unknown" in required else "通过"
         results[product, task].append((state, mean(lower), mean(upper)))
-    header = ["# 正式实验初评", "", f"已初评 {len(by_run)}/60 场。数字可追溯到[逐项判断](first-review.csv)和[原始交付物](../evidence/)。",
+    stage = "复评裁决后评分" if args.final else "正式实验初评"
+    header = ["# " + stage, "", f"已评 {len(by_run)}/60 场。数字可追溯到[逐项判断]({review_file})和[原始交付物](../evidence/)。",
               "", "每格依次为通过／未通过／未决场次及结果分下上界。每轮观察项等权，两轮各占一半，同一任务按场取平均。区间反映证据缺口。", "",
               "| 产品 | " + " | ".join(TASKS.values()) + " |", "| --- | --- | --- | --- | --- |"]
     for p, label in PRODUCTS.items():
@@ -57,7 +66,7 @@ def main():
             values.append(f"{freq['通过']}/{freq['未通过']}/{freq['未决']} · {score}")
         header.append(f"| {label} | " + " | ".join(values) + " |")
     if all(len(results[p,t]) == 3 for p in PRODUCTS for t in TASKS):
-        overview = ["### 五款产品初评", "", "每题权重 25%。完成率下界只计已通过，上界还含未决。", "",
+        overview = ["### 五款产品" + ("最终评分" if args.final else "初评"), "", "每题权重 25%。完成率下界只计已通过，上界还含未决。", "",
                     "| 产品 | 通过／未通过／未决 | 完成率下上界 | 综合分下上界 |", "| --- | --- | ---: | ---: |"]
         for p,label in PRODUCTS.items():
             samples = [r for t in TASKS for r in results[p,t]]
@@ -80,7 +89,10 @@ def main():
             known=c["pass"]+c["fail"]
             header.append(f"| {label} | {known}/{sum(c.values())} | {c['pass']}/{known} |")
     header.extend(["", "元宝云端附件的前后哈希多数只能核实上传源，未知项保留在分母。WorkBuddy 首场订单题的旧文件保留情况也有采集时点争议。能证实的失败与缺证据的未决分开计算。", "",
+                   "570 项匿名复评已封存，92 项差异逐项裁决。其中 89 项为匿名包漏收取件证据，补充原生交付记录后通过。保留未决项，无严格总排名。[差异裁决](adjudications.csv) · [所有待裁决问题的处理](issues-decisions.csv) · [封存记录](final-review-lock.json)" if args.final else
                    "初评后补查的原生答复单列于[补证记录](first-review-supplement.csv)，保留了初评原值。正式匿名复评与分歧裁决另行记录。"])
+    if args.final:
+        header.extend(["", "在仓库根目录运行以下命令可复算本表。", "", "```text", "python scripts/summarize_initial_review.py runs/formal-v1.1/review-2026-11-24 --final", "```"])
     (out / "scorecard.md").write_text("\n".join(header)+"\n", "utf-8")
 
 

@@ -1,0 +1,14 @@
+{
+  "thread_id": "01a20b53-6231-75f1-b8d6-f532906bb2e1",
+  "host_id": "local",
+  "project": "harness对比",
+  "created_and_observed_active_at_utc": "2026-11-24 02:12:44 UTC",
+  "input_directory": "D:\\新建文件夹\\formal-blind-review",
+  "output_directory": "D:\\新建文件夹\\formal-blind-review-submission-20261124",
+  "model_requested": "客户端默认；用户未指定具体模型",
+  "observed_status": "active / inProgress",
+  "review_items": 570,
+  "reviewed_before_start": 0,
+  "amendment": "review-amendment.md",
+  "scope": "新对话AI匿名复评；原方案同人24小时间隔条款保留，未声称满足该间隔"
+}

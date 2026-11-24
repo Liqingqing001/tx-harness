@@ -1,0 +1,212 @@
+[
+  {
+    "run_id": "T02-workbuddy-1",
+    "round": "1",
+    "kind": "native_present_files",
+    "time": 1795150970443,
+    "files": [
+      "summary.csv",
+      "exceptions.csv",
+      "report.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T02-workbuddy-1",
+    "round": "2",
+    "kind": "native_present_files",
+    "time": 1795151583718,
+    "files": [
+      "summary-r2.csv",
+      "exceptions-r2.csv",
+      "report-r2.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T03-workbuddy-2",
+    "round": "1",
+    "kind": "native_present_files",
+    "time": 1795432417450,
+    "files": [
+      "people-copy.csv",
+      "stock-copy.csv",
+      "fields.md",
+      "manifest.csv"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T02-workbuddy-2",
+    "round": "1",
+    "kind": "native_present_files",
+    "time": 1795153031182,
+    "files": [
+      "report.md",
+      "summary.csv",
+      "exceptions.csv"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T02-workbuddy-2",
+    "round": "2",
+    "kind": "native_present_files",
+    "time": 1795153121833,
+    "files": [
+      "report-r2.md",
+      "summary-r2.csv",
+      "exceptions-r2.csv"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T04-workbuddy-2",
+    "round": "1",
+    "kind": "native_present_files",
+    "time": 1795433337290,
+    "files": [
+      "actions.csv",
+      "brief.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T04-workbuddy-2",
+    "round": "2",
+    "kind": "native_present_files",
+    "time": 1795433456366,
+    "files": [
+      "actions-r2.csv",
+      "brief-r2.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T05-workbuddy-1",
+    "round": "1",
+    "kind": "native_present_files",
+    "time": 1795434215859,
+    "files": [
+      "items.csv",
+      "recovery.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T05-workbuddy-3",
+    "round": "1",
+    "kind": "native_present_files",
+    "time": 1795434391261,
+    "files": [
+      "items.csv",
+      "recovery.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T04-workbuddy-3",
+    "round": "1",
+    "kind": "native_present_files",
+    "time": 1795433666515,
+    "files": [
+      "actions.csv",
+      "brief.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T04-workbuddy-3",
+    "round": "2",
+    "kind": "native_present_files",
+    "time": 1795433773654,
+    "files": [
+      "actions-r2.csv",
+      "brief-r2.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T03-workbuddy-1",
+    "round": "1",
+    "kind": "native_present_files",
+    "time": 1795431586644,
+    "files": [
+      "people-copy.csv",
+      "stock-copy.csv",
+      "fields.md",
+      "manifest.csv"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T04-workbuddy-1",
+    "round": "1",
+    "kind": "native_present_files",
+    "time": 1795433119987,
+    "files": [
+      "actions.csv",
+      "brief.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T04-workbuddy-1",
+    "round": "2",
+    "kind": "native_present_files",
+    "time": 1795433283783,
+    "files": [
+      "actions-r2.csv",
+      "brief-r2.md"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T02-workbuddy-3",
+    "round": "1",
+    "kind": "native_present_files",
+    "time": 1795430379260,
+    "files": [
+      "report.md",
+      "summary.csv",
+      "exceptions.csv"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T02-workbuddy-3",
+    "round": "2",
+    "kind": "native_present_files",
+    "time": 1795430494981,
+    "files": [
+      "report-r2.md",
+      "summary-r2.csv",
+      "exceptions-r2.csv"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T03-workbuddy-3",
+    "round": "1",
+    "kind": "native_present_files",
+    "time": 1795433038954,
+    "files": [
+      "people-copy.csv",
+      "stock-copy.csv",
+      "fields.md",
+      "manifest.csv"
+    ],
+    "result": "success"
+  },
+  {
+    "run_id": "T05-workbuddy-2",
+    "round": "1",
+    "kind": "native_present_files",
+    "time": 1795434331594,
+    "files": [
+      "items.csv",
+      "recovery.md"
+    ],
+    "result": "success"
+  }
+]
